@@ -27,16 +27,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="1372.5"
-     inkscape:cy="540.5"
+     inkscape:zoom="0.79322917"
+     inkscape:cx="960"
+     inkscape:cy="540.19698"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      units="px"
      inkscape:lockguides="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1017"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -615,7 +615,7 @@
      transform="translate(0,-91.799988)"
      style="display:inline">
     <g
-       transform="translate(470,230)"
+       transform="translate(470,250)"
        id="g935">
       <rect
          y="261.79999"
@@ -681,7 +681,7 @@
            sodipodi:role="line">Grey</tspan></text>
     </g>
     <g
-       transform="translate(-130,34.60001)"
+       transform="translate(-130,54.60001)"
        id="g990">
       <rect
          style="vector-effect:none;fill:#db9d61;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -703,7 +703,7 @@
            id="tspan902">Orange</tspan></text>
     </g>
     <g
-       transform="translate(70,230)"
+       transform="translate(70,270)"
        id="g970">
       <rect
          style="opacity:1;vector-effect:none;fill:#c76199;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -725,7 +725,7 @@
            id="tspan910">Pink</tspan></text>
     </g>
     <g
-       transform="translate(-330,230)"
+       transform="translate(-330,270)"
        id="g977">
       <rect
          y="461.79999"
@@ -747,7 +747,7 @@
            sodipodi:role="line">Purple</tspan></text>
     </g>
     <g
-       transform="translate(-530,30)"
+       transform="translate(-530,50)"
        id="g984">
       <rect
          style="opacity:1;vector-effect:none;fill:#c15b58;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -791,14 +791,14 @@
            style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1">Sand</tspan></text>
     </g>
     <rect
-       y="691.79999"
+       y="731.79999"
        x="690"
        height="180"
        width="180"
        id="rect840"
        style="vector-effect:none;fill:#767676;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
-       transform="translate(470,230)"
+       transform="translate(470,250)"
        id="g942">
       <rect
          y="261.79999"
@@ -820,7 +820,7 @@
            sodipodi:role="line">Blue</tspan></text>
     </g>
     <g
-       transform="translate(470,30)"
+       transform="translate(470,70)"
        id="g983">
       <rect
          y="661.79999"
@@ -866,12 +866,13 @@
     <image
        preserveAspectRatio="none"
        inkscape:svg-dpi="96"
-       width="706.875"
-       height="580"
+       width="780"
+       height="640"
        xlink:href="Mint-Y-Variations-src-3.svg"
        id="image1295"
        x="1050"
-       y="291.79999" />
+       y="271.79999"
+       style="stroke-width:0.90625" />
   </g>
   <g
      inkscape:groupmode="layer"
