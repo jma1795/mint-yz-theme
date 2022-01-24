@@ -249,7 +249,7 @@ NautilusListView .view { border-bottom: 1px solid $borders_color; }
 
   .nemo-window-pane widget.entry {
     border: 1px solid;
-    border-radius: 3px;
+    border-radius: 5px;
 
     @include entry(focus);
 
