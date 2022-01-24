@@ -22,7 +22,7 @@ $asset_suffix: if($variant=='dark', '-dark', ''); // use dark assets in dark var
 
   // We use the outline properties to signal the focus properties
   outline-color: transparentize($fg_color, 0.7);
-  outline-style: dashed;
+  outline-style: none; // was: dashed
   outline-offset: -3px;
   outline-width: 1px;
   -gtk-outline-radius: 4px;
@@ -339,6 +339,9 @@ button {
   border: 1px solid;
   border-radius: 5px;
   padding: 5px 8px;
+  outline-color: $button_active_bg; // $button_active_bg defined in _colors.scss in buttonscolor branch
+  outline-style: solid; // Mint-Yz
+
 
   @include button(normal);
 
