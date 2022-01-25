@@ -24,7 +24,7 @@
 
 <!-- close -->
 <constant name="C_button_close_bg_focused" value="gtk:custom(wm_title,#404040)" />
-<constant name="C_button_close_bg_hover" value="red" />
+<constant name="C_button_close_bg_hover" value="gtk:custom(destructive_color,#F92031)" />
 <constant name="C_button_close_bg_active" value="gtk:custom(wm_title_unfocused,#9d9d9d)" />
 
 <constant name="C_icon_close_bg" value="gtk:custom(wm_icon_close_bg,#F8F8F8)" />
