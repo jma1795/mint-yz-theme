@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    sodipodi:docname="messages-colors.svg"
-   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
    id="svg8"
    version="1.1"
    viewBox="0 0 1200 900"
@@ -21,16 +21,16 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="839"
-     inkscape:window-width="1440"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
      inkscape:lockguides="false"
      units="px"
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="450.5"
-     inkscape:cx="1152"
-     inkscape:zoom="1"
+     inkscape:cy="450"
+     inkscape:cx="603.30396"
+     inkscape:zoom="0.75666667"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -301,7 +301,7 @@
          x="810"
          y="347.95624"
          id="tspan948"
-         style="line-height:50px">$warning_color: #FF780A;</tspan><tspan
+         style="line-height:50px">$warning_color: #FF791A;</tspan><tspan
          sodipodi:role="line"
          x="810"
          y="397.95624"
@@ -311,7 +311,7 @@
          x="810"
          y="447.95624"
          id="tspan952"
-         style="line-height:50px">$error_color: #F92031;</tspan><tspan
+         style="line-height:50px">$error_color: #FF1A2C;</tspan><tspan
          sodipodi:role="line"
          x="810"
          y="497.95624"
@@ -326,7 +326,7 @@
          x="810"
          y="597.95624"
          id="tspan958"
-         style="line-height:50px">$destructive_color: #F92031;</tspan><tspan
+         style="line-height:50px">$destructive_color: #FF1A2C;</tspan><tspan
          sodipodi:role="line"
          x="810"
          y="647.95624"
@@ -346,7 +346,7 @@
          sodipodi:role="line"
          x="810"
          y="797.95624"
-         style="line-height:50px">$drop_target_color: #FF780A;</tspan></text>
+         style="line-height:50px">$drop_target_color: #FF791A;</tspan></text>
     <rect
        style="fill:#00ade5;stroke-width:0.82903504"
        id="rect966"
@@ -377,7 +377,7 @@
        height="40"
        width="150"
        id="rect970"
-       style="fill:#f92031;stroke-width:0.82903504" />
+       style="fill:#ff1a2c;stroke-width:0.82903504;fill-opacity:1" />
     <rect
        inkscape:tile-y0="678"
        inkscape:tile-x0="50"
@@ -404,7 +404,7 @@
        height="40"
        width="150"
        id="rect976"
-       style="fill:#f92031;stroke-width:0.82903504" />
+       style="fill:#ff1a2c;stroke-width:0.82903504;fill-opacity:1" />
     <rect
        inkscape:tile-y0="678"
        inkscape:tile-x0="50"
@@ -422,7 +422,7 @@
        height="40"
        width="150"
        id="rect980"
-       style="fill:#ff780a;stroke-width:0.829035" />
+       style="fill:#ff791a;stroke-width:0.829035;fill-opacity:1" />
     <rect
        inkscape:tile-y0="678"
        inkscape:tile-x0="50"
@@ -493,6 +493,6 @@
        height="40"
        width="150"
        id="rect1010"
-       style="fill:#ff780a;stroke-width:0.82903504" />
+       style="fill:#ff791a;stroke-width:0.82903504;fill-opacity:1" />
   </g>
 </svg>
