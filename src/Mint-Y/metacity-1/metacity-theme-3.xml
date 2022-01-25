@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <metacity_theme>
 <info>
-  <name>Mint-Y</name>
-  <author>Linux Mint</author>
+  <name>Mint-Yz</name>
+  <author>LinuxMint</author>
   <copyright>GPL</copyright>
-  <date>September 2021</date>
+  <date>January 2022</date>
   <description>A pleasant theme built to adapt to many color schemes as well as be optimal for both high and low resolution displays.</description>
 </info>
 
@@ -23,9 +23,9 @@
 <!-- window button colors -->
 
 <!-- close -->
-<constant name="C_button_close_bg_focused" value="gtk:custom(selected_bg_color,#92b372)" />
-<constant name="C_button_close_bg_hover" value="shade/gtk:custom(selected_bg_color,#92b372)/1.14" />
-<constant name="C_button_close_bg_active" value="shade/gtk:custom(selected_bg_color,#92b372)/0.8" />
+<constant name="C_button_close_bg_focused" value="gtk:custom(wm_title,#404040)" />
+<constant name="C_button_close_bg_hover" value="red" />
+<constant name="C_button_close_bg_active" value="gtk:custom(wm_title_unfocused,#9d9d9d)" />
 
 <constant name="C_icon_close_bg" value="gtk:custom(wm_icon_close_bg,#F8F8F8)" />
 
