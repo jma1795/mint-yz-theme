@@ -40,7 +40,7 @@
 
 <!-- ::: GEOMETRY ::: -->
 
-<frame_geometry name="normal" title_scale="medium" rounded_top_left="8" rounded_top_right="8">
+<frame_geometry name="normal" title_scale="medium" rounded_top_left="0" rounded_top_right="0">
 	<distance name="left_width" value="1" />
 	<distance name="right_width" value="1" />
 	<distance name="bottom_height" value="1" />
@@ -102,7 +102,7 @@
 	<border name="button_border" left="0" right="0" top="0" bottom="0"/>
 </frame_geometry>
 
-<frame_geometry name="attached" title_scale="medium" hide_buttons="true" rounded_top_left="5" rounded_top_right="5" rounded_bottom_left="4" rounded_bottom_right="4" parent="normal">
+<frame_geometry name="attached" title_scale="medium" hide_buttons="true" parent="normal">
 </frame_geometry>
 
 <!-- ::: BACKGROUND ::: -->
