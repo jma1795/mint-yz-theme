@@ -22,10 +22,10 @@ $asset_suffix: if($variant=='dark', '-dark', ''); // use dark assets in dark var
 
   // We use the outline properties to signal the focus properties
   outline-color: transparentize($fg_color, 0.7);
-  outline-style: dashed;
+  outline-style: none; // was: dashed
   outline-offset: -3px;
   outline-width: 1px;
-  -gtk-outline-radius: 2px;
+  -gtk-outline-radius: 4px;
 }
 
 
@@ -197,10 +197,10 @@ entry {
   padding: 5px 8px;
 
   caret-color: currentColor;
-  border-radius: 3px;
+  border-radius: 5px;
   transition: all 200ms $ease-out-quad;
 
-  &.search { border-radius: 4px; }
+  &.search { border-radius: 5px; }
 
   @include entry(normal);
 
@@ -337,8 +337,11 @@ button {
   min-width: 20px;
   transition: $button_transition;
   border: 1px solid;
-  border-radius: 3px;
+  border-radius: 5px;
   padding: 5px 8px;
+  outline-color: $button_active_bg; // $button_active_bg defined in _colors.scss in buttonscolor branch
+  outline-style: solid; // Mint-Yz
+
 
   @include button(normal);
 
@@ -374,6 +377,11 @@ button {
 
     &:not(:disabled) label:disabled { color: inherit; opacity: 0.6; }
   }
+
+  //Webkitgtk workaround start
+  &:active { color: $fg_color; }
+  &:active:hover, &:checked { color: $selected_fg_color; }
+  //Webkitgtk workaround end
 
   @at-root %button_basic_flat,
   &.flat:disabled { @include button(undecorated); }
@@ -556,7 +564,7 @@ button {
 
   //inline-toolbar buttons
   .inline-toolbar &, .inline-toolbar &:backdrop {
-    border-radius: 2px;
+    border-radius: 5px;
     border-width: 1px;
     @extend %linked;
   }
@@ -603,22 +611,22 @@ toolbar.inline-toolbar toolbutton {
 }
 
 %linked_left {
-  border-top-left-radius: 3px;
-  border-bottom-left-radius: 3px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
   border-top-right-radius: 0;
   border-bottom-right-radius: 0;
 }
 
 %linked_right {
-  border-top-right-radius: 3px;
-  border-bottom-right-radius: 3px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
   border-right-style: solid;
 }
 
 %linked_only_child {
-  border-radius: 3px;
+  border-radius: 5px;
   border-style: solid;
 }
 
@@ -636,18 +644,18 @@ toolbar.inline-toolbar toolbutton {
 }
 
 %linked_vertical_top {
-  border-top-left-radius: 3px;
-  border-top-right-radius: 3px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
 }
 
 %linked_vertical_bottom {
-  border-bottom-left-radius: 3px;
-  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
   border-bottom-style: solid;
 }
 
 %linked_vertical_only_child {
-  border-radius: 3px;
+  border-radius: 5px;
   border-style: solid;
 }
 
@@ -674,7 +682,7 @@ modelbutton.flat {
   padding-left: 8px;
   padding-right: 8px;
   outline-offset: -3px;
-  border-radius: 2px;
+  border-radius: 5px;
 
   @extend %undecorated_button;
 
@@ -738,7 +746,7 @@ button:link, button:visited {
 spinbutton {
   &:drop(active) { box-shadow: none; }
 
-  // button:active { color: $selected_fg_color; }
+  button:active { color: $selected_fg_color; }
   &:disabled { color: $insensitive_fg_color; }
 
   &:not(.vertical) {
@@ -747,7 +755,7 @@ spinbutton {
     button, entry { @extend %linked; }
 
     &:dir(ltr) entry,
-    &:dir(rtl) button.up { border-radius: 3px 0 0 3px; }
+    &:dir(rtl) button.up { border-radius: 5px 0 0 5px; }
 
     > button + button { border-left-style: none; }
 
@@ -787,7 +795,7 @@ spinbutton {
       @extend %linked_vertical;
     }
 
-    button.up { border-radius: 3px 3px 0 0; }
+    button.up { border-radius: 5px 5px 0 0; }
 
     > entry:focus + button { border-top-color: if($variant=='light', $selected_bg_color, $entry_border); }
 
@@ -842,7 +850,7 @@ toolbar {
   &.osd {
     padding: 7px;
     border: 1px solid transparentize(black, 0.5);
-    border-radius: 3px;
+    border-radius: 5px;
     background-color: transparentize($osd_bg_color, 0.1);
 
     &.left,
@@ -893,7 +901,7 @@ toolbar {
   border-color: $borders_color;
   border-width: 0 1px 1px;
   padding: 3px;
-  border-radius: 0  0 3px 3px;
+  border-radius: 0  0 5px 5px;
 }
 
 searchbar {
@@ -1186,7 +1194,7 @@ headerbar {
   // Reset buttons
   .linked:not(.vertical):not(.path-bar) > button {
     &, &:hover, &:active, &:checked, &:disabled {
-      border-radius: 3px;
+      border-radius: 5px;
       border-style: solid;
     }
   }
@@ -1661,7 +1669,7 @@ menu,
   }
 }
 
-.csd .popup { border-radius: 2px; }
+.csd .popup { border-radius: 5px; }
 
 //
 // Popovers
@@ -1671,7 +1679,7 @@ popover.background {
   $_popover_bg: if($variant=='light', $base_color, $bg_color);
   padding: 2px;
   // border: 1px solid darken($borders_color, 5%);
-  border-radius: 3px;
+  border-radius: 5px;
   background-clip: border-box;
   background-color: $_popover_bg;
 
@@ -2481,7 +2489,7 @@ expander {
 calendar {
   color: $fg_color;
   border: 1px solid $borders_color;
-  border-radius: 3px;
+  border-radius: 5px;
   padding: 2px;
 
   &:selected {
@@ -2553,11 +2561,11 @@ calendar {
       border-bottom-style: none;
     }
     %last_button {
-      border-bottom-right-radius: 3px;
+      border-bottom-right-radius: 5px;
     }
     %first_button {
       border-left-style: none;
-      border-bottom-left-radius: 3px;
+      border-bottom-left-radius: 5px;
     }
   }
 }

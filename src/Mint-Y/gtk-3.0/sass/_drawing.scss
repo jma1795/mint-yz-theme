@@ -133,7 +133,7 @@
   // normal button
   //
     color: $fg_color;
-    outline-color: transparentize($fg_color, 0.7);
+    outline-color: $button_active_bg;
     border-color: $button_border;
     background-color: $button_bg;
   }
@@ -143,7 +143,7 @@
   // hovered button
   //
     color: $fg_color;
-    outline-color: transparentize($fg_color, 0.7);
+    outline-color: $button_active_bg;
     border-color: $button_border;
     background-color: lighten($button_bg, 5%);
   }
@@ -152,9 +152,8 @@
   //
   // pushed button
   //
-    color: $fg_color;
-    outline-color: transparentize($fg_color, 0.7);
-
+    color: $selected_fg_color;
+    outline-color: $selected_fg_color;
     border-color: $button_active_border;
     background-color: $button_active_bg;
   }
@@ -174,9 +173,9 @@
   //
   // insensitive pushed button
   //
-    color: transparentize($fg_color, 0.2);
-    border-color: transparentize($button_active_border, 0.15);
-    background-color: transparentize($button_active_bg, 0.05);
+    color: transparentize($selected_fg_color, 0.2);
+    border-color: transparentize($button_active_border, 0.25);
+    background-color: transparentize($button_active_bg, 0.25);
 
     opacity: 0.6;
 
@@ -188,7 +187,7 @@
   // normal header-bar button
   //
     color: $header_fg;
-    outline-color: transparentize($header_fg, 0.7);
+    outline-color: $button_active_bg;
     outline-offset: -3px;
     background-color: transparentize($header_bg, 1);
     border-color: transparentize($header_bg, 1);
@@ -199,7 +198,7 @@
   // hovered header-bar button
   //
     color: $header_fg;
-    outline-color: transparentize($header_fg, 0.7);
+    outline-color: $button_active_bg;
     border-color: $header_button_border;
     background-color: $header_button_bg;
   }
@@ -208,8 +207,8 @@
   //
   // pushed header-bar button
   //
-    color: $header_fg;
-    outline-color: transparentize($header_fg, 0.7);
+    color: $selected_fg_color;
+    outline-color: $selected_fg_color;
     border-color: if($variant=='light', $header_button_border, $header_button_border);
     background-color: $button_active_bg;
   }
@@ -229,9 +228,9 @@
   //
   // header-bar insensitive pushed button
   //
-    color: transparentize($fg_color, 0.2);
-    border-color: transparentize($button_active_border, 0.15);
-    background-color: transparentize($button_active_bg, 0.05);
+    color: transparentize($selected_fg_color, 0.25);
+    border-color: transparentize($button_active_border, 0.35);
+    background-color: transparentize($button_active_bg, 0.35);
   }
 
   @else if $t==osd {
@@ -239,7 +238,7 @@
   // normal osd button
   //
     color: $osd_fg_color;
-    outline-color: transparentize($osd_fg_color, 0.7);
+    outline-color: $button_active_bg;
     border-color: $osd_button_border;
     background-color: $osd_button_bg;
   }
@@ -248,10 +247,10 @@
   //
   // active osd button
   //
-    color: $osd_fg_color;
-    outline-color: transparentize($osd_fg_color, 0.7);
+    color: $selected_fg_color;
+    outline-color: $selected_fg_color;
     border-color: $osd_button_border;
-    background-color: opacify(lighten($osd_button_bg, 7%), 0.1);
+    background-color: $selected_bg_color;
   }
 
   @else if $t==osd-active {
@@ -259,7 +258,7 @@
   // active osd button
   //
     color: $osd_fg_color;
-    outline-color: transparentize($osd_fg_color, 0.7);
+    outline-color: $selected_fg_color;
     border-color: $osd_button_border;
     background-color: transparentize(black, 0.85);
   }
@@ -280,7 +279,7 @@
     background-clip: border-box;
 
     color: $selected_fg_color;
-    outline-color: transparentize($selected_fg_color, 0.7);
+    outline-color: $selected_fg_color;
     background-color: $actionb_color;
     border-color: $actionb_color;
   }
