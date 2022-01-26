@@ -23,9 +23,9 @@
 <!-- window button colors -->
 
 <!-- close -->
-<constant name="C_button_close_bg_focused" value="gtk:custom(wm_title,#404040)" />
-<constant name="C_button_close_bg_hover" value="gtk:custom(destructive_color,#F92031)" />
-<constant name="C_button_close_bg_active" value="gtk:custom(wm_title_unfocused,#9d9d9d)" />
+<constant name="C_button_close_bg_focused" value="gtk:custom(selected_bg_color,#92b372)" />
+<constant name="C_button_close_bg_hover" value="shade/gtk:custom(selected_bg_color,#92b372)/1.14" />
+<constant name="C_button_close_bg_active" value="shade/gtk:custom(selected_bg_color,#92b372)/0.8" />
 
 <constant name="C_icon_close_bg" value="gtk:custom(wm_icon_close_bg,#F8F8F8)" />
 
