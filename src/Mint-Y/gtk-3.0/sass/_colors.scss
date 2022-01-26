@@ -106,17 +106,18 @@ $wm_border_unfocused: lighten($header_border, 5%);
 //WM Buttons
 
 // Close
-$wm_button_close_bg: $selected_bg_color;
-$wm_button_close_hover_bg: lighten($selected_bg_color, 14%);
-$wm_button_close_active_bg: darken($selected_bg_color, 20%);
+// $wm_button_close_bg: $selected_bg_color;
+$wm_button_close_hover_bg: #ff1a2c;
+$wm_button_close_active_bg: #ff791a;
 
-$wm_icon_close_bg: #f8f8f8;
+$wm_icon_close_bg: #ffffff;
 
 // Minimize, Maximize
 $wm_button_hover_bg: if($variant == 'light', #fdfdfd, #4c4c4c);
 $wm_button_active_bg: if($variant == 'light', #909090, #949494);
 
-$wm_icon_bg: if($variant == 'light', #404040, #909090);
-$wm_icon_unfocused_bg: if($variant == 'light', #b6b6b6, #555555);
-$wm_icon_hover_bg: if($variant == 'light', #404040, #C4C7CC);
-$wm_icon_active_bg: #ffffff
+$wm_icon_bg: $wm_title;
+$wm_icon_unfocused_bg: $wm_title_unfocused;
+$wm_icon_hover_bg: $wm_title;
+$wm_icon_active_bg: #ffffff;
+
