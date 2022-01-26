@@ -96,7 +96,7 @@ $trough_color: if($variant == 'light', #ffffff, darken($bg_color, 5%));
 // WM Colors
 
 $wm_title: if($variant == 'light', #404040, $fg_color);
-$wm_title_unfocused: if($variant == 'light', #9d9d9d, #a7a7a7);
+$wm_title_unfocused: if($variant == 'light', #9d9d9d, #606060);
 $wm_bg: $header_bg;
 $wm_bg_unfocused: $header_bg;
 $wm_highlight: $header_highlight;
