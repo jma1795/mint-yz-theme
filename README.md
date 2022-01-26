@@ -1,6 +1,10 @@
 # Mint-Yz: The New Colors of a New Era (GTK theme)
 
-**WORK_IN_PROGRESS:** The new Mint-Yz, version 3.0, with all the upddates from the new Mint-Y, with some improvements, one undo (I want colored active buttons!), and a more organized method under the hood. This version 3.0 should be ready sometime before the end of winter. (You can still easily install this Debian package while waiting... Please stay tuned !)
+**WORK IN PROGRESS: major overhaul**
+The default branch got moved from newflat to master. And this master branch is currently being rebuild. So, it may look like there isn't much difference between the official Mint-Y and this redesigned and re-engineered Mint-Yz, because many Mint-Yz improvements are currently waiting to be merged from different branches. They are currently being tested before merging.
+
+**Coming up**
+The new Mint-Yz, version 3.0, should be ready sometime before the end of winter. It with get all the upddates from the new Mint-Y, plus some improvements, and one undo (I want colored active buttons!), and a more organized method under the hood. You can still easily install the latest stable version while waiting... Please stay tuned !
 
 Don't miss the **Mint-Yz-icons** with the same color scheme: https://github.com/SebastJava/mint-yz-icons
 
