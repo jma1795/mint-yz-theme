@@ -106,7 +106,7 @@ $wm_border_unfocused: lighten($header_border, 5%);
 //WM Buttons
 
 // Close
-// $wm_button_close_bg: $selected_bg_color;
+$wm_button_close_bg: $selected_bg_color;
 $wm_button_close_hover_bg: #ff1a2c;
 $wm_button_close_active_bg: #ff791a;
 
