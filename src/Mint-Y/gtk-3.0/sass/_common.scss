@@ -3122,8 +3122,9 @@ headerbar,
   }
 
   button.titlebutton {
-    $_wm_backdrop_icon_color: if($variant == 'light', darken($wm_icon_unfocused_bg, 5%), lighten($wm_icon_unfocused_bg, 5%));
-
+    $_wm_backdrop_icon_color: $wm_icon_unfocused_bg;
+    // Mint-Yz: $_wm_backdrop_icon_color = $wm_icon_unfocused_bg = $wm_title_unfocused (in _colors.scss)
+    // Same as src/Mint-Y/metacity-1/metacity-theme-3.xml
     min-width: 18px;
     min-height: 18px;
     @extend .image-button;
@@ -3164,17 +3165,10 @@ headerbar,
 
     &.maximize,
     &.minimize {
-      &:hover,
-      &:hover:backdrop {
-        @include draw-circle($wm_button_hover_bg);
-      }
-      &:active,
-      &:active:backdrop {
-        @include draw-circle($wm_button_active_bg);
-      }
-      &:backdrop {
-        color: $_wm_backdrop_icon_color;
-      }
+      &:backdrop { color: $_wm_backdrop_icon_color; }
+      &:hover, &:hover:backdrop { @include draw-circle($wm_button_hover_bg); }
+      &:hover:backdrop { color: $wm_icon_hover_bg; }
+      &:active, &:active:backdrop { @include draw-circle($wm_button_active_bg); color: $wm_icon_active_bg; }
     }
   }
 }
