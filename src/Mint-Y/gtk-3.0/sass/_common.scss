@@ -1044,7 +1044,7 @@ headerbar,
 }
 
 .titlebar {
-  border-radius: 8px 8px 0 0;
+  border-radius: 0px 0px 0 0;
 }
 
 headerbar {
@@ -1059,7 +1059,7 @@ headerbar {
   separator:first-child + &,
   &:first-child {
     &, &:backdrop {
-      border-top-left-radius: 8px;
+      border-top-left-radius: 0px;
 
       .maximized &,
       .tiled & { border-radius: 0; }
@@ -1068,7 +1068,7 @@ headerbar {
 
   &:last-child {
     &, &:backdrop {
-      border-top-right-radius: 8px;
+      border-top-right-radius: 0px;
 
       .maximized &,
       .tiled & { border-radius: 0; }
@@ -3057,7 +3057,7 @@ button.circular-button,
 // Window Decorations
 //
 decoration {
-  border-radius: 8px 8px 0 0;
+  border-radius: 0px 0px 0 0;
   border-width: 0px;
 
   $_wm_border: if($variant=='light', transparentize(black, 0.80), transparentize(black, 0.65));
@@ -3092,7 +3092,7 @@ decoration {
   }
   // server-side decorations as used by mutter
   .ssd & {
-    border-radius: 8px 8px 0 0;
+    border-radius: 0px 0px 0 0;
     box-shadow: 0 0 0 1px if($variant == 'dark', transparentize(black, 0.35), $wm_border);
 
     &.maximized { border-radius: 0; }
@@ -3130,8 +3130,9 @@ headerbar,
   }
 
   button.titlebutton {
-    $_wm_backdrop_icon_color: if($variant == 'light', darken($wm_icon_unfocused_bg, 5%), lighten($wm_icon_unfocused_bg, 5%));
-
+    $_wm_backdrop_icon_color: $wm_icon_unfocused_bg;
+    // Mint-Yz: $_wm_backdrop_icon_color = $wm_icon_unfocused_bg = $wm_title_unfocused (in _colors.scss)
+    // Same as src/Mint-Y/metacity-1/metacity-theme-3.xml
     min-width: 18px;
     min-height: 18px;
     @extend .image-button;
@@ -3161,27 +3162,21 @@ headerbar,
     }
 
     &.close {
-      color: $selected_fg_color;
-      @include draw_circle($selected_bg_color);
-
-      &:hover { @include draw-circle(lighten($selected_bg_color, 5%)); }
-      &:active { @include draw-circle(darken($selected_bg_color, 5%)); }
-      &:backdrop { @include draw-circle($_wm_backdrop_icon_color); }
+      &:hover, &:hover:backdrop {
+        color: $wm_icon_close_bg; @include draw-circle($wm_button_close_hover_bg);
+      }
+      &:active, &:active:backdrop {
+        color: $wm_icon_close_bg; @include draw-circle($wm_button_close_active_bg);
+      }
+      &:backdrop { color: $_wm_backdrop_icon_color; }
     }
 
     &.maximize,
     &.minimize {
-      &:hover,
-      &:hover:backdrop {
-        @include draw-circle($wm_button_hover_bg);
-      }
-      &:active,
-      &:active:backdrop {
-        @include draw-circle($wm_button_active_bg);
-      }
-      &:backdrop {
-        color: $_wm_backdrop_icon_color;
-      }
+      &:backdrop { color: $_wm_backdrop_icon_color; }
+      &:hover, &:hover:backdrop { @include draw-circle($wm_button_hover_bg); }
+      &:hover:backdrop { color: $wm_icon_hover_bg; }
+      &:active, &:active:backdrop { @include draw-circle($wm_button_active_bg); color: $wm_icon_active_bg; }
     }
   }
 }
