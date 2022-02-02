@@ -14,8 +14,8 @@ $fg_color: if($variant =='light', transparentize(black, 0.13), transparentize(wh
 
 $selected_bg_color: if($variant == 'light', #92b372, #8fa876);
 $selected_fg_color: #ffffff;
+$selected_borders_color: $selected_bg_color;
 $borders_color: if($variant =='light', darken($bg_color, 18%), darken($bg_color,6%));
-$selected_borders_color: $borders_color;
 $separator_color: if($variant == 'light', #DFDFDF, darken($bg_color, 6%));
 
 $link_color: #1A7EE5;
@@ -76,17 +76,17 @@ $osd_borders_color: transparentize(black, 0.3);
 $panel_bg: #2f2f2f;
 $panel_fg: #DADADA;
 
-$entry_bg: if($variant=='light', $base_color, lighten($base_color, 0%));
+$entry_bg: if($variant=='light', $base_color, lighten($base_color, 3%));
 $entry_border: $borders_color;
 
 $header_entry_bg: if($variant == 'dark', transparentize(lighten($header_bg, 22%), 0.6), transparentize($base_color, 0.1));
 $header_entry_border: if($variant == 'dark', transparentize(darken($header_bg, 12%), 0.6), transparentize($header_fg, 0.7));
 
-$button_bg: if($variant == 'light', lighten($bg_color, 6%), lighten($bg_color, 6%));
+$button_bg: if($variant=='light', $base_color, lighten($base_color, 3%));
 $button_border: $borders_color;
 $button_active_bg: $selected_bg_color;
-$button_active_border: $selected_borders_color;
-// $header_button_bg: if($variant == 'light', #f5f5f5, #303030);
+$button_active_border: $button_border;
+
 $header_button_bg: if($variant == 'light', lighten($header_bg, 5%), lighten($header_bg, 10%));
 $header_button_border: if($variant =='light', darken($header_bg, 18%), darken($header_bg,6%));
 
