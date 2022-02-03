@@ -281,7 +281,7 @@
     color: $selected_fg_color;
     outline-color: $selected_fg_color;
     background-color: $actionb_color;
-    border-color: $actionb_color;
+    border-color: $button_border;
   }
 
   @else if $t==undecorated {
