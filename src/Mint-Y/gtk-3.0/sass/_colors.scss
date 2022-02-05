@@ -25,10 +25,10 @@ $selection_mode_bg: $selected_bg_color;
 $selection_mode_fg: $selected_fg_color;
 $warning_color: #FF791A;
 $warning_fg_color: white;
-$error_color: #FF1A2C;
+$error_color: #F20D1F;
 $error_fg_color: white;
 $success_color: #29BF68;
-$destructive_color: #FF1A2C;
+$destructive_color: #F20D1F;
 $suggested_color: #29BF68;
 $question_color: #00ADE5;
 //___
@@ -107,7 +107,7 @@ $wm_border_unfocused: lighten($header_border, 5%);
 
 // Close
 $wm_button_close_bg: $selected_bg_color;
-$wm_button_close_hover_bg: #ff1a2c;
+$wm_button_close_hover_bg: #F20D1F;
 $wm_button_close_active_bg: #ff791a;
 
 $wm_icon_close_bg: #ffffff;
