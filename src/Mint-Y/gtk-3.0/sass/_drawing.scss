@@ -145,7 +145,7 @@
     color: $fg_color;
     outline-color: $button_active_bg;
     border-color: $button_border;
-    background-color: lighten($button_bg, 5%);
+    background-color: if($variant=='light', darken($button_bg, 5%), lighten($button_bg, 5%));
   }
 
   @else if $t==active {
@@ -218,8 +218,8 @@
   // insensitive header-bar button
   //
     color: transparentize($header_fg, 0.45);
-    background-color: transparentize($header_bg, 1);
     border-color: transparentize($header_bg, 1);
+    background-color: transparentize($header_bg, 1);
 
     label { color: inherit; }
   }
@@ -281,7 +281,7 @@
     color: $selected_fg_color;
     outline-color: $selected_fg_color;
     background-color: $actionb_color;
-    border-color: $actionb_color;
+    border-color: $button_border;
   }
 
   @else if $t==undecorated {
