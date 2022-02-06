@@ -76,13 +76,13 @@ $osd_borders_color: transparentize(black, 0.3);
 $panel_bg: #2f2f2f;
 $panel_fg: #DADADA;
 
-$entry_bg: if($variant=='light', $base_color, lighten($base_color, 3%));
+$entry_bg: if($variant=='light', $base_color, lighten($base_color, 6%));
 $entry_border: $borders_color;
 
 $header_entry_bg: if($variant == 'dark', transparentize(lighten($header_bg, 22%), 0.6), transparentize($base_color, 0.1));
 $header_entry_border: if($variant == 'dark', transparentize(darken($header_bg, 12%), 0.6), transparentize($header_fg, 0.7));
 
-$button_bg: if($variant=='light', $base_color, lighten($base_color, 3%));
+$button_bg: if($variant=='light', $base_color, lighten($base_color, 6%));
 $button_border: $borders_color;
 $button_active_bg: $selected_bg_color;
 $button_active_border: $button_border;

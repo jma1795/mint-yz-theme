@@ -133,7 +133,7 @@ entry {
   transition: all 200ms cubic-bezier(0.25, 0.46, 0.45, 0.94);
   color: #f0f0f0;
   border-color: #212121;
-  background-color: #484848; }
+  background-color: #4f4f4f; }
   entry.search {
     border-radius: 5px; }
   entry image {
@@ -148,19 +148,19 @@ entry {
     padding: 2px;
     color: #f0f0f0;
     border-color: #212121;
-    background-color: #484848;
+    background-color: #4f4f4f;
     border: none;
     border-radius: 0; }
   entry:focus {
     background-clip: border-box;
     color: #f0f0f0;
     border-color: #212121;
-    background-color: #484848;
+    background-color: #4f4f4f;
     box-shadow: inset 1px 0 #8fa876, inset -1px 0 #8fa876, inset 0 1px #8fa876, inset 0 -1px #8fa876; }
   entry:disabled {
     color: rgba(255, 255, 255, 0.42);
     border-color: rgba(33, 33, 33, 0.55);
-    background-color: rgba(72, 72, 72, 0.55); }
+    background-color: rgba(79, 79, 79, 0.55); }
   entry.warning {
     color: white;
     border-color: #212121;
@@ -254,7 +254,7 @@ button {
   color: rgba(255, 255, 255, 0.87);
   outline-color: #8fa876;
   border-color: #212121;
-  background-color: #484848; }
+  background-color: #4f4f4f; }
   button separator {
     margin: 4px 1px; }
   button.sidebar-button, button.flat {
@@ -271,7 +271,7 @@ button {
     color: rgba(255, 255, 255, 0.87);
     outline-color: #8fa876;
     border-color: #212121;
-    background-color: #545454;
+    background-color: #5c5c5c;
     -gtk-icon-effect: highlight; }
   button:active, button:checked {
     color: #ffffff;
@@ -294,7 +294,7 @@ button {
   button:disabled {
     color: rgba(255, 255, 255, 0.42);
     border-color: rgba(33, 33, 33, 0.55);
-    background-color: rgba(72, 72, 72, 0.55); }
+    background-color: rgba(79, 79, 79, 0.55); }
     button:disabled label {
       color: inherit; }
     button:disabled:active, button:disabled:checked {
@@ -431,7 +431,7 @@ button {
     button.suggested-action:disabled {
       color: rgba(255, 255, 255, 0.42);
       border-color: rgba(33, 33, 33, 0.55);
-      background-color: rgba(72, 72, 72, 0.55); }
+      background-color: rgba(79, 79, 79, 0.55); }
       button.suggested-action:disabled label {
         color: inherit; }
   button.destructive-action {
@@ -466,7 +466,7 @@ button {
     button.destructive-action:disabled {
       color: rgba(255, 255, 255, 0.42);
       border-color: rgba(33, 33, 33, 0.55);
-      background-color: rgba(72, 72, 72, 0.55); }
+      background-color: rgba(79, 79, 79, 0.55); }
       button.destructive-action:disabled label {
         color: inherit; }
   .stack-switcher > button {
@@ -507,12 +507,12 @@ button {
   color: rgba(255, 255, 255, 0.87);
   outline-color: #8fa876;
   border-color: #212121;
-  background-color: #484848; }
+  background-color: #4f4f4f; }
   .inline-toolbar toolbutton > button:hover {
     color: rgba(255, 255, 255, 0.87);
     outline-color: #8fa876;
     border-color: #212121;
-    background-color: #545454; }
+    background-color: #5c5c5c; }
   .inline-toolbar toolbutton > button:active, .inline-toolbar toolbutton > button:checked {
     color: #ffffff;
     outline-color: #ffffff;
@@ -521,7 +521,7 @@ button {
   .inline-toolbar toolbutton > button:disabled {
     color: rgba(255, 255, 255, 0.42);
     border-color: rgba(33, 33, 33, 0.55);
-    background-color: rgba(72, 72, 72, 0.55); }
+    background-color: rgba(79, 79, 79, 0.55); }
     .inline-toolbar toolbutton > button:disabled label {
       color: inherit; }
   .inline-toolbar toolbutton > button:disabled:active, .inline-toolbar toolbutton > button:disabled:checked {
@@ -2099,12 +2099,12 @@ scale {
     -gtk-outline-radius: 7px; }
   scale slider {
     background-clip: border-box;
-    background-color: #484848;
+    background-color: #4f4f4f;
     border: 1px solid #1c1c1c;
     border-radius: 50%;
     box-shadow: none; }
     scale slider:disabled {
-      background-color: #3d3d3d;
+      background-color: #414141;
       border-color: rgba(28, 28, 28, 0.8); }
     scale slider:active {
       background-color: #8fa876;
@@ -2772,12 +2772,12 @@ colorswatch#add-color-button {
   color: rgba(255, 255, 255, 0.87);
   outline-color: #8fa876;
   border-color: #212121;
-  background-color: #484848; }
+  background-color: #4f4f4f; }
   colorswatch#add-color-button:hover {
     color: rgba(255, 255, 255, 0.87);
     outline-color: #8fa876;
     border-color: #212121;
-    background-color: #545454; }
+    background-color: #5c5c5c; }
   colorswatch#add-color-button overlay {
     border-color: transparent;
     background-color: transparent;
@@ -2801,7 +2801,7 @@ colorchooser .popover.osd {
   color: rgba(255, 255, 255, 0.87);
   outline-color: #8fa876;
   border-color: #212121;
-  background-color: #545454; }
+  background-color: #5c5c5c; }
 
 .touch-selection,
 .context-menu,
@@ -3057,7 +3057,7 @@ TerminalWindow .notebook tab .button {
   TerminalWindow .notebook tab .button:hover {
     color: rgba(255, 255, 255, 0.87);
     border-color: #212121;
-    background-color: #484848; }
+    background-color: #4f4f4f; }
 
 TerminalWindow .notebook .active-page .button:hover, TerminalWindow .notebook .prelight-page .button:hover {
   color: #ff4d4d; }
@@ -3206,7 +3206,7 @@ NautilusListView .view, NautilusListView iconview {
     border-radius: 5px;
     color: #f0f0f0;
     border-color: #212121;
-    background-color: #484848;
+    background-color: #4f4f4f;
     box-shadow: inset 1px 0 #8fa876, inset -1px 0 #8fa876, inset 0 1px #8fa876, inset 0 -1px #8fa876; }
   .nemo-window .nemo-inactive-pane .view, .nemo-window .nemo-inactive-pane iconview {
     background-color: #333333; }
@@ -3814,12 +3814,12 @@ EvWindow .content-view .view:focus:selected {
   color: rgba(255, 255, 255, 0.87);
   outline-color: #8fa876;
   border-color: #212121;
-  background-color: #484848; }
+  background-color: #4f4f4f; }
   #content_frame button:hover {
     color: rgba(255, 255, 255, 0.87);
     outline-color: #8fa876;
     border-color: #212121;
-    background-color: #545454; }
+    background-color: #5c5c5c; }
   #content_frame button:active, #content_frame button:checked {
     color: #ffffff;
     outline-color: #ffffff;
@@ -3828,7 +3828,7 @@ EvWindow .content-view .view:focus:selected {
   #content_frame button:disabled {
     color: rgba(255, 255, 255, 0.42);
     border-color: rgba(33, 33, 33, 0.55);
-    background-color: rgba(72, 72, 72, 0.55); }
+    background-color: rgba(79, 79, 79, 0.55); }
     #content_frame button:disabled label {
       color: inherit; }
 
