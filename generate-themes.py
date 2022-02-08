@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import os
+import sys
 
-from constants import X_HEX_ACCENTS, X_RGB_ACCENTS, x_hex_colors, x_rgb_colors
 from constants import Y_HEX_ACCENT1, Y_HEX_ACCENT2, Y_HEX_ACCENT3, Y_HEX_ACCENT4
 from constants import y_hex_colors1, y_hex_colors2, y_hex_colors3, y_hex_colors4
 
@@ -12,11 +12,7 @@ def change_value (key, value, file):
         command = "sed -i '/%(key)s=/d' %(file)s" % {'key':key, 'file':file}
     os.system(command)
 
-def x_colorize_directory (path, variation):
-    for accent in X_HEX_ACCENTS:
-        os.system("find %s -name '*.*' -type f -exec sed -i 's/%s/%s/gI' {}  \\;" % (path, accent, x_hex_colors[variation]))
-    for accent in X_RGB_ACCENTS:
-        os.system("find %s -name '*.*' -type f -exec sed -i 's/%s/%s/gI' {}  \\;" % (path, accent, x_rgb_colors[variation]))
+# DELETED: def x_colorize_directory (path, variation):
 
 def y_colorize_directory (path, variation):
     for accent in Y_HEX_ACCENT1:
@@ -33,51 +29,19 @@ if os.path.exists("usr"):
 
 os.system("mkdir -p usr/share/themes")
 
-os.system("cp -R src/Mint-X/theme/* usr/share/themes/")
-
-for color in os.listdir("src/Mint-X/variations"):
-    path = os.path.join("src/Mint-X/variations", color)
-    if os.path.isdir(path):
-        theme = "usr/share/themes/Mint-X-%s" % color
-        theme_index = os.path.join(theme, "index.theme")
-        os.system("cp -R usr/share/themes/Mint-X %s" % theme)
-        os.system("cp -R src/Mint-X/variations/%s/* %s/" % (color, theme))
-
-        # Theme name
-        for key in ["Name", "GtkTheme", "IconTheme"]:
-            change_value(key, "Mint-X-%s" % color, theme_index)
-
-        # Accent color
-        gtkrc = os.path.join(theme, "gtk-2.0", "gtkrc")
-        settings_ini = os.path.join(theme, "gtk-3.0", "settings.ini")
-        gtk_main_css = os.path.join(theme, "gtk-3.0", "gtk-main.css")
-        for file in [gtkrc, settings_ini, gtk_main_css]:
-            for accent in X_HEX_ACCENTS:
-                os.system("sed -i s'/%(accent)s/%(color_accent)s/' %(file)s" % {'accent': accent, 'color_accent': x_hex_colors[color], 'file': file})
-
-        # Cinnamon theme name
-        file = os.path.join(theme, "cinnamon", "theme.json")
-        if os.path.exists(file):
-            os.system("sed -i s'/Mint-X/Mint-X-%(color)s/' %(file)s" % {'color': color, 'file': file})
-
-        # Cinnamon colors
-        file = os.path.join(theme, "cinnamon", "cinnamon.css")
-        if os.path.exists(file):
-            for accent in X_HEX_ACCENTS:
-                os.system("sed -i s'/%(accent)s/%(color_accent)s/' %(file)s" % {'accent': accent, 'color_accent': x_hex_colors[color], 'file': file})
-            for accent in X_RGB_ACCENTS:
-                os.system("sed -i s'/%(accent)s/%(color_accent)s/' %(file)s" % {'accent': accent, 'color_accent': x_rgb_colors[color], 'file': file})
+# DELETED: MINT-X GENERATE
 
 curdir = os.getcwd()
 
+# MINT-Y GENERATE
 os.chdir("src/Mint-Y")
 os.system("./build-themes.py")
 os.chdir(curdir)
 
 # Mint-Y color variations
 for color in y_hex_colors1.keys():
-    for variant in ["", "-Dark"]:
-        original_name = "Mint-Y%s" % variant
+    for variant in ["-Base", "-Dark"]:
+        original_name = "Mint-Yz%s" % variant
         path = os.path.join("src/Mint-Y/variations/%s" % color)
         if os.path.isdir(path):
             print("Derivating %s-%s" % (original_name, color))
@@ -149,17 +113,34 @@ for color in y_hex_colors1.keys():
                 if os.path.exists(directory):
                     y_colorize_directory(directory, color)
 
+            # check update-variations.py All done or else exit
+            directories = []
+            directories.append(os.path.join(path, "cinnamon"))
+            directories.append(os.path.join(path, "gtk-2.0"))
+            directories.append(os.path.join(path, "gtk-3.0"))
+            for directory in directories:
+                if not os.path.exists(directory):
+                    print("\nThere are missing directories in %s..." % path)
+                    print("Please run './update-variations.py All' or './update-variations.py COLOR' before this './generate-themes.py'...")
+                    sys.exit(1)
+
             # Assets
+            os.system("rm -rf %s/cinnamon/thumbnail.png" % theme)
+            os.system("rm -rf %s/gtk-3.0/thumbnail.png" % theme)
             os.system("rm -rf %s/gtk-3.0/assets" % theme)
             os.system("rm -rf %s/gtk-2.0/assets" % theme)
             if variant == "-Dark":
+                os.system("cp -R %s/cinnamon/mint-y-dark-thumbnail.png %s/cinnamon/thumbnail.png" % (path, theme))
                 os.system("cp -R %s/gtk-2.0/assets-dark %s/gtk-2.0/assets" % (path, theme))
+                os.system("cp -R %s/gtk-3.0/thumbnail-dark.png %s/gtk-3.0/thumbnail.png" % (path, theme))
                 os.system("cp -R %s/xfwm4-dark/*.png %s/xfwm4/" % (path, theme))
             else:
+                os.system("cp -R %s/cinnamon/mint-y-thumbnail.png %s/cinnamon/thumbnail.png" % (path, theme))
+                os.system("cp -R %s/gtk-3.0/thumbnail.png %s/gtk-3.0/thumbnail.png" % (path, theme))
                 os.system("cp -R %s/gtk-2.0/assets %s/gtk-2.0/assets" % (path, theme))
                 os.system("cp -R %s/xfwm4/*.png %s/xfwm4/" % (path, theme))
             os.system("cp -R %s/gtk-3.0/assets %s/gtk-3.0/assets" % (path, theme))
 
-
-# Files
-os.system("cp -R files/* ./")
+# Files: no need to copy these old files/* since it is all done with update-variations.py, on Mint-Yz...
+print ("\nDone. Are there any missing colors?")
+print ("If so then run './update-variations.py All' and then './generate-themes.py' again.")
