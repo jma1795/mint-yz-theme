@@ -55,7 +55,7 @@ NEXT:
 1. Open your Terminal and change directory: `cd ~/mint-yz-theme`.
 1. On the first time, you must run `./update-variations.py All` from your terminal, in the mint-yz-theme directory. Later, you can replace `All` with one specific color name like `Blue` for quick testing.
 1. Next, run `./generate-themes.py` from your terminal, in the mint-yz-theme directory.
-1. And finally, copy all the files from ~/mint-yz-theme/usr/share/themes/ into /usr/share/themes/ as root: `sudo cp -rf usr/share/themes/Mint-Yz-* /usr/share/themes/` from your terminal, in the mint-yz-theme directory.
+1. And finally, copy all the files from ~/mint-yz-theme/usr/share/themes/ into /usr/share/themes/ as root: `sudo cp -rf usr/share/themes/Mint-Yz* /usr/share/themes` from your terminal, in the mint-yz-theme directory.
 1. Change your theme in the system preferences.
 
 THAT'S IT !
