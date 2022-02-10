@@ -5,7 +5,7 @@
    viewBox="0 0 1920 1080"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
    sodipodi:docname="Mint-Y-Variations-compare-OLD.svg"
    inkscape:export-filename="/home/sebastien/mint-yz-theme/Mint-Y-Colors/Mint-Y-Variations-compare-OLD.png"
    inkscape:export-xdpi="96"
@@ -19,7 +19,19 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
-     id="defs2" />
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2354">
+      <rect
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0"
+         id="rect2356"
+         width="780"
+         height="640"
+         x="1050"
+         y="271.79999" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#e5e5e5"
@@ -27,12 +39,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.79322917"
-     inkscape:cx="960"
-     inkscape:cy="540.19698"
+     inkscape:zoom="1"
+     inkscape:cx="959.5"
+     inkscape:cy="539.5"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      units="px"
      inkscape:lockguides="false"
      inkscape:window-width="1920"
@@ -55,8 +67,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid818"
-       originx="90"
-       originy="0"
+       originx="1050"
+       originy="180"
        spacingx="20"
        spacingy="20"
        empcolor="#000000"
@@ -73,7 +85,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -866,72 +877,12 @@
     <image
        preserveAspectRatio="none"
        inkscape:svg-dpi="96"
-       width="780"
-       height="640"
-       xlink:href="Mint-Y-Variations-src-3.svg"
-       id="image1295"
-       x="1050"
-       y="271.79999"
-       style="stroke-width:0.90625" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="colors2-5% (darken)"
-     style="display:none"
-     sodipodi:insensitive="true" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer7"
-     inkscape:label="colors2-8% (darken)"
-     style="display:none"
-     sodipodi:insensitive="true" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer6"
-     inkscape:label="override colors2"
-     style="display:none"
-     sodipodi:insensitive="true" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="colors3 (lighten)"
-     style="display:none"
-     sodipodi:insensitive="true">
-    <rect
-       y="200"
-       x="90"
-       height="580"
-       width="780"
-       id="rect937"
-       style="display:inline;fill:#ffffff;fill-opacity:0.2;stroke-width:0" />
-    <rect
-       y="200"
-       x="1050"
-       height="580"
-       width="780"
-       id="rect595"
-       style="display:inline;fill:#ffffff;fill-opacity:0.2;stroke-width:0" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer4"
-     inkscape:label="colors4 (darken)"
-     style="display:none"
-     sodipodi:insensitive="true">
-    <rect
-       style="display:inline;fill:#000000;fill-opacity:0.3;stroke-width:0"
-       id="rect940"
-       width="780"
-       height="580"
-       x="90"
-       y="200" />
-    <rect
-       style="display:inline;fill:#000000;fill-opacity:0.3;stroke-width:0"
-       id="rect597"
-       width="780"
-       height="580"
-       x="1050"
-       y="200" />
+       width="1920"
+       height="1080"
+       xlink:href="Mint-Y-Variations-3.svg"
+       id="image1758"
+       x="960"
+       y="101.79999"
+       clip-path="url(#clipPath2354)" />
   </g>
 </svg>
