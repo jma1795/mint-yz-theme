@@ -5780,7 +5780,7 @@
          height="4"
          width="4"
          id="rect2490"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dadada;fill-opacity:1;stroke:none;stroke-width:2.08839;marker:none;enable-background:accumulate"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f0f0f0;fill-opacity:1;stroke:none;stroke-width:2.08839;marker:none;enable-background:accumulate"
          ry="2" />
       <rect
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
@@ -5806,7 +5806,7 @@
          height="1.9999826"
          width="5"
          id="rect2514"
-         style="fill:#dadada;fill-opacity:1;stroke:none"
+         style="fill:#f0f0f0;fill-opacity:1;stroke:none"
          transform="rotate(45)" />
       <rect
          ry="0"
@@ -5815,7 +5815,7 @@
          height="7.9999828"
          width="2"
          id="rect2516"
-         style="fill:#dadada;fill-opacity:1;stroke:none"
+         style="fill:#f0f0f0;fill-opacity:1;stroke:none"
          transform="rotate(45)" />
       <rect
          style="fill:#eeeeee;fill-opacity:0;stroke:none"
