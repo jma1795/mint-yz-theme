@@ -1,0 +1,7 @@
+#!/bin/sh
+set -e
+
+#debian/preinst Mint-Yz had various color names in previous versions, so this makes sure those are all deleted.
+rm -rf /usr/share/themes/Mint-Yz*
+
+exit 0

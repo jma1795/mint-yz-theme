@@ -1,10 +1,12 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: mint-themes
-Upstream-Contact: Clement Lefebvre <root@linuxmint.com>
-Source: https://github.com/linuxmint/mint-themes
+Upstream-Name: mint-yz-theme
+Upstream-Contact: Sebastien Bouchard <sebastjava@hotmail.ca>
+Source: https://github.com/SebastJava/mint-yz-theme
 
 Files: *
-Copyright: 2012-2014 Clement Lefebvre <root@linuxmint.com>
+Copyright: 2012-2020 Clement Lefebvre <root@linuxmint.com>
+ 2015-2020 horst3180 <http://horst3180.deviantart.com/>
+ 2020-2022 Sebastien Bouchard <sebastjava@hotmail.ca>
 License: GPL-3+
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
