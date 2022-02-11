@@ -6,3 +6,10 @@ src/Mint-Y/cinnamon/sass-cache
 
 __pycache__/
 usr/
+
+# dpkg-buildpackage (auto-generated Debian files)
+debian/.debhelper/*
+debian/files
+debian/mint-yz-theme.debhelper.log
+debian/mint-yz-theme.substvars
+debian/mint-yz-theme/*
