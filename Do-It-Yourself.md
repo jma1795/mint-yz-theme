@@ -60,5 +60,22 @@ NEXT:
 
 THAT'S IT !
 
+### Build a Debian package (optional)
+
+If you want to make a Debian package to make your version available to others, here is what to do.
+
+1. Edit these files:
+  - debian/changelog
+  - debian/control
+  - debian/copyright
+  - debian/preinst
+1. `apt install debhelper` # You need this if this is your first time.
+1. `cd ~/mint-yz-theme` # Go to the top-level mint-yz-theme directory.
+1. `dpkg-buildpackage`
+
+This new package is now in your home folder.
+
+Install it, change your themes in your Menu > Preferences > Themes, and test it !
+
 ### Get Help
 If you are having trouble, start by searching the web for answers. If you can’t find any good answer, you can create an [issue](https://github.com/SebastJava/mint-yz-theme/issues) here on my repository. But if you need an answer quickly, you’d be better off with the [Linux Mint Forums](https://forums.linuxmint.com/).
