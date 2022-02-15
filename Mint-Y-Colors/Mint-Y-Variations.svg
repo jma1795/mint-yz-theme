@@ -6,8 +6,8 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
-   sodipodi:docname="Mint-Y-Variations-4.svg"
-   inkscape:export-filename="/home/sebastien/mint-yz-theme/Mint-Y-Colors/Mint-Y-Variations-4.png"
+   sodipodi:docname="Mint-Y-Variations.svg"
+   inkscape:export-filename="/home/sebastien/mint-yz-theme/Mint-Y-Colors/Mint-Y-Variations.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -24,8 +24,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="743.5"
-     inkscape:cy="539.5"
+     inkscape:cx="1188.5"
+     inkscape:cy="540"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -810,11 +810,10 @@
       </g>
     </g>
     <g
-       id="g121082"
-       inkscape:label="Layer 1"
-       transform="translate(1050,170)">
+       id="g1113">
       <g
-         id="g120940">
+         id="g120940"
+         transform="translate(1050,170)">
         <rect
            style="fill:#bfbfbf;fill-opacity:1;stroke-width:0"
            id="rect120932"
@@ -837,7 +836,8 @@
    id="tspan120934">name + HSL + new/old color contrast</tspan></tspan></text>
       </g>
       <g
-         id="g120950">
+         id="g120950"
+         transform="translate(1050,170)">
         <rect
            style="fill:#bfbfbf;fill-opacity:1;stroke-width:0"
            id="rect120942"
@@ -860,7 +860,8 @@
    id="tspan120944">name + HSL + new/old color contrast</tspan></tspan></text>
       </g>
       <g
-         id="g120960">
+         id="g120960"
+         transform="translate(1050,170)">
         <rect
            style="fill:#bfbfbf;fill-opacity:1;stroke-width:0"
            id="rect120952"
@@ -883,7 +884,8 @@
    id="tspan120954">name + HSL + new/old color contrast</tspan></tspan></text>
       </g>
       <g
-         id="g120970">
+         id="g120970"
+         transform="translate(1050,170)">
         <rect
            y="20"
            x="0"
@@ -909,7 +911,8 @@
              id="tspan120966">#84A960</tspan></text>
       </g>
       <g
-         id="g120980">
+         id="g120980"
+         transform="translate(1050,170)">
         <rect
            y="20"
            x="200"
@@ -935,7 +938,8 @@
              id="tspan120976">HSL Contrast new/old</tspan></text>
       </g>
       <g
-         id="g120990">
+         id="g120990"
+         transform="translate(1050,170)">
         <rect
            y="20"
            x="400"
@@ -961,7 +965,8 @@
              id="tspan120986">204,64,42</tspan></text>
       </g>
       <g
-         id="g121000">
+         id="g121000"
+         transform="translate(1050,170)">
         <rect
            y="20"
            x="600"
@@ -987,14 +992,15 @@
              id="tspan120996">0,0,46 4.5/2.7</tspan></text>
       </g>
       <g
-         id="g121010">
+         id="g121010"
+         transform="translate(1050,170)">
         <rect
            y="240"
            x="0"
            height="180"
            width="180"
            id="rect121002"
-           style="fill:#25b160;fill-opacity:1;stroke-width:0" />
+           style="fill:#24a85c;fill-opacity:1;stroke-width:0" />
         <text
            id="text121008"
            y="336.51202"
@@ -1010,17 +1016,18 @@
              y="361.51202"
              x="19.352005"
              sodipodi:role="line"
-             id="tspan121006">145,65,42</tspan></text>
+             id="tspan121006">145,65,40</tspan></text>
       </g>
       <g
-         id="g121020">
+         id="g121020"
+         transform="translate(1050,170)">
         <rect
            y="240"
            x="200"
            height="180"
            width="180"
            id="rect121012"
-           style="fill:#12a68e;fill-opacity:1;stroke-width:0" />
+           style="fill:#08a087;fill-opacity:1;stroke-width:0" />
         <text
            id="text121018"
            y="336.51202"
@@ -1036,17 +1043,18 @@
              y="361.51202"
              x="219.35201"
              sodipodi:role="line"
-             id="tspan121016">170,80,36</tspan></text>
+             id="tspan121016">170,90,33</tspan></text>
       </g>
       <g
-         id="g121030">
+         id="g121030"
+         transform="translate(1050,170)">
         <rect
            y="240"
            x="400"
            height="180"
            width="180"
            id="rect121022"
-           style="fill:#0b7ed0;fill-opacity:1;stroke-width:0" />
+           style="fill:#0077cc;fill-opacity:1.0;stroke-width:0" />
         <text
            id="text121028"
            y="336.51202"
@@ -1062,10 +1070,11 @@
              y="361.51202"
              x="419.35199"
              sodipodi:role="line"
-             id="tspan121026">205,90,43</tspan></text>
+             id="tspan121026">205,100,40</tspan></text>
       </g>
       <g
-         id="g121040">
+         id="g121040"
+         transform="translate(1050,170)">
         <rect
            y="240"
            x="600"
@@ -1091,7 +1100,8 @@
              id="tspan121036">280,40,48</tspan></text>
       </g>
       <g
-         id="g121050">
+         id="g121050"
+         transform="translate(1050,170)">
         <rect
            y="460"
            x="0"
@@ -1117,7 +1127,8 @@
              id="tspan121046">355,100,45</tspan></text>
       </g>
       <g
-         id="g121060">
+         id="g121060"
+         transform="translate(1050,170)">
         <rect
            y="460"
            x="200"
@@ -1143,14 +1154,15 @@
              id="tspan121056">25,100,55 2.6/2.3</tspan></text>
       </g>
       <g
-         id="g121070">
+         id="g121070"
+         transform="translate(1050,170)">
         <rect
            y="460"
            x="400"
            height="180"
            width="180"
            id="rect121062"
-           style="fill:#0b9fd0;fill-opacity:1;stroke-width:0" />
+           style="fill:#0099cc;fill-opacity:1.0;stroke-width:0" />
         <text
            id="text121068"
            y="556.51202"
@@ -1166,10 +1178,11 @@
              y="581.51202"
              x="419.35199"
              sodipodi:role="line"
-             id="tspan121066">195,90,43</tspan></text>
+             id="tspan121066">195,100,40</tspan></text>
       </g>
       <g
-         id="g121080">
+         id="g121080"
+         transform="translate(1050,170)">
         <rect
            y="460"
            x="600"
