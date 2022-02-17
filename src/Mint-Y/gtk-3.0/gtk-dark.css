@@ -2651,7 +2651,7 @@ infobar {
   infobar.error {
     background-color: #F20D1F; }
   infobar.question {
-    background-color: #00ADE5; }
+    background-color: #0BA5DA; }
 
 .primary-toolbar toolbar.selection-mode button:hover,
 .selection-mode.primary-toolbar button:hover, .primary-toolbar .selection-mode.inline-toolbar button:hover, headerbar.selection-mode button:hover, row:selected button, infobar.info button, infobar.question button, infobar.warning button, infobar.error button {
@@ -3044,8 +3044,8 @@ SushiFontWidget {
 
 vte-terminal.terminal-screen {
   -TerminalScreen-background-darkness: 1.0;
-  background-color: #3f3f3f;
-  color: #fff; }
+  background-color: #303030;
+  color: #F0F0F0; }
 
 terminal-screen-container,
 terminal-screen-container scrollbar:not(slider) {
@@ -3066,9 +3066,9 @@ TerminalWindow .notebook .active-page .button:active, TerminalWindow .notebook .
   color: #8fa876; }
 
 vte-terminal {
-  -TerminalScreen-background-darkness: 0.97;
-  background-color: #3f3f3f;
-  color: #fff; }
+  -TerminalScreen-background-darkness: 1.0;
+  background-color: #303030;
+  color: #F0F0F0; }
 
 .nautilus-canvas-item {
   border-radius: 2px; }
