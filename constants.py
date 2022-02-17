@@ -20,8 +20,8 @@ y_hex_colors2["BlueBelize"] = "#2778AF"
 y_hex_colors1["Grey"] = "#767676"
 y_hex_colors2["Grey"] = "#767676"
 
-y_hex_colors1["MintSoda"] = "#29BF68"
-y_hex_colors2["MintSoda"] = "#24A85C"
+y_hex_colors1["MintSoda"] = "#28BE73"
+y_hex_colors2["MintSoda"] = "#1AB266"
 
 y_hex_colors1["MintGum"] = "#13AF95"
 y_hex_colors2["MintGum"] = "#08A087"
