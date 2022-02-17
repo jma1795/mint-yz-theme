@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.68177083"
-     inkscape:cx="960"
-     inkscape:cy="539.77082"
+     inkscape:zoom="1"
+     inkscape:cx="959.5"
+     inkscape:cy="540"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -641,7 +641,7 @@
            height="180"
            width="180"
            id="rect8405"
-           style="fill:#13af95;fill-opacity:1;stroke-width:0" />
+           style="fill:#00b899;fill-opacity:1.0;stroke-width:0" />
         <text
            id="text8411"
            y="336.51202"
@@ -657,7 +657,7 @@
              y="361.51202"
              x="219.35201"
              sodipodi:role="line"
-             id="tspan8409">170,80,38 2.8/2.4</tspan></text>
+             id="tspan8409">170,100,36 2.5/2.4</tspan></text>
       </g>
       <g
          id="g944"
@@ -1040,7 +1040,7 @@
            height="180"
            width="180"
            id="rect121012"
-           style="fill:#08a087;fill-opacity:1;stroke-width:0" />
+           style="fill:#00a88c;fill-opacity:1;stroke-width:0" />
         <text
            id="text121018"
            y="336.51202"
@@ -1056,7 +1056,7 @@
              y="361.51202"
              x="219.35201"
              sodipodi:role="line"
-             id="tspan121016">170,90,33</tspan></text>
+             id="tspan8321">170,100,33 3.0/2.4</tspan></text>
       </g>
       <g
          id="g121030"
