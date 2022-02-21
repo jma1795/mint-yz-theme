@@ -24,7 +24,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="628.5"
+     inkscape:cx="1168.5"
      inkscape:cy="540"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -959,7 +959,7 @@
            height="180"
            width="180"
            id="rect120982"
-           style="fill:#2778af;fill-opacity:1;stroke-width:0" />
+           style="fill:#2574a9;fill-opacity:1;stroke-width:0" />
         <text
            id="text120988"
            y="116.51201"
@@ -975,7 +975,7 @@
              y="141.51201"
              x="419.35199"
              sodipodi:role="line"
-             id="tspan120986">204,64,42</tspan></text>
+             id="tspan120986">204,64,40</tspan></text>
       </g>
       <g
          id="g121000"
@@ -1040,7 +1040,7 @@
            height="180"
            width="180"
            id="rect121012"
-           style="fill:#009a8d;fill-opacity:1.0;stroke-width:0" />
+           style="fill:#008c80;fill-opacity:1;stroke-width:0" />
         <text
            id="text121018"
            y="336.51202"
@@ -1056,7 +1056,7 @@
              y="361.51202"
              x="219.35201"
              sodipodi:role="line"
-             id="tspan8321">175,100,30 3.5/2.4</tspan></text>
+             id="tspan8321">175,100,27</tspan></text>
       </g>
       <g
          id="g121030"
@@ -1067,7 +1067,7 @@
            height="180"
            width="180"
            id="rect121022"
-           style="fill:#0077cc;fill-opacity:1;stroke-width:0" />
+           style="fill:#0070c0;fill-opacity:1;stroke-width:0" />
         <text
            id="text121028"
            y="336.51202"
@@ -1083,7 +1083,7 @@
              y="361.51202"
              x="419.35199"
              sodipodi:role="line"
-             id="tspan121026">205,100,40</tspan></text>
+             id="tspan121026">205,100,38</tspan></text>
       </g>
       <g
          id="g121040"
@@ -1175,7 +1175,7 @@
            height="180"
            width="180"
            id="rect121062"
-           style="fill:#0099cc;fill-opacity:1;stroke-width:0" />
+           style="fill:#0090c0;fill-opacity:1;stroke-width:0" />
         <text
            id="text121068"
            y="556.51202"
@@ -1191,7 +1191,7 @@
              y="581.51202"
              x="419.35199"
              sodipodi:role="line"
-             id="tspan121066">195,100,40</tspan></text>
+             id="tspan121066">195,100,38</tspan></text>
       </g>
       <g
          id="g121080"
@@ -1202,7 +1202,10 @@
            height="180"
            width="180"
            id="rect121072"
-           style="fill:#f656a5;fill-opacity:1;stroke-width:0" />
+           style="fill:#f656a5;fill-opacity:1;stroke-width:0"
+           inkscape:export-filename="/home/sebastien/mint-yz-theme/Mint-Y-Colors/Mint-Y-Variations.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
         <text
            id="text121078"
            y="556.51202"

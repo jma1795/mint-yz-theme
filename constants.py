@@ -15,7 +15,7 @@ y_hex_colors1 = {}
 y_hex_colors2 = {}
 
 y_hex_colors1["BlueBelize"] = "#297FB9"
-y_hex_colors2["BlueBelize"] = "#2778AF"
+y_hex_colors2["BlueBelize"] = "#2574A9"
 
 y_hex_colors1["Grey"] = "#767676"
 y_hex_colors2["Grey"] = "#767676"
@@ -24,10 +24,10 @@ y_hex_colors1["MintSoda"] = "#22A786"
 y_hex_colors2["MintSoda"] = "#169978"
 
 y_hex_colors1["MintGum"] = "#009A8D"
-y_hex_colors2["MintGum"] = "#009A8D"
+y_hex_colors2["MintGum"] = "#008C80"
 
 y_hex_colors1["BlueElectron"] = "#0B84DA"
-y_hex_colors2["BlueElectron"] = "#0077CC"
+y_hex_colors2["BlueElectron"] = "#0070C0"
 
 y_hex_colors1["Purple"] = "#8245A1"
 y_hex_colors2["Purple"] = "#8B49AC"
@@ -39,7 +39,7 @@ y_hex_colors1["OrangeShine"] = "#FF791A"
 y_hex_colors2["OrangeShine"] = "#FF791A"
 
 y_hex_colors1["AquaShine"] = "#00A0D4"
-y_hex_colors2["AquaShine"] = "#0099CC"
+y_hex_colors2["AquaShine"] = "#0090C0"
 
 y_hex_colors1["Pink"] = "#F656A5"
 y_hex_colors2["Pink"] = "#F656A5"
