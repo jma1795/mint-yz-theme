@@ -39,7 +39,7 @@ git add --all
 git diff --staged --quiet || git commit --quiet -m "DELETE $color before updating to avoid any weird rewrite."
 
 # UPDATE-VARIATIONS and COMMIT
-./update-variations.py $color || echo "ERROR IN UPDATE-VARIATIONS !"; exit 1
+./update-variations.py $color # || exit 1
 echo
 echo "GIT COMMIT: ADD src/Mint-Y/variations/$color"
 git add src/Mint-Y/variations/* &&
