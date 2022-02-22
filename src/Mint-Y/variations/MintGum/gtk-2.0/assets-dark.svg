@@ -14,7 +14,7 @@
    height="416"
    id="svg9892"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="assets-dark.svg">
   <defs
      id="defs9894">
@@ -566,8 +566,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.656854"
-     inkscape:cx="66.67567"
-     inkscape:cy="71.593815"
+     inkscape:cx="234.63067"
+     inkscape:cy="281.54786"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4298,6 +4298,7 @@
          height="25"
          width="15"
          id="rect5775"
+<<<<<<< HEAD:src/Mint-Y/variations/MintGum/gtk-2.0/assets-dark.svg
          style="opacity:1;fill:#00998D;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
          y="-154.63782"
@@ -4313,6 +4314,9 @@
          width="15"
          id="rect5777-8"
          style="display:inline;opacity:1;fill:#00998D;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+=======
+         style="opacity:1;fill:#ffffff;fill-opacity:0.09803922;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+>>>>>>> 0c6b13d4... Mint-Y-Gtk2: Better match the menu to the gtk3 changes:src/Mint-Y/variations/Orange/gtk-2.0/assets-dark.svg
     </g>
     <g
        id="handle-v"
@@ -4694,6 +4698,7 @@
          height="15"
          width="25"
          id="wsad"
+<<<<<<< HEAD:src/Mint-Y/variations/MintGum/gtk-2.0/assets-dark.svg
          style="opacity:1;fill:#00998D;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
          y="-152.63782"
@@ -4717,6 +4722,9 @@
          width="1"
          id="rect5009-95"
          style="display:inline;opacity:1;fill:#00998D;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+=======
+         style="opacity:1;fill:#ffffff;fill-opacity:0.09803922;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+>>>>>>> 0c6b13d4... Mint-Y-Gtk2: Better match the menu to the gtk3 changes:src/Mint-Y/variations/Orange/gtk-2.0/assets-dark.svg
     </g>
     <g
        transform="matrix(0,1,-1,0,188.36218,-309.63782)"
