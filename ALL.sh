@@ -57,7 +57,7 @@ git status
 echo "________________________________________________"; echo
 
 # REFRESH
-read -p "LIGHT OR DARK VARIANT? (l/d) " variant
+read -p "ALL DONE ! Now, which variant do you want to test first? (L/D) " variant
 if [ $variant == "d" ] || [ $variant == "D" ]
 then
 	variant="Dark"
@@ -66,9 +66,14 @@ else
 	variant="Base"
 	gsettings set org.cinnamon.desktop.interface icon-theme "Mint-Y-Grey"
 fi
+if [ $color == "All" ]
+then
+	theme="Mint-Yz-$variant"
+else
+	theme="Mint-Yz-$variant-$color"
+fi
 gsettings set org.cinnamon.desktop.interface gtk-theme "Mint-X"
-gsettings set org.cinnamon.desktop.interface gtk-theme "Mint-Yz-$variant-$color"
+gsettings set org.cinnamon.desktop.interface gtk-theme $theme
 
-echo "ALL DONE !"
 echo "________________________________________________"; echo
 exit 0
