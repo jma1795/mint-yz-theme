@@ -276,12 +276,12 @@
          id="tspan938"
          x="810"
          y="97.956238"
-         style="line-height:50px">$link_color: #1A7EE5;</tspan><tspan
+         style="line-height:50px">$link_color: #1771CE;</tspan><tspan
          sodipodi:role="line"
          x="810"
          y="147.95624"
          id="tspan940"
-         style="line-height:50px">$link_visited_color: #AA40BF;</tspan><tspan
+         style="line-height:50px">$link_visited_color: #8639AC;</tspan><tspan
          sodipodi:role="line"
          x="810"
          y="197.95624"
@@ -311,7 +311,7 @@
          x="810"
          y="447.95624"
          id="tspan952"
-         style="line-height:50px">$error_color: #F20D1F;</tspan><tspan
+         style="line-height:50px">$error_color: #E50013;</tspan><tspan
          sodipodi:role="line"
          x="810"
          y="497.95624"
@@ -321,22 +321,22 @@
          x="810"
          y="547.95624"
          id="tspan956"
-         style="line-height:50px">$success_color: #29BF68;</tspan><tspan
+         style="line-height:50px">$success_color: #18AA61;</tspan><tspan
          sodipodi:role="line"
          x="810"
          y="597.95624"
          id="tspan958"
-         style="line-height:50px">$destructive_color: #F20D1F;</tspan><tspan
+         style="line-height:50px">$destructive_color: #E50013;</tspan><tspan
          sodipodi:role="line"
          x="810"
          y="647.95624"
          id="tspan960"
-         style="line-height:50px">$suggested_color: #29BF68;</tspan><tspan
+         style="line-height:50px">$suggested_color: #18AA61;</tspan><tspan
          sodipodi:role="line"
          x="810"
          y="697.95624"
          id="tspan962"
-         style="line-height:50px">$question_color: #0BA5DA;</tspan><tspan
+         style="line-height:50px">$question_color: #0090C0;</tspan><tspan
          id="tspan1004"
          sodipodi:role="line"
          x="810"
@@ -348,7 +348,7 @@
          y="797.95624"
          style="line-height:50px">$drop_target_color: #FF791A;</tspan></text>
     <rect
-       style="fill:#0ba5da;stroke-width:0.82903504;fill-opacity:1.0"
+       style="fill:#0090c0;stroke-width:0.82903504;fill-opacity:1.0"
        id="rect966"
        width="150"
        height="40"
@@ -368,7 +368,7 @@
        height="40"
        width="150"
        id="rect968"
-       style="fill:#29bf68;stroke-width:0.82903504" />
+       style="fill:#18aa61;stroke-width:0.82903504;fill-opacity:1" />
     <rect
        inkscape:tile-y0="678"
        inkscape:tile-x0="50"
@@ -377,7 +377,7 @@
        height="40"
        width="150"
        id="rect970"
-       style="fill:#f20d1f;stroke-width:0.82903504;fill-opacity:1" />
+       style="fill:#e50013;stroke-width:0.82903504;fill-opacity:1" />
     <rect
        inkscape:tile-y0="678"
        inkscape:tile-x0="50"
@@ -386,7 +386,7 @@
        height="40"
        width="150"
        id="rect972"
-       style="fill:#29bf68;stroke-width:0.82903504" />
+       style="fill:#18aa61;stroke-width:0.82903504;fill-opacity:1.0" />
     <rect
        inkscape:tile-y0="678"
        inkscape:tile-x0="50"
@@ -404,7 +404,7 @@
        height="40"
        width="150"
        id="rect976"
-       style="fill:#f20d1f;stroke-width:0.82903504;fill-opacity:1" />
+       style="fill:#e50013;stroke-width:0.82903504;fill-opacity:1.0" />
     <rect
        inkscape:tile-y0="678"
        inkscape:tile-x0="50"
@@ -458,9 +458,9 @@
        height="40"
        width="150"
        id="rect988"
-       style="fill:#aa40bf;stroke-width:0.829038" />
+       style="fill:#8639ac;stroke-width:0.829038;fill-opacity:1" />
     <rect
-       style="fill:#1a7ee5;stroke-width:0.82903504"
+       style="fill:#1771ce;stroke-width:0.82903504;fill-opacity:1"
        id="rect990"
        width="150"
        height="40"

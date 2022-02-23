@@ -18,19 +18,19 @@ $selected_borders_color: $selected_bg_color;
 $borders_color: if($variant =='light', darken($bg_color, 18%), darken($bg_color,6%));
 $separator_color: if($variant == 'light', #DFDFDF, darken($bg_color, 6%));
 
-$link_color: #1A7EE5;
-$link_visited_color: #AA40BF;
+$link_color: #1771CE;
+$link_visited_color: #8639AC;
 //___
 $selection_mode_bg: $selected_bg_color;
 $selection_mode_fg: $selected_fg_color;
 $warning_color: #FF791A;
 $warning_fg_color: white;
-$error_color: #F20D1F;
+$error_color: #E50013;
 $error_fg_color: white;
-$success_color: #29BF68;
-$destructive_color: #F20D1F;
-$suggested_color: #29BF68;
-$question_color: #0BA5DA;
+$success_color: #18AA61;
+$destructive_color: #E50013;
+$suggested_color: #18AA61;
+$question_color: #0090C0;
 //___
 $drop_target_color: #FF791A;
 
