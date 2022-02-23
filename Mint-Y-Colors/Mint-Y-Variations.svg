@@ -1202,7 +1202,7 @@
            height="180"
            width="180"
            id="rect121072"
-           style="fill:#e54d98;fill-opacity:1;stroke-width:0"
+           style="fill:#eb4798;fill-opacity:1.0;stroke-width:0"
            inkscape:export-filename="/home/sebastien/mint-yz-theme/Mint-Y-Colors/Mint-Y-Variations.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96" />
@@ -1221,7 +1221,7 @@
              y="581.51202"
              x="619.35199"
              sodipodi:role="line"
-             id="tspan121076">330,75,60 3.6/3.8</tspan></text>
+             id="tspan121076">330,80,60 3.6/3.8</tspan></text>
       </g>
     </g>
   </g>

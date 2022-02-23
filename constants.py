@@ -42,4 +42,4 @@ y_hex_colors1["AquaShine"] = "#00A0D4"
 y_hex_colors2["AquaShine"] = "#0090C0"
 
 y_hex_colors1["Pink"] = "#F656A5"
-y_hex_colors2["Pink"] = "#E54D98"
+y_hex_colors2["Pink"] = "#EB4798"
