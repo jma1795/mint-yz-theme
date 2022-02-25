@@ -24,7 +24,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="631"
+     inkscape:cx="1086"
      inkscape:cy="540"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -1123,7 +1123,7 @@
            height="180"
            width="180"
            id="rect121062"
-           style="fill:#0090c0;fill-opacity:1;stroke-width:0" />
+           style="fill:#009cce;fill-opacity:1.0;stroke-width:0" />
         <text
            id="text121068"
            y="556.51202"
@@ -1139,7 +1139,7 @@
              y="581.51202"
              x="419.35199"
              sodipodi:role="line"
-             id="tspan121066">195,100,38</tspan></text>
+             id="tspan121066">195,100,40 3.2/2.5</tspan></text>
       </g>
       <g
          id="g121080"
