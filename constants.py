@@ -30,7 +30,7 @@ y_hex_colors1["Purple"] = "#8245A1"
 y_hex_colors2["Purple"] = "#8245A1"
 
 y_hex_colors1["RedShine"] = "#F20D20"
-y_hex_colors2["RedShine"] = "#DF0618"
+y_hex_colors2["RedShine"] = "#E50012"
 
 y_hex_colors1["OrangeShine"] = "#FF791A"
 y_hex_colors2["OrangeShine"] = "#FF791A"
