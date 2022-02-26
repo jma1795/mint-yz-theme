@@ -58,6 +58,8 @@ First, check your system is not too old for this theme to work properly. This th
 * Message colors are better. That's for things like that green save button in the Xed text editor, or this red Logout button.
 * And there are some small bug fixes. Et cetera.
 
+![Mint-Y-Colors/Nemo-Base-MintGum.png](Mint-Y-Colors/Nemo-Base-MintGum.png)
+
 ---
 
 ## Credits
