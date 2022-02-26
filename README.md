@@ -34,12 +34,19 @@ Sufficiently contrasted colors.
 | Variant | Category                        | Mint-Y        | Mint-Yz       |
 | ------- | ------------------------------- | ------------- | ------------- |
 | all     | buttons and entries backgrounds | no contrast   | subtle contrast |
-| light   | hovering on buttons             | lighten (too subtle!) | darken 5% (better) |
-| dark    | base color vs background color  | almost no difference | doubled difference | 
+| base    | hovering on buttons             | lighten (too subtle!) | darken 5% (better) |
+| dark    | base color vs background color  | almost no difference | 2X difference | 
 | dark    | check and radio buttons        | almost invisible when empty | subtle outline |
 | dark    | check and radio buttons        | dark foreground | white foreground (\#F0F0F0) |
+| all     | terminal background color      | Dark grey (\#3F3F3F) | 6% darker (\#303030) |
+
+## Contrasts on base (light) themes
+**Mint-Y-Blue / Mint-Yz-Base-BlueElectron**
 
 ![Mint-Y-Colors/contrasts-light.png](Mint-Y-Colors/contrasts-light.png)
+
+## Contrasts on dark themes
+**Mint-Y-Dark-Blue / Mint-Yz-Dark-BlueElectron**
 
 ![Mint-Y-Colors/contrasts-dark.png](Mint-Y-Colors/contrasts-dark.png)
 
