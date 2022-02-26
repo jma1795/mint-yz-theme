@@ -3050,7 +3050,7 @@ SushiFontWidget {
 vte-terminal.terminal-screen {
   -TerminalScreen-background-darkness: 1.0;
   background-color: #303030;
-  color: #F0F0F0; }
+  color: #FFFFFF; }
 
 terminal-screen-container,
 terminal-screen-container scrollbar:not(slider) {
@@ -3073,7 +3073,7 @@ TerminalWindow .notebook .active-page .button:active, TerminalWindow .notebook .
 vte-terminal {
   -TerminalScreen-background-darkness: 1.0;
   background-color: #303030;
-  color: #F0F0F0; }
+  color: #FFFFFF; }
 
 .nautilus-canvas-item {
   border-radius: 2px; }
