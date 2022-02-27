@@ -52,6 +52,7 @@ First, check your system is not too old for this theme to work properly. This th
 
 * Square window corners everywhere. I like round corners, but not when the top ones are round while the bottom ones are square. Additionally, on the official Mint-Y, the design keeps changing all the time. You get round top corners when the window is in the middle of the screen, and they turn square when you push tile. I don't like that. More over, there is a small rendering bug with Metacity round corners. All these problems are simply avoided by making all window corners square. Everywhere.
 * No backgrounds on window close buttons. Round red background on hovering. That's nicer, and more logical. Before, with the default Mint-Y color, the close button was... green !? And we are also avoiding an old bug in the theme chooser !
+* Accent color on active button background. That's a revert, setting it as it is on the old Mint-Y-Legacy. Things are more consistent that way, in my opinion. Small buttons such as radio and checkbox are coloured, and the same rule applies for bigger buttons, here on Mint-Yz.
 * Subtle rounded corners on buttons and entries (3px -> 5px).
 * Solid and coloured outlines on focused buttons and entries: more visible and nicer.
 * No dashed outlines on other elements. This was unneeded and ugly. (Same as Mint-X here.)
