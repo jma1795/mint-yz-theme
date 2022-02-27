@@ -31,14 +31,15 @@ First, check your system is not too old for this theme to work properly. This th
 
 # Contrasts
 
-| Variant | Category                        | Mint-Y        | Mint-Yz       |
-| ------- | ------------------------------- | ------------- | ------------- |
-| all     | buttons and entries backgrounds | no contrast   | subtle contrast |
-| base    | hovering on buttons             | lighten (too subtle!) | darken 5% (better) |
-| dark    | base color vs background color  | almost no difference | 2X difference | 
-| dark    | check and radio buttons        | almost invisible when empty | subtle outline |
-| dark    | check and radio buttons        | dark foreground | white foreground (\#F0F0F0) |
-| all     | terminal background color      | Dark grey (\#3F3F3F) | 6% darker (\#303030) |
+| Variant | Category                        | Mint-Y                | Mint-Yz               |
+| ------- | ------------------------------- | --------------------- | --------------------- |
+| all     | buttons and entries backgrounds | no contrast           | subtle contrast       |
+| base    | hovering on buttons             | lighten (too subtle!) | darken 5% (better)    |
+| dark    | base color vs background color  | almost no difference  | 2X difference         | 
+| dark    | check and radio buttons         | almost invisible when empty | subtle outline  |
+| dark    | check and radio buttons         | dark foreground | white foreground (\#F0F0F0) |
+| dark    | window title, unfocused/focused | not much difference   | much more difference  |
+| all     | terminal background color       | Dark grey (\#3F3F3F)  | 6% darker (\#303030)  |
 
 ## Contrasts on dark themes : Mint-Y-Dark-Blue vs Mint-Yz-Dark-BlueElectron
 
