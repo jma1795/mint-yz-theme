@@ -17,7 +17,7 @@ There is a lot of work into this new Mint-Yz. Over 200 commits. Build onto the l
 
 First, check your system is not too old for this theme to work properly. This theme works well on Linux Mint 19, Linux Mint 20, and newer versions. (GTK+ 3.22 or newer) **Entirely tested** and re-tested on LinuxMint Cinnamon 20.3, and quickly tested on Mint Mate 20.3 and Mint Xfce 20.3.
 
-1. Go to the [Releases](https://github.com/SebastJava/mint-yz-theme/releases) page. Select the latest. Click on the **mint-yz-theme_x.x_all.deb** Debian package to download or open.
+1. Go to the [LATEST RELEASE](https://github.com/SebastJava/mint-yz-theme/releases/latest) page. Click on the **mint-yz-theme_x.x_all.deb** Debian package to download or open.
 1. Open it and click the **[Install Package]** button.
 1. Select your new themes in **Menu > Preferences > Themes**.
 
