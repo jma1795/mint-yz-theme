@@ -35,8 +35,8 @@ y_hex_colors2["RedShine"] = "#E50012"
 y_hex_colors1["OrangeShine"] = "#FF791A"
 y_hex_colors2["OrangeShine"] = "#FF791A"
 
-y_hex_colors1["AquaShine"] = "#0BA0D1"
-y_hex_colors2["AquaShine"] = "#0BA0D1"
+y_hex_colors1["AquaShine"] = "#17A0CD"
+y_hex_colors2["AquaShine"] = "#17A0CD"
 
 y_hex_colors1["Pink"] = "#F656A5"
 y_hex_colors2["Pink"] = "#EB4798"
