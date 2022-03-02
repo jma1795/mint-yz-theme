@@ -21,6 +21,14 @@ First, check your system is not too old for this theme to work properly. This th
 1. Open it and click the **[Install Package]** button.
 1. Select your new themes in **Menu > Preferences > Themes**.
 
+## Remove (optional)
+
+If you changed your mind and want to remove this group of themes, there are many ways to do so. But first of all, make sure you are not using these Mint-Yz themes anymore. Open Menu > Preferences > Themes or Appearances, and select something else, such as Mint-Y or Mint-X, for your "Controls," "Desktop," and "Window borders." Next, do one of these :
+
+1. First method : You can open your terminal and type `apt remove mint-yz-theme`.
+1. Second method : Or you can also open your Synaptic Package Manager, search (Ctrl+F) for `mint-yz-theme`, mark for removal, and apply.
+1. Radical method : Not recommended ! You should prefer the first or second method. But if you find you did not get a complete removal, then you can type `sudo rm -rf /usr/share/themes/Mint-Yz*` in your terminal.
+
 # Colors
 
 **Colors according to everyone's needs.**  
