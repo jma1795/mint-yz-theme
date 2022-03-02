@@ -1,3 +1,10 @@
+mint-yz-theme (3.1) UNRELEASED; urgency=medium
+
+  * AquaShine HSL = 195,80,45
+  * README.md how-to-remove
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Tue, 01 Mar 2022 19:19:15 -0500 
+
 mint-yz-theme (3.0) UNRELEASED; urgency=medium
 
   * Updated from the upstream Mint-Y 1-9-8 and restarted from there.
