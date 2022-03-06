@@ -71,8 +71,6 @@ If you changed your mind and want to remove this group of themes, there are many
 * Message colors are better. That's for things like that green save button in the Xed text editor, or this red Logout button.
 * And there are some small bug fixes. Et cetera.
 
-![Mint-Y-Colors/Nemo-Base-MintGum.png](Mint-Y-Colors/Nemo-Base-MintGum.png)
-
 ---
 
 ## Credits
