@@ -3,8 +3,8 @@
 
 <svg
    width="1080"
-   height="2000"
-   viewBox="0 0 1080 2000"
+   height="920"
+   viewBox="0 0 1080 920"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
@@ -30,9 +30,9 @@
      units="px"
      inkscape:showpageshadow="false"
      width="960px"
-     inkscape:zoom="0.433"
-     inkscape:cx="539.26097"
-     inkscape:cy="1000"
+     inkscape:zoom="1"
+     inkscape:cx="540.5"
+     inkscape:cy="460"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="0"
@@ -49,41 +49,9 @@
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#bfbfbf;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        id="rect863"
        width="1080"
-       height="2000"
+       height="920"
        x="0"
        y="0" />
-    <image
-       width="960"
-       height="300"
-       preserveAspectRatio="none"
-       xlink:href="B-Orange_&amp;_Aqua.png"
-       id="image1077"
-       x="40"
-       y="1660" />
-    <image
-       width="960"
-       height="300"
-       preserveAspectRatio="none"
-       xlink:href="D-Orange_&amp;_Purple.png"
-       id="image1125"
-       x="80"
-       y="1390" />
-    <image
-       width="960"
-       height="300"
-       preserveAspectRatio="none"
-       xlink:href="B-Purple_&amp;_Yellow.png"
-       id="image1089"
-       x="40"
-       y="1120" />
-    <image
-       width="960"
-       height="300"
-       preserveAspectRatio="none"
-       xlink:href="D-MintGum_&amp;_Aqua.png"
-       id="image1113"
-       x="80"
-       y="850" />
     <image
        width="960"
        height="300"
@@ -96,8 +64,8 @@
        width="960"
        height="300"
        preserveAspectRatio="none"
-       xlink:href="D-Aqua_&amp;_BlueBelize.png"
-       id="image1101"
+       xlink:href="D-Orange_&amp;_Purple.png"
+       id="image1125"
        x="80"
        y="310" />
     <image
