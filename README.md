@@ -4,8 +4,7 @@
 
 # Colors, Contrasts, and Design
 
-Don't miss the Mint-Yz-icons with the same color scheme:  
-(WIP — Mint-Yz-icons are not ready yet !)
+Don't miss the [Mint-Yz-icons](https://github.com/SebastJava/mint-yz-icons#readme) with the same color scheme !
 
 **This is a new pack of various colour themes. 9 different colors, in both light and dark variants. That makes 18 new GTK themes. This will change the look of your entire LinuxMint system. These 18 colour variations are all packed into one Debian package. One download, one double-click, and then you can choose some new, fresh colors for your entire system.**
 
