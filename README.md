@@ -1,5 +1,7 @@
 ![Mint-Y-Colors/Mint-Y-Variations-compare-OLD.png](Mint-Y-Colors/Mint-Y-Variations-compare-OLD.png)
 
+![Mint-Y-Colors/mix/mix.png](Mint-Y-Colors/mix/mix.png)
+
 **Mint-Yz GTK themes:**
 
 # Colors, Contrasts, and Design
@@ -19,6 +21,8 @@ First, check your system is not too old for this theme to work properly. This th
 1. Go to the [LATEST RELEASE](https://github.com/SebastJava/mint-yz-theme/releases/latest) page. Click on the **mint-yz-theme_x.x_all.deb** Debian package to download or open.
 1. Open it and click the **[Install Package]** button.
 1. Select your new themes in **Menu > Preferences > Themes**.
+
+![cinnamon-settings themes](Mint-Y-Colors/mix/cinnamon-settings themes.png)
 
 ## Remove (optional)
 
