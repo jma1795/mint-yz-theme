@@ -22,7 +22,7 @@ First, check your system is not too old for this theme to work properly. This th
 1. Open it and click the **[Install Package]** button.
 1. Select your new themes in **Menu > Preferences > Themes**.
 
-![cinnamon-settings themes](Mint-Y-Colors/mix/cinnamon-settings themes.png)
+![cinnamon-settings_themes](Mint-Y-Colors/mix/cinnamon-settings_themes.png)
 
 ## Remove (optional)
 
