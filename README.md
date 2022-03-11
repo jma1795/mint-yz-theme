@@ -14,7 +14,7 @@ This Mint-Yz is a fork from the standard, reliable Mint-Y theme. It is renamed "
 
 There is a lot of work into this new Mint-Yz. Over 200 commits. Build onto the latest stable Mint-Y, version 1.9.8. A lot of work got into creating, modifying, and testing those colors over and over again. But that's not only some new, nice colors here. There is much more than that here. There are also many subtle contrasts improvements. Making things more readable, and clearer. And then, there are also some subtle design improvements on top of all this. But not too much. You already like your Mint-Y theme, so this is just a bit different: this little "z" added to "Mint-Y", renaming it "Mint-Yz".
 
-## Download and Install
+# Download and Install
 
 First, check your system is not too old for this theme to work properly. This theme works well on Linux Mint 19, Linux Mint 20, and newer versions. (GTK+ 3.22 or newer) **Entirely tested** and re-tested on LinuxMint Cinnamon 20.3, and quickly tested on Mint Mate 20.3 and Mint Xfce 20.3.
 
@@ -39,6 +39,42 @@ If you changed your mind and want to remove this group of themes, there are many
 **Sufficiently contrasted colors.**  
 
 ![Mint-Y-Colors/Mint-Y-Variations.png](Mint-Y-Colors/Mint-Y-Variations.png)
+
+These colors have been chosen with the utmost care. They have been tested, modified, and re-tested again and again. Design isn't about making things pretty OR functional, it's about making things functional AND pretty.
+
+Several factors were considered here. First, you need a good contrast between the color and the white text. But the [WCAG](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) requirements are sometimes too burdensome. I try to have at least a 3:1 color contrast. Well, eight out of nine Mint-Yz colors have at least that minimum of 3:1 color contrast. At least ! In comparison, the majority of the standard Mint-Y colors fail this test.
+
+## Color contrasts with the foreground white text
+
+| Mint-Y color contrast ratios  | Mint-Yz color contrast ratios |
+| ----------------------------- | ----------------------------- |
+| 2.4 Mint                      | 2.4 MintClassic = Mint        |
+| 4.5 Blue                      | 4.3 BlueBelize                |
+| 2.7 Grey                      | 4.5 Grey                      |
+| 2.7 Teal                      | 3.0 MintGum                   |
+| 0.0 (nothing)                 | 3.9 BlueElectron              |
+| 4.0 Purple                    | 6.3 Purple                    |
+| 4.3 Red                       | 4.3 RedShine                  |
+| 2.3 Orange                    | 2.6 OrangeShine               |
+| 2.5 Aqua                      | 3.0 AquaShine                 |
+| 3.8 Pink                      | 3.1 Pink                      |
+| 3.3 Brown                     | 0.0 (nothing)                 |
+| 2.2 Sand                      | 0.0 (nothing)                 |
+| 6 out of 11 colors lacks sufficient contrast | 1 out of 9 colors lacks sufficient contrast (*) |
+
+(*) *Not counting MintClassic because this one is mostly there for technical purposes.*
+
+## Other color related considerations
+
+And then there are also "gloss" issues that were taken into account. But don't overdo it here either: there is a difference between the background color for a full page versus the background color of a focused element. And, of course, beyond these technical considerations, the color must transmit some good vibrations...
+
+To sum up, here i tried to create a mix of some subdued, flat, or shining colors. Something for each one of us. But please, don't ask me for a subdued orange or red... I could make it, of course, but then i don't call it "orange" or "red" anymore !
+
+**References:**  
+https://colorable.jxnblk.com  
+https://marijohannessen.github.io/color-contrast-checker/  
+https://uxmovement.com/content/why-you-should-avoid-bright-saturated-background-colors/  
+https://uxmovement.com/content/why-you-should-never-use-pure-black-for-text-or-backgrounds/  
 
 # Contrasts
 
