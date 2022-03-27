@@ -50,6 +50,8 @@ All those colors are displayed in **Mint-Y-Colors/Mint-Y-Variations.svg** and th
 
 I made a simple trick to quickly get those values and copy them into the `constants.py` file. Open the `Mint-Y-Colors/Mint-Y-Variations-NEW.svg` file into Inkscape. Check the different layers. There are layers named `colors2`, `colors3` and `colors4`. By making them visible only one layer at a time, i used a color picker to quickly "pick and paste" all the 11 colors for all those colors 1, 2, 3 and 4. But feel free to get those values any way you want.
 
+FOURTH, Do you want to do any other colour edit? Or design? Check this `mint-yz-theme/src/Mint-Y/gtk-3.0/sass/_colors.scss` And all the other files in this `mint-yz-theme/src/Mint-Y/gtk-3.0/sass/` directory! Everything is defined there, and then the `gtk.css` and `gtk-dark.css` are auto-generated when building the themes.
+
 NEXT:
 
 1. Open your Terminal and change directory: `cd ~/mint-yz-theme`.
