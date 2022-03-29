@@ -41,10 +41,10 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="959.5"
-     inkscape:cy="539.5"
+     inkscape:cy="540"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      units="px"
      inkscape:lockguides="false"
      inkscape:window-width="1920"
@@ -626,7 +626,7 @@
      transform="translate(0,-91.799988)"
      style="display:inline">
     <g
-       transform="translate(470,250)"
+       transform="translate(270,250)"
        id="g935">
       <rect
          y="261.79999"
@@ -692,7 +692,7 @@
            sodipodi:role="line">Grey</tspan></text>
     </g>
     <g
-       transform="translate(-130,54.60001)"
+       transform="translate(-130,274.60001)"
        id="g990">
       <rect
          style="vector-effect:none;fill:#db9d61;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -714,7 +714,7 @@
            id="tspan902">Orange</tspan></text>
     </g>
     <g
-       transform="translate(70,270)"
+       transform="translate(270,270)"
        id="g970">
       <rect
          style="opacity:1;vector-effect:none;fill:#c76199;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -736,7 +736,7 @@
            id="tspan910">Pink</tspan></text>
     </g>
     <g
-       transform="translate(-330,270)"
+       transform="translate(270,50)"
        id="g977">
       <rect
          y="461.79999"
@@ -758,7 +758,7 @@
            sodipodi:role="line">Purple</tspan></text>
     </g>
     <g
-       transform="translate(-530,50)"
+       transform="translate(-530,270)"
        id="g984">
       <rect
          style="opacity:1;vector-effect:none;fill:#c15b58;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -801,15 +801,8 @@
            y="761.59198"
            style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1">Sand</tspan></text>
     </g>
-    <rect
-       y="731.79999"
-       x="690"
-       height="180"
-       width="180"
-       id="rect840"
-       style="vector-effect:none;fill:#767676;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
-       transform="translate(470,250)"
+       transform="translate(270,250)"
        id="g942">
       <rect
          y="261.79999"
@@ -831,7 +824,7 @@
            sodipodi:role="line">Blue</tspan></text>
     </g>
     <g
-       transform="translate(470,70)"
+       transform="translate(70,-150)"
        id="g983">
       <rect
          y="661.79999"
@@ -884,5 +877,29 @@
        x="960"
        y="101.79999"
        clip-path="url(#clipPath2354)" />
+    <g
+       transform="translate(470,270)"
+       id="g12501">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#e7bc0d;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect12495"
+         width="180"
+         height="180"
+         x="220"
+         y="461.79999" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="239.56799"
+         y="561.59198"
+         id="text12499"><tspan
+           sodipodi:role="line"
+           x="239.56799"
+           y="561.59198"
+           style="font-size:24px;line-height:18px;fill:#ffffff;fill-opacity:1"
+           id="tspan12497">Yellow <tspan
+   style="font-size:16px"
+   id="tspan26949">(icons)</tspan></tspan></text>
+    </g>
   </g>
 </svg>
