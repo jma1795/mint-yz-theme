@@ -22,6 +22,21 @@ First, check your system is not too old for this theme to work properly. This th
 1. Open it and click the **[Install Package]** button.
 1. Select your new themes in **Menu > Preferences > Themes**.
 
+## Alternative manual installation for non-Debian distributions
+If your distribution is not based on Ubuntu or Debian, proceed this way instead.
+
+1. Go to the [LATEST RELEASE](https://github.com/SebastJava/mint-yz-theme/releases/latest) page. Click on the **mint-yz-theme_x.x.zip** to download or open.
+1. Extract this zip.
+1. Open your terminal and do this:  
+```
+# REMOVE ALL PREVIOUS VERSIONS (because different names were used...)
+sudo rm -rf /usr/share/themes/Mint-Yz-*
+# INSTALL
+cd ~/Downloads # Go to the parent directory
+sudo cp -rf mint-yz-theme_X.X/* /usr/share/themes # Replace X.X with current version number
+```
+Select your new themes in **Menu > Preferences > Themes**.
+
 ![cinnamon-settings_themes](Mint-Y-Colors/mix/cinnamon-settings_themes.png)
 
 ## Remove (optional)
@@ -30,7 +45,7 @@ If you changed your mind and want to remove this group of themes, there are many
 
 1. First method : You can open your terminal and type `apt remove mint-yz-theme`.
 1. Second method : Or you can also open your Synaptic Package Manager, search (Ctrl+F) for `mint-yz-theme`, mark for removal, and apply.
-1. Radical method : Not recommended ! You should prefer the first or second method. But if you find you did not get a complete removal, then you can type `sudo rm -rf /usr/share/themes/Mint-Yz*` in your terminal.
+1. Radical method : Not recommended ! You should prefer the first or second method. But if you find you did not get a complete removal, then you can type `sudo rm -rf /usr/share/themes/Mint-Yz-*` in your terminal.
 
 # Colors
 
@@ -60,9 +75,9 @@ Several factors were considered here. First, you need a good contrast between th
 | 3.8 Pink                      | 3.1 Pink                      |
 | 3.3 Brown                     | 0.0 (nothing)                 |
 | 2.2 Sand                      | 0.0 (nothing)                 |
-| 6 out of 11 colors lacks sufficient contrast | 1 out of 9 colors lacks sufficient contrast (*) |
+| 6 out of 11 colors lacks sufficient contrast | 1 out of 9 colors lacks sufficient contrast (1) |
 
-(*) *Not counting MintClassic because this one is mostly there for technical purposes.*
+(1) *Not counting MintClassic because this one is mostly there for technical purposes.*
 
 ## Other color related considerations
 
@@ -75,6 +90,7 @@ https://colorable.jxnblk.com
 https://marijohannessen.github.io/color-contrast-checker/  
 https://uxmovement.com/content/why-you-should-avoid-bright-saturated-background-colors/  
 https://uxmovement.com/content/why-you-should-never-use-pure-black-for-text-or-backgrounds/  
+https://flatuicolors.com/  
 
 # Contrasts
 
