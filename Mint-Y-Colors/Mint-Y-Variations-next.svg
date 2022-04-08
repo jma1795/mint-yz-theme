@@ -24,7 +24,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="1066.5"
+     inkscape:cx="898.5"
      inkscape:cy="540"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -1109,7 +1109,7 @@
          height="180"
          width="180"
          id="rect24323"
-         style="fill:#0c9de5;fill-opacity:1;stroke-width:0" />
+         style="fill:#1f9ede;fill-opacity:1;stroke-width:0" />
       <text
          id="text24329"
          y="556.51202"
@@ -1125,34 +1125,7 @@
            y="581.51202"
            x="419.35199"
            sodipodi:role="line"
-           id="tspan24327">200,90,47 3.0/2.5</tspan></text>
-    </g>
-    <g
-       id="g9741"
-       transform="translate(850,-50)">
-      <rect
-         y="460"
-         x="400"
-         height="180"
-         width="180"
-         id="rect9733"
-         style="fill:#0c9de5;fill-opacity:1;stroke-width:0" />
-      <text
-         id="text9739"
-         y="556.51202"
-         x="419.35199"
-         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
-         xml:space="preserve"><tspan
-           id="tspan9735"
-           style="font-size:24px;line-height:18px;fill:#ffffff;stroke-width:0"
-           y="556.51202"
-           x="419.35199"
-           sodipodi:role="line">Aqua</tspan><tspan
-           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;stroke-width:0"
-           y="581.51202"
-           x="419.35199"
-           sodipodi:role="line"
-           id="tspan9737">200,90,47 3.0/2.5</tspan></text>
+           id="tspan24327">200,75,50 3.0/2.5</tspan></text>
     </g>
     <g
        id="g20129"
@@ -1207,6 +1180,33 @@
            x="419.35199"
            sodipodi:role="line"
            id="tspan20135">210,100,42</tspan></text>
+    </g>
+    <g
+       id="g5799"
+       transform="translate(850,-50)">
+      <rect
+         y="460"
+         x="400"
+         height="180"
+         width="180"
+         id="rect5791"
+         style="fill:#1f9ede;fill-opacity:1;stroke-width:0" />
+      <text
+         id="text5797"
+         y="556.51202"
+         x="419.35199"
+         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
+         xml:space="preserve"><tspan
+           id="tspan5793"
+           style="font-size:24px;line-height:18px;fill:#ffffff;stroke-width:0"
+           y="556.51202"
+           x="419.35199"
+           sodipodi:role="line">Aqua</tspan><tspan
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;stroke-width:0"
+           y="581.51202"
+           x="419.35199"
+           sodipodi:role="line"
+           id="tspan5795">200,75,50 3.0/2.5</tspan></text>
     </g>
   </g>
 </svg>
