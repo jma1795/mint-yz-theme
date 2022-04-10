@@ -50,6 +50,7 @@ echo "________________________________________________"; echo
 echo "NOW RUNNING generate-themes.py"; echo
 ./generate-themes.py && echo &&
 echo "NOW COPYING FILES into /usr/share/themes as superuser" &&
+sudo rm -rf /usr/share/themes/Mint-Yz-* # Because different names were used before...
 sudo cp -rf usr/share/themes/Mint-Yz* /usr/share/themes
 echo "________________________________________________"; echo
 echo "GIT STATUS:"
