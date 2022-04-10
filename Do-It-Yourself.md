@@ -29,7 +29,8 @@ If you want to create your own theme, here is what to do.
 
 FIRST, install the required software and packages listed above.
 
-SECOND, Git clone this repository, using your terminal: `git clone https://github.com/SebastJava/mint-yz-theme.git`.
+SECOND, Git clone this repository, using your terminal:  
+`git clone https://github.com/SebastJava/mint-yz-theme.git`.
 
 THIRD, Edit the main colors 1, plus colors 2 in **Mint-Y-Colors/Mint-Y-Variations.svg** and then in **constants.py**
 
@@ -56,6 +57,7 @@ BUILD, METHOD A:
 THAT'S IT !
 
 BUILD, METHOD B:
+
 All the steps from "method A" are included in the `ALL.sh <color>` script...
 
 1. Open your Terminal and change directory: `cd ~/mint-yz-theme`.
