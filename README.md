@@ -18,22 +18,15 @@ There is a lot of work into this new Mint-Yz. Over 200 commits. Build onto the l
 
 First, check your system is not too old for this theme to work properly. This theme works well on Linux Mint 19, Linux Mint 20, and newer versions. (GTK+ 3.22 or newer) **Entirely tested** and re-tested on LinuxMint Cinnamon 20.3, and quickly tested on Mint Mate 20.3 and Mint Xfce 20.3.
 
-1. Go to the [LATEST RELEASE](https://github.com/SebastJava/mint-yz-theme/releases/latest) page. Click on the **mint-yz-theme_x.x_all.deb** Debian package to download or open.
-1. Open it and click the **[Install Package]** button.
-1. Select your new themes in **Menu > Preferences > Themes**.
-
-## Alternative manual installation for non-Debian distributions
-If your distribution is not based on Ubuntu or Debian, proceed this way instead.
-
-1. Go to the [LATEST RELEASE](https://github.com/SebastJava/mint-yz-theme/releases/latest) page. Click on the **mint-yz-theme_x.x.zip** to download or open.
+1. Go to the [LATEST RELEASE](https://github.com/SebastJava/mint-yz-theme/releases/latest) page. Click on the **mint-yz-theme_X.x.x.zip** to download or open.
 1. Extract this zip.
 1. Open your terminal and do this:  
 ```
 # REMOVE ALL PREVIOUS VERSIONS (because different names were used...)
 sudo rm -rf /usr/share/themes/Mint-Yz-*
-# INSTALL
-cd ~/Downloads # Go to the parent directory
-sudo cp -rf mint-yz-theme_X.X/* /usr/share/themes # Replace X.X with current version number
+# INSTALL (replace X.x.x with the current version number)
+cd ~/Downloads/mint-yz-theme_X.x.x
+sudo cp -rf themes/* /usr/share/themes
 ```
 Select your new themes in **Menu > Preferences > Themes**.
 
@@ -41,11 +34,16 @@ Select your new themes in **Menu > Preferences > Themes**.
 
 ## Remove (optional)
 
-If you changed your mind and want to remove this group of themes, there are many ways to do so. But first of all, make sure you are not using these Mint-Yz themes anymore. Open Menu > Preferences > Themes or Appearances, and select something else, such as Mint-Y or Mint-X, for your "Controls," "Desktop," and "Window borders." Next, do one of these :
+If you changed your mind and want to remove this group of themes, there are many ways to do so. But first of all, make sure you are not using these Mint-Yz themes anymore. Open Menu > Preferences > Themes or Appearances, and select something else, such as Mint-Y or Mint-X, for your "Controls," "Desktop," and "Window borders."
 
-1. First method : You can open your terminal and type `apt remove mint-yz-theme`.
+Next, type this in your terminal:  
+`sudo rm -rf /usr/share/themes/Mint-Yz-*`  
+
+### Remove old Debian packages (if any)
+
+1. First method : You can open your terminal and type:  
+`apt remove mint-yz-theme`  
 1. Second method : Or you can also open your Synaptic Package Manager, search (Ctrl+F) for `mint-yz-theme`, mark for removal, and apply.
-1. Radical method : Not recommended ! You should prefer the first or second method. But if you find you did not get a complete removal, then you can type `sudo rm -rf /usr/share/themes/Mint-Yz-*` in your terminal.
 
 # Colors
 
