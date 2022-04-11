@@ -1,0 +1,8 @@
+mint-yz-theme (3.2)
+
+  * Downgraded packaging method to a simple and universal ZIP file.
+  * Color names got changed: Aqua, Red, Orange.
+  * Subtle color updates on Aqua, BlueElectron, BlueBelize.
+  * Updated README and Do-It-Yourself files.
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Sun, 10 Apr 2022 23:15:15 -0400 
