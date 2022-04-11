@@ -73,7 +73,6 @@ First, edit the changelog file. Next:
 cd ~/mint-yz-theme
 cp -r usr/share/themes .
 # X.x.x = version number:
-zip -q -r mint-yz-theme_X.x.x.zip README.md changelog themes
-zip -q -r mint-yz-theme_X.x.x.zip COPYRIGHT LICENSE
+zip -q -r mint-yz-theme_X.x.x.zip COPYRIGHT LICENSE README.md changelog themes
 rm -r themes
 ```
