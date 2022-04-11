@@ -74,5 +74,6 @@ cd ~/mint-yz-theme
 cp -r usr/share/themes .
 # X.x.x = version number:
 zip -q -r mint-yz-theme_X.x.x.zip README.md changelog themes
+zip -q -r mint-yz-theme_X.x.x.zip COPYRIGHT LICENSE
 rm -r themes
 ```
