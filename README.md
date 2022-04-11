@@ -24,8 +24,8 @@ First, check your system is not too old for this theme to work properly. This th
 ```
 # REMOVE ALL PREVIOUS VERSIONS (because different names were used...)
 sudo rm -rf /usr/share/themes/Mint-Yz-*
-# INSTALL (replace X.x.x with the current version number)
-cd ~/Downloads/mint-yz-theme_X.x.x
+# INSTALL
+cd ~/Downloads
 sudo cp -rf themes/* /usr/share/themes
 ```
 Select your new themes in **Menu > Preferences > Themes**.
