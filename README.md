@@ -21,6 +21,7 @@ First, check your system is not too old for this theme to work properly. This th
 1. Go to the [LATEST RELEASE](https://github.com/SebastJava/mint-yz-theme/releases/latest) page. Click on the **mint-yz-theme_X.x.x.zip** to download or open.
 1. Extract this zip.
 1. Open your terminal and do this:  
+
 ```
 # REMOVE ALL PREVIOUS VERSIONS (because different names were used...)
 sudo rm -rf /usr/share/themes/Mint-Yz-*
