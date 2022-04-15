@@ -8,9 +8,9 @@
 
 Don't miss the [Mint-Yz-icons](https://github.com/SebastJava/mint-yz-icons#readme) with the same color scheme !
 
-**This is a new pack of various colour themes. 9 different colors, in both light and dark variants. That makes 18 new GTK themes. This will change the look of your entire LinuxMint system. These 18 colour variations are all packed into one Debian package. One download, one double-click, and then you can choose some new, fresh colors for your entire system.**
+**This is a new pack of various colour themes. 9 different colors, in both light and dark variants. That makes 18 new GTK themes. This will change the look of your entire LinuxMint system. These 18 colour variations are all packed into one package. One download, one double-click, and then you can choose some new, fresh colors for your entire system.**
 
-This Mint-Yz is a fork from the standard, reliable Mint-Y theme. It is renamed "Mint-Yz" and is a separate Debian package. Your good old Mint-Y will not be removed or changed. You can always switch back and forth from these Mint-Y and Mint-Yz colors and variants.
+This Mint-Yz is a fork from the standard, reliable Mint-Y theme. It is renamed "Mint-Yz" and is a separate package. Your good old Mint-Y will not be removed or changed. You can always switch back and forth from these Mint-Y and Mint-Yz colors and variants.
 
 There is a lot of work into this new Mint-Yz. Over 200 commits. Build onto the latest stable Mint-Y, version 1.9.8. A lot of work got into creating, modifying, and testing those colors over and over again. But that's not only some new, nice colors here. There is much more than that here. There are also many subtle contrasts improvements. Making things more readable, and clearer. And then, there are also some subtle design improvements on top of all this. But not too much. You already like your Mint-Y theme, so this is just a bit different: this little "z" added to "Mint-Y", renaming it "Mint-Yz".
 
