@@ -19,14 +19,14 @@ Method: https://marijohannessen.github.io/color-contrast-checker/
 | Mint-Y colour contrast ratios  | Mint-Yz colour contrast ratios |
 | ------------------------------ | ------------------------------ |
 | 2.4 Mint                       | 2.4 MintClassic = Mint         |
-| 4.5 Blue                       | 4.3 BlueBelize                 |
+| 4.5 Blue                       | 4.5 BlueBelize                 |
 | 2.7 Grey                       | 4.5 Grey                       |
 | 2.7 Teal                       | 3.0 MintGum                    |
-| 0.0 (nothing)                  | 3.9 BlueElectron               |
+| 0.0 (nothing)                  | 4.5 BlueElectron               |
 | 4.0 Purple                     | 6.3 Purple                     |
-| 4.3 Red                        | 4.3 RedShine                   |
-| 2.3 Orange                     | 2.6 OrangeShine                |
-| 2.5 Aqua                       | 3.0 AquaShine                  |
+| 4.3 Red                        | 4.3 Red                        |
+| 2.3 Orange                     | 2.6 Orange                     |
+| 2.5 Aqua                       | 3.0 Aqua                       |
 | 3.8 Pink                       | 3.1 Pink                       |
 | 3.3 Brown                      | 0.0 (nothing)                  |
 | 2.2 Sand                       | 0.0 (nothing)                  |
