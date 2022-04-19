@@ -79,16 +79,16 @@ https://flatuicolors.com/
 
 ---
 
-![Mint-Y-Colors/Mint-Y-Variations-compare-OLD.png](https://raw.githubusercontent.com/SebastJava/mint-yz-theme/master/Mint-Y-Colors/Mint-Y-Variations-compare-OLD.png)
+![Mint-Y-Colors/Mint-Y-Variations-compare-OLD.png](https://raw.githubusercontent.com/SebastJava/mint-yz-theme/master/Mint-Y-Colors/Mint-Y-Variations-compare-OLD.png)  
 ▲ An image is worth a thousand words...
 
-![Mint-Y-Colors/Mint-Y-Variations.png](https://raw.githubusercontent.com/SebastJava/mint-yz-theme/master/Mint-Y-Colors/Mint-Y-Variations.png)
+![Mint-Y-Colors/Mint-Y-Variations.png](https://raw.githubusercontent.com/SebastJava/mint-yz-theme/master/Mint-Y-Colors/Mint-Y-Variations.png)  
 ▲ There is no simple and standard way to make the dark variants.
 
-![Mint-Y-Colors/mix/mix.png](https://raw.githubusercontent.com/SebastJava/mint-yz-theme/master/Mint-Y-Colors/mix/mix.png)
+![Mint-Y-Colors/mix/mix.png](https://raw.githubusercontent.com/SebastJava/mint-yz-theme/master/Mint-Y-Colors/mix/mix.png)  
 ▲ Mix colours !
 
-![Mint-Y-Colors/contrasts-dark.png](https://raw.githubusercontent.com/SebastJava/mint-yz-theme/master/Mint-Y-Colors/contrasts-dark.png)
+![Mint-Y-Colors/contrasts-dark.png](https://raw.githubusercontent.com/SebastJava/mint-yz-theme/master/Mint-Y-Colors/contrasts-dark.png)  
 ▲ Many subtle contrasts and design improvements there.
 
 ---
