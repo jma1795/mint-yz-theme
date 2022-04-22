@@ -56,7 +56,7 @@ Next, type this in your terminal:
 
 These colors have been chosen with the utmost care. They have been tested, modified, and re-tested again and again. Design isn't about making things pretty OR functional, it's about making things functional AND pretty.
 
-Several factors were considered here. First, you need a good contrast between the color and the white text. But the [WCAG](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) requirements are sometimes too burdensome. I try to have at least a 3:1 color contrast. Well, eight out of nine Mint-Yz colors have at least that minimum of 3:1 color contrast. At least ! In comparison, the majority of the standard Mint-Y colors fail to this test.
+Several factors were considered here. First, you need a good contrast between the color and the white text. But the WCAG requirements are sometimes too burdensome. I try to have at least a 3:1 color contrast. Well, eight out of nine Mint-Yz colors have at least that minimum of 3:1 color contrast. At least ! In comparison, the majority of the standard Mint-Y colors fail to this test.
 
 > A contrast ratio of 3:1 is the minimum level recommended by [ISO-9241-3] and [ANSI-HFES-100-1988] for standard text and vision. The 4.5:1 ratio is used in this provision to account for the loss in contrast that results from moderately low visual acuity, congenital or acquired color deficiencies, or the loss of contrast sensitivity that typically accompanies aging.  
 > source: https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html
