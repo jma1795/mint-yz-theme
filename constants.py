@@ -38,5 +38,5 @@ y_hex_colors2["Red"] = "#E50012"
 y_hex_colors1["Orange"] = "#FF791A"
 y_hex_colors2["Orange"] = "#FF791A"
 
-y_hex_colors1["Pink"] = "#F656A5"
-y_hex_colors2["Pink"] = "#EB4798"
+y_hex_colors1["Pink"] = "#EB47B4"
+y_hex_colors2["Pink"] = "#EB47B4"
