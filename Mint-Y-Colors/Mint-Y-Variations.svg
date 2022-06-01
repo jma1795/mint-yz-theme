@@ -5,17 +5,97 @@
    viewBox="0 0 1920 1080"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
-   sodipodi:docname="Mint-Y-Variations-next.svg"
-   inkscape:export-filename="/home/sebastien/mint-yz-theme/Mint-Y-Colors/Mint-Y-Variations-next.png"
+   inkscape:version="1.2 (1:1.2+202206011327+fc4e4096c5)"
+   sodipodi:docname="Mint-Y-Variations.svg"
+   inkscape:export-filename="Mint-Y-Variations.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3414">
+      <stop
+         style="stop-color:#737373;stop-opacity:1;"
+         offset="0"
+         id="stop3410" />
+      <stop
+         style="stop-color:#737373;stop-opacity:0;"
+         offset="1"
+         id="stop3412" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3166">
+      <stop
+         style="stop-color:#cccccc;stop-opacity:1;"
+         offset="0"
+         id="stop3162" />
+      <stop
+         style="stop-color:#cccccc;stop-opacity:0;"
+         offset="1"
+         id="stop3164" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3166"
+       id="linearGradient3168"
+       x1="380"
+       y1="183"
+       x2="860"
+       y2="183"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3166"
+       id="linearGradient3170"
+       x1="342"
+       y1="403"
+       x2="860"
+       y2="403"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3166"
+       id="linearGradient3172"
+       x1="352"
+       y1="623"
+       x2="859.99997"
+       y2="623"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3414"
+       id="linearGradient3416"
+       x1="1340"
+       y1="183"
+       x2="1820"
+       y2="183"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3414"
+       id="linearGradient3418"
+       x1="1302"
+       y1="403"
+       x2="1820"
+       y2="403"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3414"
+       id="linearGradient3420"
+       x1="1312"
+       y1="623"
+       x2="1820"
+       y2="623"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#e5e5e5"
@@ -23,11 +103,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="1083.5"
+     inkscape:zoom="0.80185185"
+     inkscape:cx="735.79677"
      inkscape:cy="540"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer7"
      showgrid="false"
      units="px"
      inkscape:lockguides="false"
@@ -47,19 +127,26 @@
      inkscape:document-rotation="0"
      showborder="false"
      inkscape:showpageshadow="false"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#e5e5e5"
+     showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid818"
        originx="90"
        originy="170"
-       spacingx="20"
-       spacingy="20"
+       spacingx="5"
+       spacingy="5"
        empcolor="#000000"
        empopacity="0.05882353"
-       empspacing="10"
+       empspacing="4"
        color="#000000"
        opacity="0.03137255" />
+    <sodipodi:guide
+       position="0,1025"
+       orientation="0,-1"
+       id="guide1535"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <g
      inkscape:groupmode="layer"
@@ -91,19 +178,19 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="1049.7841"
-       y="54.948002"
+       x="1059.856"
+       y="67.435997"
        id="text947-3"><tspan
          sodipodi:role="line"
-         x="1049.7841"
-         y="54.948002"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;fill-opacity:1"
-         id="tspan921-6">Mint-Yz: The New Colors of a New Era</tspan><tspan
+         x="1059.856"
+         y="67.435997"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ffffff;fill-opacity:1"
+         id="tspan921-6">Mint-Yz: new colors for a new era</tspan><tspan
          id="tspan135-7"
          sodipodi:role="line"
-         x="1049.7841"
-         y="88.755692"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;fill-opacity:1">All the colors of the dark variant (colors2) in one picture...</tspan></text>
+         x="1059.856"
+         y="100.10065"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;fill-opacity:1">All the colors for the dark variant (colors2) in one picture...</tspan></text>
     <g
        id="g1125">
       <rect
@@ -390,97 +477,33 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="89.783997"
-       y="54.948002"
+       x="99.856003"
+       y="67.435997"
        id="text947"><tspan
          sodipodi:role="line"
-         x="89.783997"
-         y="54.948002"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#000000;fill-opacity:1"
-         id="tspan921">Mint-Yz: The New Colors of a New Era</tspan><tspan
+         x="99.856003"
+         y="67.435997"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000000;fill-opacity:1"
+         id="tspan921">Mint-Yz: new colors for a new era</tspan><tspan
          id="tspan135"
          sodipodi:role="line"
-         x="89.783997"
-         y="88.755692"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#000000;fill-opacity:1">All the colors of the light base (colors1) in one picture...</tspan></text>
+         x="99.856003"
+         y="100.10065"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#000000;fill-opacity:1">All the colors for the light base (colors1) in one picture...</tspan></text>
+    <path
+       style="fill:none;stroke:#d9d9d9;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1,0 V 1080"
+       id="path523" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1919,0 V 1080"
+       id="path1134" />
   </g>
   <g
      inkscape:label="colors"
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline">
-    <g
-       id="g888"
-       transform="translate(90,170)">
-      <rect
-         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0"
-         id="rect117661"
-         width="780"
-         height="20"
-         x="0"
-         y="0" />
-      <text
-         xml:space="preserve"
-         style="font-size:16px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:end;text-anchor:end;stroke-width:0"
-         x="9.4080048"
-         y="16.344"
-         id="text122195"><tspan
-           sodipodi:role="line"
-           id="tspan122193"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0"
-           x="9.4080048"
-           y="16.344">SUBDUED <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0"
-   id="tspan171659">name + HSL + new/old color contrast</tspan></tspan></text>
-    </g>
-    <g
-       id="g894"
-       transform="translate(90,170)">
-      <rect
-         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0"
-         id="rect5080"
-         width="780"
-         height="20"
-         x="0"
-         y="220" />
-      <text
-         xml:space="preserve"
-         style="font-size:16px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:end;text-anchor:end;stroke-width:0"
-         x="8.7200012"
-         y="236.088"
-         id="text5086"><tspan
-           sodipodi:role="line"
-           id="tspan5084"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0"
-           x="8.7200012"
-           y="236.088">FLAT <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0"
-   id="tspan5082">name + HSL + new/old color contrast</tspan></tspan></text>
-    </g>
-    <g
-       id="g900"
-       transform="translate(90,170)">
-      <rect
-         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0"
-         id="rect5088"
-         width="780"
-         height="20"
-         x="0"
-         y="440" />
-      <text
-         xml:space="preserve"
-         style="font-size:16px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:end;text-anchor:end;stroke-width:0"
-         x="9.4080048"
-         y="456.34399"
-         id="text5094"><tspan
-           sodipodi:role="line"
-           id="tspan5092"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0"
-           x="9.4080048"
-           y="456.34399">SHINE <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0"
-   id="tspan5090">name + HSL + new/old color contrast</tspan></tspan></text>
-    </g>
     <g
        id="g906"
        transform="translate(90,170)">
@@ -490,7 +513,9 @@
          height="180"
          width="180"
          id="rect838"
-         style="fill:#92b372;fill-opacity:1;stroke-width:0" />
+         style="fill:#92b372;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
       <text
          id="text844"
          y="116.51201"
@@ -517,7 +542,9 @@
          height="180"
          width="180"
          id="rect8373"
-         style="fill:#808080;fill-opacity:1;stroke-width:0" />
+         style="fill:#808080;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
       <text
          id="text8379"
          y="116.51201"
@@ -544,7 +571,9 @@
          height="180"
          width="180"
          id="rect8381"
-         style="fill:#277cb7;fill-opacity:1;stroke-width:0" />
+         style="fill:#277cb7;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
       <text
          id="text8387"
          y="116.51201"
@@ -571,7 +600,9 @@
          height="180"
          width="180"
          id="rect8389"
-         style="fill:#767676;fill-opacity:1;stroke-width:0" />
+         style="fill:#767676;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
       <text
          id="text8395"
          y="116.51224"
@@ -598,7 +629,9 @@
          height="180"
          width="180"
          id="rect8397"
-         style="fill:#ffc71a;fill-opacity:1;stroke-width:0" />
+         style="fill:#ffc71a;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
       <text
          id="text8403"
          y="336.51202"
@@ -627,7 +660,9 @@
          height="180"
          width="180"
          id="rect8405"
-         style="fill:#09a78d;fill-opacity:1;stroke-width:0" />
+         style="fill:#09a78d;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
       <text
          id="text8411"
          y="336.51202"
@@ -654,7 +689,9 @@
          height="180"
          width="180"
          id="rect8413"
-         style="fill:#0c75de;fill-opacity:1;stroke-width:0" />
+         style="fill:#0c75de;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
       <text
          id="text8419"
          y="336.51202"
@@ -681,7 +718,9 @@
          height="180"
          width="180"
          id="rect8421"
-         style="fill:#8245a1;fill-opacity:1;stroke-width:0" />
+         style="fill:#8245a1;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
       <text
          id="text8427"
          y="336.51202"
@@ -708,7 +747,9 @@
          height="180"
          width="180"
          id="rect8429"
-         style="fill:#f20d20;fill-opacity:1;stroke-width:0" />
+         style="fill:#f20d20;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
       <text
          id="text8435"
          y="556.51202"
@@ -735,7 +776,9 @@
          height="180"
          width="180"
          id="rect8437"
-         style="fill:#ff791a;fill-opacity:1;stroke-width:0" />
+         style="fill:#ff791a;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
       <text
          id="text8443"
          y="556.51202"
@@ -762,7 +805,9 @@
          height="180"
          width="180"
          id="rect8453"
-         style="fill:#f656a5;fill-opacity:1;stroke-width:0" />
+         style="fill:#f656a5;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
       <text
          id="text8459"
          y="556.51202"
@@ -781,78 +826,6 @@
            id="tspan8457">330,90,65 3.1/3.8</tspan></text>
     </g>
     <g
-       id="g120940"
-       transform="translate(1050,170)">
-      <rect
-         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0"
-         id="rect120932"
-         width="780"
-         height="20"
-         x="0"
-         y="0" />
-      <text
-         xml:space="preserve"
-         style="font-size:16px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:end;text-anchor:end;stroke-width:0"
-         x="9.4080048"
-         y="16.344"
-         id="text120938"><tspan
-           sodipodi:role="line"
-           id="tspan120936"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0"
-           x="9.4080048"
-           y="16.344">SUBDUED <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0"
-   id="tspan120934">name + HSL + new/old color contrast</tspan></tspan></text>
-    </g>
-    <g
-       id="g120950"
-       transform="translate(1050,170)">
-      <rect
-         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0"
-         id="rect120942"
-         width="780"
-         height="20"
-         x="0"
-         y="220" />
-      <text
-         xml:space="preserve"
-         style="font-size:16px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:end;text-anchor:end;stroke-width:0"
-         x="8.7200012"
-         y="236.088"
-         id="text120948"><tspan
-           sodipodi:role="line"
-           id="tspan120946"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0"
-           x="8.7200012"
-           y="236.088">FLAT <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0"
-   id="tspan120944">name + HSL + new/old color contrast</tspan></tspan></text>
-    </g>
-    <g
-       id="g120960"
-       transform="translate(1050,170)">
-      <rect
-         style="fill:#bfbfbf;fill-opacity:1;stroke-width:0"
-         id="rect120952"
-         width="780"
-         height="20"
-         x="0"
-         y="440" />
-      <text
-         xml:space="preserve"
-         style="font-size:16px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:end;text-anchor:end;stroke-width:0"
-         x="9.4080048"
-         y="456.34399"
-         id="text120958"><tspan
-           sodipodi:role="line"
-           id="tspan120956"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0"
-           x="9.4080048"
-           y="456.34399">SHINE <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0"
-   id="tspan120954">name + HSL + new/old color contrast</tspan></tspan></text>
-    </g>
-    <g
        id="g120970"
        transform="translate(1050,170)">
       <rect
@@ -861,7 +834,9 @@
          height="180"
          width="180"
          id="rect120962"
-         style="fill:#84a960;fill-opacity:1;stroke-width:0" />
+         style="fill:#84a960;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
       <text
          id="text120968"
          y="116.51201"
@@ -888,7 +863,9 @@
          height="180"
          width="180"
          id="rect120972"
-         style="fill:#808080;fill-opacity:1;stroke-width:0" />
+         style="fill:#808080;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
       <text
          id="text120978"
          y="116.51201"
@@ -915,7 +892,9 @@
          height="180"
          width="180"
          id="rect120992"
-         style="fill:#767676;fill-opacity:1;stroke-width:0" />
+         style="fill:#767676;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
       <text
          id="text120998"
          y="116.51224"
@@ -942,7 +921,9 @@
          height="180"
          width="180"
          id="rect121032"
-         style="fill:#8245a1;fill-opacity:1;stroke-width:0" />
+         style="fill:#8245a1;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
       <text
          id="text121038"
          y="336.51202"
@@ -969,7 +950,9 @@
          height="180"
          width="180"
          id="rect121042"
-         style="fill:#e50012;fill-opacity:1;stroke-width:0" />
+         style="fill:#e50012;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
       <text
          id="text121048"
          y="556.51202"
@@ -996,7 +979,9 @@
          height="180"
          width="180"
          id="rect121052"
-         style="fill:#ff791a;fill-opacity:1;stroke-width:0" />
+         style="fill:#ff791a;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
       <text
          id="text121058"
          y="556.51202"
@@ -1026,7 +1011,9 @@
          style="fill:#eb4798;fill-opacity:1;stroke-width:0"
          inkscape:export-filename="/home/sebastien/mint-yz-theme/Mint-Y-Colors/Mint-Y-Variations.png"
          inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96" />
+         inkscape:export-ydpi="96"
+         rx="10"
+         ry="10" />
       <text
          id="text121078"
          y="556.51202"
@@ -1053,7 +1040,9 @@
          height="180"
          width="180"
          id="rect46476"
-         style="fill:#ffc71a;fill-opacity:1;stroke-width:0" />
+         style="fill:#ffc71a;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
       <text
          id="text46484"
          y="336.51202"
@@ -1082,7 +1071,9 @@
          height="180"
          width="180"
          id="rect46488"
-         style="fill:#009e84;fill-opacity:1;stroke-width:0" />
+         style="fill:#009e84;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
       <text
          id="text46494"
          y="336.51202"
@@ -1109,7 +1100,9 @@
          height="180"
          width="180"
          id="rect24323"
-         style="fill:#1f9ede;fill-opacity:1;stroke-width:0" />
+         style="fill:#1f9ede;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
       <text
          id="text24329"
          y="556.51202"
@@ -1136,7 +1129,9 @@
          height="180"
          width="180"
          id="rect20121"
-         style="fill:#1a73b2;fill-opacity:1;stroke-width:0" />
+         style="fill:#1a73b2;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
       <text
          id="text20127"
          y="116.51201"
@@ -1163,7 +1158,9 @@
          height="180"
          width="180"
          id="rect20131"
-         style="fill:#006bd6;fill-opacity:1;stroke-width:0" />
+         style="fill:#006bd6;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
       <text
          id="text20137"
          y="336.51202"
@@ -1190,7 +1187,9 @@
          height="180"
          width="180"
          id="rect5791"
-         style="fill:#1f9ede;fill-opacity:1;stroke-width:0" />
+         style="fill:#1f9ede;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
       <text
          id="text5797"
          y="556.51202"
@@ -1207,6 +1206,150 @@
            x="419.35199"
            sodipodi:role="line"
            id="tspan5795">200,75,50 3.0/2.5</tspan></text>
+    </g>
+    <g
+       id="g3426"
+       transform="translate(0,-3.4999941)">
+      <text
+         xml:space="preserve"
+         style="font-size:16px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:end;text-anchor:end;fill:#b2b2b2;fill-opacity:1;stroke-width:0"
+         x="99.408005"
+         y="186.34399"
+         id="text122195"><tspan
+           sodipodi:role="line"
+           id="tspan122193"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;text-anchor:start;fill:#b2b2b2;fill-opacity:1;stroke-width:0"
+           x="99.408005"
+           y="186.34399">SUBDUED <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b2b2b2;fill-opacity:1;stroke-width:0"
+   id="tspan171659">name + HSL + new/old color contrast</tspan></tspan></text>
+      <rect
+         style="font-variation-settings:normal;fill:url(#linearGradient3168);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         id="rect1814"
+         width="480"
+         height="7"
+         x="380"
+         y="179.5" />
+    </g>
+    <g
+       id="g3432"
+       transform="translate(0,-3.4999941)">
+      <text
+         xml:space="preserve"
+         style="font-size:16px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:end;text-anchor:end;fill:#b2b2b2;fill-opacity:1;stroke-width:0"
+         x="98.720009"
+         y="406.08801"
+         id="text5086"><tspan
+           sodipodi:role="line"
+           id="tspan5084"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;text-anchor:start;fill:#b2b2b2;fill-opacity:1;stroke-width:0"
+           x="98.720009"
+           y="406.08801">FLAT <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b2b2b2;fill-opacity:1;stroke-width:0"
+   id="tspan5082">name + HSL + new/old color contrast</tspan></tspan></text>
+      <rect
+         style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient3170);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         id="rect2067"
+         width="518"
+         height="7"
+         x="342"
+         y="399.5" />
+    </g>
+    <g
+       id="g3438"
+       transform="translate(0,-3.4999941)">
+      <text
+         xml:space="preserve"
+         style="font-size:16px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:end;text-anchor:end;fill:#b2b2b2;fill-opacity:1;stroke-width:0"
+         x="99.407997"
+         y="626.34399"
+         id="text5094"><tspan
+           sodipodi:role="line"
+           id="tspan5092"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;text-anchor:start;fill:#b2b2b2;fill-opacity:1;stroke-width:0"
+           x="99.407997"
+           y="626.34399">SHINE <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b2b2b2;fill-opacity:1;stroke-width:0"
+   id="tspan5090">name + HSL + new/old color contrast</tspan></tspan></text>
+      <rect
+         style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient3172);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         id="rect2077"
+         width="507.99997"
+         height="7"
+         x="352"
+         y="619.5" />
+    </g>
+    <g
+       id="g3444"
+       transform="translate(0,-3.4999941)">
+      <text
+         xml:space="preserve"
+         style="font-size:16px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:end;text-anchor:end;fill:#b2b2b2;fill-opacity:1;stroke-width:0"
+         x="1059.408"
+         y="186.34399"
+         id="text3384"><tspan
+           sodipodi:role="line"
+           id="tspan3382"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;text-anchor:start;fill:#b2b2b2;fill-opacity:1;stroke-width:0"
+           x="1059.408"
+           y="186.34399">SUBDUED <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b2b2b2;fill-opacity:1;stroke-width:0"
+   id="tspan3380">name + HSL + new/old color contrast</tspan></tspan></text>
+      <rect
+         style="font-variation-settings:normal;fill:url(#linearGradient3416);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         id="rect3386"
+         width="480"
+         height="7"
+         x="1340"
+         y="179.5" />
+    </g>
+    <g
+       id="g3450"
+       transform="translate(0,-3.4999941)">
+      <text
+         xml:space="preserve"
+         style="font-size:16px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:end;text-anchor:end;fill:#b2b2b2;fill-opacity:1;stroke-width:0"
+         x="1058.72"
+         y="406.08801"
+         id="text3392"><tspan
+           sodipodi:role="line"
+           id="tspan3390"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;text-anchor:start;fill:#b2b2b2;fill-opacity:1;stroke-width:0"
+           x="1058.72"
+           y="406.08801">FLAT <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b2b2b2;fill-opacity:1;stroke-width:0"
+   id="tspan3388">name + HSL + new/old color contrast</tspan></tspan></text>
+      <rect
+         style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient3418);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         id="rect3394"
+         width="518"
+         height="7"
+         x="1302"
+         y="399.5" />
+    </g>
+    <g
+       id="g3456"
+       transform="translate(0,-3.4999941)">
+      <text
+         xml:space="preserve"
+         style="font-size:16px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:end;text-anchor:end;fill:#b2b2b2;fill-opacity:1;stroke-width:0"
+         x="1059.408"
+         y="626.34399"
+         id="text3400"><tspan
+           sodipodi:role="line"
+           id="tspan3398"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;text-anchor:start;fill:#b2b2b2;fill-opacity:1;stroke-width:0"
+           x="1059.408"
+           y="626.34399">SHINE <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#b2b2b2;fill-opacity:1;stroke-width:0"
+   id="tspan3396">name + HSL + new/old color contrast</tspan></tspan></text>
+      <rect
+         style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient3420);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         id="rect3402"
+         width="507.99997"
+         height="7"
+         x="1312"
+         y="619.5" />
     </g>
   </g>
 </svg>
