@@ -2,6 +2,11 @@
 
 ![Mint-Y-Colors/mix/mix.png](Mint-Y-Colors/mix/mix.png)
 
+| focused window | mouse hover | mouse click |
+|:----:|:----:|:----:|
+|![Mint-Y-Colors/preview_button_close_bg_focused.png](https://raw.githubusercontent.com/SebastJava/mint-yz-theme/master/Mint-Y-Colors/preview_button_close_bg_focused.png)|![Mint-Y-Colors/preview_button_close_bg_hover.png](https://raw.githubusercontent.com/SebastJava/mint-yz-theme/master/Mint-Y-Colors/preview_button_close_bg_hover.png)|![Mint-Y-Colors/preview_button_close_bg_active.png](https://raw.githubusercontent.com/SebastJava/mint-yz-theme/master/Mint-Y-Colors/preview_button_close_bg_active.png)|
+
+
 **Mint-Yz GTK themes:**
 
 # Colors, Contrasts, and Design
