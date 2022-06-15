@@ -33,7 +33,9 @@ cd ~/Downloads # Go to where you downloaded and extracted your zip.
 sudo cp -rf themes/* /usr/share/themes
 ```
 
-Select your new themes in **Menu > Preferences > Themes**.
+Select your new themes in **Menu > Preferences > Themes**.  
+
+**Note:** The colors and design you see here reflect the latest changes made to this repository. It is the future you see here. See the images on the releases page for an exact match to the themes you are installing.  
 
 ![cinnamon-settings_themes](Mint-Y-Colors/mix/cinnamon-settings_themes.png)
 
