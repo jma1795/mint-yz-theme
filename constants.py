@@ -15,19 +15,19 @@ y_hex_colors1 = {}
 y_hex_colors2 = {}
 
 y_hex_colors1["BlueBelize"] = "#277CB7"
-y_hex_colors2["BlueBelize"] = "#1A73B2"
+y_hex_colors2["BlueBelize"] = "#2471A8"
 
 y_hex_colors1["Grey"] = "#767676"
 y_hex_colors2["Grey"] = "#767676"
 
 y_hex_colors1["MintGum"] = "#09A78D"
-y_hex_colors2["MintGum"] = "#009E84"
+y_hex_colors2["MintGum"] = "#009980"
 
 y_hex_colors1["Aqua"] = "#1F9EDE"
 y_hex_colors2["Aqua"] = "#1F9EDE"
 
 y_hex_colors1["BlueElectron"] = "#0C75DE"
-y_hex_colors2["BlueElectron"] = "#006BD6"
+y_hex_colors2["BlueElectron"] = "#0B6BCB"
 
 y_hex_colors1["Purple"] = "#8245A1"
 y_hex_colors2["Purple"] = "#8245A1"
