@@ -1,8 +1,146 @@
+mint-yz-theme (3.5)
+
+  * TESTING: New design on buttons
+  * NEW COLOR: Orange70s
+  * Selected/Active: accent color on borders too
+  * Modified dark variants: BlueBelize, MintGum, BlueElectron
+  * Modified: Pink
+  * Merged previous debian/changelog into this new changelog
+
 mint-yz-theme (3.2)
 
-  * Downgraded packaging method to a simple and universal ZIP file.
+  * DOWNGRADED PACKAGING METHOD TO A SIMPLE AND UNIVERSAL ZIP FILE.
   * Color names got changed: Aqua, Red, Orange.
   * Subtle color updates on Aqua, BlueElectron, BlueBelize.
   * Updated README and Do-It-Yourself files.
 
  -- Sébastien Bouchard <sebastjava@hotmail.ca>  Sun, 10 Apr 2022 23:15:15 -0400 
+
+mint-yz-theme (3.1) UNRELEASED; urgency=medium
+
+  * AquaShine HSL = 195,80,45
+  * Light/Dark metacity thumbnail
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Wed, 02 Mar 2022 17:49:30 -0500  
+
+mint-yz-theme (3.0) UNRELEASED; urgency=medium
+
+  * Updated from the upstream Mint-Y 1-9-8 and restarted from there.
+  * Many modifications, over 110 commits, 19 branches.
+  * Better colors, contrasts, and design.
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Fri, 11 Feb 2022 12:40:00 -0500 
+
+mint-yz-theme (2.6.1) UNRELEASED; urgency=medium
+
+  * A new approach to the color palette.
+  * 5% darkening for the dark themes.
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Tue, 29 Jun 2021 11:21:30 -0400
+
+mint-yz-theme (2.6) UNRELEASED; urgency=medium
+
+  * A new approach to the color palette.
+  * 5% darkening for the dark themes.
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Mon, 28 Jun 2021 19:54:30 -0400
+
+mint-yz-theme (2.5) UNRELEASED; urgency=medium
+
+  * Subtle updates on some colors.
+  * No more darkening on the dark themes.
+  * No more useless and distracting dashed outlines in file managers.
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Thu, 24 Dec 2020 20:18:00 -0500 
+
+mint-yz-theme (2.4) UNRELEASED; urgency=medium
+
+  * Subtle updates on most colors.
+  * Subtle darkening on most of the dark themes.
+  * Pulled small updates from the upstream source.
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Wed, 02 Dec 2020 21:37:30 -0500 
+
+mint-yz-theme (2.3) UNRELEASED; urgency=medium
+
+  * Subtle updates on 7 colors.
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Fri, 18 Sep 2020 13:02:00 -0400 
+
+mint-yz-theme (2.2) UNRELEASED; urgency=medium
+
+  * Subtle color updates on Orange, Red, Pink, and dark = light.
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Mon, 14 Sep 2020 12:52:00 -0400 
+
+mint-yz-theme (2.1) UNRELEASED; urgency=medium
+
+  * ALL focused buttons get a colored outline.
+  * OR a white outline for the colored buttons.
+  * Subtle color updates. Mint, MintContrast, Red, Pink.
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Thu, 10 Sep 2020 16:36:00 -0400 
+
+mint-yz-theme (2.0.2) UNRELEASED; urgency=medium
+
+  * Button focus is now indicated by a solid colored outline.
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Sun, 06 Sep 2020 19:22:00 -0400  
+
+mint-yz-theme (2.0.1) UNRELEASED; urgency=medium
+
+  * FIXED button focus having same color as selected.
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Sun, 06 Sep 2020 16:34:00 -0400 
+
+mint-yz-theme (2.0) UNRELEASED; urgency=medium
+
+  * Dark accent colors are not much darker, 10% darker or customized.
+  * Color updates. Mint, MintSparkling, BlueDeep.
+  * Buttons and entries rounded corners are a bit more rounded, 3px->5px.
+  * Focused buttons background=selected_bg_color, to see what Enter key does.
+  * Etcetera.
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Fri, 04 Sep 2020 19:56:00 -0400 
+
+mint-yz-theme (1.6) UNRELEASED; urgency=medium
+
+  * PurpleDeep hue 275->270 and Purple saturation 50->67.
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Sat, 22 Aug 2020 12:51:55 -0400
+
+mint-yz-theme (1.5) UNRELEASED; urgency=medium
+
+  * Added PurpleDeep color.
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Fri, 21 Aug 2020 15:29:02 -0400 
+
+mint-yz-theme (1.4) UNRELEASED; urgency=medium
+
+  * MintFresh color update.
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Fri, 07 Aug 2020 20:24:00 -0400
+
+mint-yz-theme (1.3) UNRELEASED; urgency=medium
+
+  * Big color updates.
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Sun, 26 Jul 2020 20:47:00 -0400
+
+mint-yz-theme (1.2) UNRELEASED; urgency=medium
+
+  * Aqua color update.
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Sat, 18 Jul 2020 02:28:00 -0400
+
+mint-yz-theme (1.1) UNRELEASED; urgency=medium
+
+  * The color of the window close button is now defined with hex value.
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Sun, 12 Jul 2020 10:34:00 -0400
+
+mint-yz-theme (1.0) UNRELEASED; urgency=medium
+
+  * Initial release.
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Mon, 06 Jul 2020 11:33:00 -0400
