@@ -24,8 +24,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.80185185"
-     inkscape:cx="1214.6882"
-     inkscape:cy="614.82679"
+     inkscape:cx="1215.3118"
+     inkscape:cy="515.05774"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -442,356 +442,6 @@
      id="layer1"
      style="display:inline">
     <g
-       id="g532"
-       transform="translate(1050,170)">
-      <rect
-         y="20"
-         x="0"
-         height="180"
-         width="180"
-         id="rect524"
-         style="fill:#92b372;fill-opacity:1;stroke-width:0"
-         rx="10"
-         ry="10" />
-      <text
-         id="text530"
-         y="116.51201"
-         x="19.352005"
-         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
-         xml:space="preserve"><tspan
-           id="tspan526"
-           style="font-size:24px;line-height:18px;fill:#ffffff;stroke-width:0"
-           y="116.51201"
-           x="19.352005"
-           sodipodi:role="line">MintClassic</tspan><tspan
-           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;stroke-width:0"
-           y="141.51201"
-           x="19.352005"
-           sodipodi:role="line"
-           id="tspan528">#92B372 2.4/2.4</tspan></text>
-    </g>
-    <g
-       id="g542"
-       transform="translate(1050,170)">
-      <rect
-         y="20"
-         x="200"
-         height="180"
-         width="180"
-         id="rect534"
-         style="fill:#808080;fill-opacity:1;stroke-width:0"
-         rx="10"
-         ry="10" />
-      <text
-         id="text540"
-         y="116.51201"
-         x="219.35201"
-         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
-         xml:space="preserve"><tspan
-           id="tspan536"
-           style="font-size:24px;line-height:18px;fill:#ffffff;stroke-width:0"
-           y="116.51201"
-           x="219.35201"
-           sodipodi:role="line">ColorName</tspan><tspan
-           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;fill:#ffffff;stroke-width:0"
-           y="141.51201"
-           x="219.35201"
-           sodipodi:role="line"
-           id="tspan538">HSL Contrast new/old</tspan></text>
-    </g>
-    <g
-       id="g552"
-       transform="translate(1050,170)">
-      <rect
-         y="20"
-         x="400"
-         height="180"
-         width="180"
-         id="rect544"
-         style="fill:#277cb7;fill-opacity:1;stroke-width:0"
-         rx="10"
-         ry="10" />
-      <text
-         id="text550"
-         y="116.51201"
-         x="419.35199"
-         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
-         xml:space="preserve"><tspan
-           id="tspan546"
-           style="font-size:24px;line-height:18px;fill:#ffffff;stroke-width:0"
-           y="116.51201"
-           x="419.35199"
-           sodipodi:role="line">BlueBelize</tspan><tspan
-           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;stroke-width:0"
-           y="141.51201"
-           x="419.35199"
-           sodipodi:role="line"
-           id="tspan548">205,65,44 4.5/4.5</tspan></text>
-    </g>
-    <g
-       id="g562"
-       transform="translate(1050,170)">
-      <rect
-         y="20"
-         x="600"
-         height="180"
-         width="180"
-         id="rect554"
-         style="fill:#767676;fill-opacity:1;stroke-width:0"
-         rx="10"
-         ry="10" />
-      <text
-         id="text560"
-         y="116.51224"
-         x="619.35132"
-         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
-         xml:space="preserve"><tspan
-           id="tspan556"
-           style="font-size:24.0001px;line-height:18px;fill:#ffffff;stroke-width:0"
-           y="116.51224"
-           x="619.35132"
-           sodipodi:role="line">Grey</tspan><tspan
-           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;stroke-width:0"
-           y="141.51224"
-           x="619.35132"
-           sodipodi:role="line"
-           id="tspan558">0,0,46 4.5/2.7</tspan></text>
-    </g>
-    <g
-       id="g574"
-       transform="translate(1650,390)">
-      <rect
-         y="240"
-         x="0"
-         height="180"
-         width="180"
-         id="rect564"
-         style="fill:#ffc71a;fill-opacity:1;stroke-width:0"
-         rx="10"
-         ry="10" />
-      <text
-         id="text572"
-         y="336.51202"
-         x="19.352005"
-         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
-         xml:space="preserve"><tspan
-           id="tspan568"
-           style="font-size:24px;line-height:18px;fill:#ffffff;stroke-width:0"
-           y="336.51202"
-           x="19.352005"
-           sodipodi:role="line">Yellow <tspan
-   style="font-size:16px"
-   id="tspan566">(icons)</tspan></tspan><tspan
-           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;stroke-width:0"
-           y="361.51202"
-           x="19.352005"
-           sodipodi:role="line"
-           id="tspan570">45,100,55</tspan></text>
-    </g>
-    <g
-       id="g584"
-       transform="translate(850,170)">
-      <rect
-         y="240"
-         x="200"
-         height="180"
-         width="180"
-         id="rect576"
-         style="fill:#09a78d;fill-opacity:1;stroke-width:0"
-         rx="10"
-         ry="10" />
-      <text
-         id="text582"
-         y="336.51202"
-         x="219.35201"
-         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
-         xml:space="preserve"><tspan
-           id="tspan578"
-           style="font-size:24px;line-height:18px;fill:#ffffff;stroke-width:0"
-           y="336.51202"
-           x="219.35201"
-           sodipodi:role="line">MintGum</tspan><tspan
-           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;stroke-width:0"
-           y="361.51202"
-           x="219.35201"
-           sodipodi:role="line"
-           id="tspan580">170,90,35 3.0/2.4</tspan></text>
-    </g>
-    <g
-       id="g594"
-       transform="translate(1050,170)">
-      <rect
-         y="240"
-         x="400"
-         height="180"
-         width="180"
-         id="rect586"
-         style="fill:#0c75de;fill-opacity:1;stroke-width:0"
-         rx="10"
-         ry="10" />
-      <text
-         id="text592"
-         y="336.51202"
-         x="419.35199"
-         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
-         xml:space="preserve"><tspan
-           id="tspan588"
-           style="font-size:24px;line-height:18px;fill:#ffffff;stroke-width:0"
-           y="336.51202"
-           x="419.35199"
-           sodipodi:role="line">BlueElectron</tspan><tspan
-           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;stroke-width:0"
-           y="361.51202"
-           x="419.35199"
-           sodipodi:role="line"
-           id="tspan590">210,90,46 4.5/4.5</tspan></text>
-    </g>
-    <g
-       id="g604"
-       transform="translate(1050,170)">
-      <rect
-         y="240"
-         x="600"
-         height="180"
-         width="180"
-         id="rect596"
-         style="fill:#8245a1;fill-opacity:1;stroke-width:0"
-         rx="10"
-         ry="10" />
-      <text
-         id="text602"
-         y="336.51202"
-         x="619.35199"
-         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
-         xml:space="preserve"><tspan
-           id="tspan598"
-           style="font-size:24px;line-height:18px;fill:#ffffff;stroke-width:0"
-           y="336.51202"
-           x="619.35199"
-           sodipodi:role="line">Purple</tspan><tspan
-           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;stroke-width:0"
-           y="361.51202"
-           x="619.35199"
-           sodipodi:role="line"
-           id="tspan600">280,40,45 6.3/4.0</tspan></text>
-    </g>
-    <g
-       id="g614"
-       transform="translate(1050,170)">
-      <rect
-         y="460"
-         x="0"
-         height="180"
-         width="180"
-         id="rect606"
-         style="fill:#f20d20;fill-opacity:1;stroke-width:0"
-         rx="10"
-         ry="10" />
-      <text
-         id="text612"
-         y="556.51202"
-         x="19.352005"
-         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
-         xml:space="preserve"><tspan
-           id="tspan608"
-           style="font-size:24px;line-height:18px;fill:#ffffff;stroke-width:0"
-           y="556.51202"
-           x="19.352005"
-           sodipodi:role="line">Red</tspan><tspan
-           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;stroke-width:0"
-           y="581.51202"
-           x="19.352005"
-           sodipodi:role="line"
-           id="tspan610">355,90,50 4.3/4.3</tspan></text>
-    </g>
-    <g
-       id="g624"
-       transform="translate(1050,170)">
-      <rect
-         y="460"
-         x="200"
-         height="180"
-         width="180"
-         id="rect616"
-         style="fill:#ff791a;fill-opacity:1;stroke-width:0"
-         rx="10"
-         ry="10" />
-      <text
-         id="text622"
-         y="556.51202"
-         x="219.35201"
-         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
-         xml:space="preserve"><tspan
-           id="tspan618"
-           style="font-size:24px;line-height:18px;fill:#ffffff;stroke-width:0"
-           y="556.51202"
-           x="219.35201"
-           sodipodi:role="line">Orange</tspan><tspan
-           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;stroke-width:0"
-           y="581.51202"
-           x="219.35201"
-           sodipodi:role="line"
-           id="tspan620">25,100,55 2.6/2.3</tspan></text>
-    </g>
-    <g
-       id="g634"
-       transform="translate(850,170)">
-      <rect
-         y="460"
-         x="600"
-         height="180"
-         width="180"
-         id="rect626"
-         style="fill:#eb47b4;fill-opacity:1;stroke-width:0"
-         rx="10"
-         ry="10" />
-      <text
-         id="text632"
-         y="556.51202"
-         x="619.35199"
-         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
-         xml:space="preserve"><tspan
-           id="tspan628"
-           style="font-size:24px;line-height:18px;fill:#ffffff;stroke-width:0"
-           y="556.51202"
-           x="619.35199"
-           sodipodi:role="line">Pink</tspan><tspan
-           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;stroke-width:0"
-           y="581.51202"
-           x="619.35199"
-           sodipodi:role="line"
-           id="tspan630">320,80,60 3.45/3.8</tspan></text>
-    </g>
-    <g
-       id="g644"
-       transform="translate(850,-50)">
-      <rect
-         y="460"
-         x="400"
-         height="180"
-         width="180"
-         id="rect636"
-         style="fill:#1f9ede;fill-opacity:1;stroke-width:0"
-         rx="10"
-         ry="10" />
-      <text
-         id="text642"
-         y="556.51202"
-         x="419.35199"
-         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
-         xml:space="preserve"><tspan
-           id="tspan638"
-           style="font-size:24px;line-height:18px;fill:#ffffff;stroke-width:0"
-           y="556.51202"
-           x="419.35199"
-           sodipodi:role="line">Aqua</tspan><tspan
-           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;stroke-width:0"
-           y="581.51202"
-           x="419.35199"
-           sodipodi:role="line"
-           id="tspan640">200,75,50 3.0/2.5</tspan></text>
-    </g>
-    <g
        transform="translate(270,148.20001)"
        id="g935"
        style="display:inline">
@@ -1092,6 +742,368 @@
            id="tspan12497">Yellow <tspan
    style="font-size:16px"
    id="tspan26949">(icons)</tspan></tspan></text>
+    </g>
+    <g
+       id="g906"
+       transform="translate(1050,170)"
+       style="display:inline">
+      <rect
+         y="20"
+         x="0"
+         height="180"
+         width="180"
+         id="rect838"
+         style="fill:#92b372;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
+      <text
+         id="text844"
+         y="116.51201"
+         x="19.352005"
+         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
+         xml:space="preserve"><tspan
+           id="tspan840"
+           style="font-size:24px;line-height:18px;fill:#ffffff;stroke-width:0"
+           y="116.51201"
+           x="19.352005"
+           sodipodi:role="line">MintClassic</tspan><tspan
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;stroke-width:0"
+           y="141.51201"
+           x="19.352005"
+           sodipodi:role="line"
+           id="tspan842">#92B372 2.4/2.4</tspan></text>
+    </g>
+    <g
+       id="g912"
+       transform="translate(850,390)"
+       style="display:inline">
+      <rect
+         y="20"
+         x="200"
+         height="180"
+         width="180"
+         id="rect8373"
+         style="fill:#ee5d28;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
+      <text
+         id="text8379"
+         y="116.51201"
+         x="219.35201"
+         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
+         xml:space="preserve"><tspan
+           id="tspan8375"
+           style="font-size:24px;line-height:18px;fill:#ffffff;stroke-width:0"
+           y="116.51201"
+           x="219.35201"
+           sodipodi:role="line">Orange70s</tspan><tspan
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;fill:#ffffff;stroke-width:0"
+           y="141.51201"
+           x="219.35201"
+           sodipodi:role="line"
+           id="tspan8377">16,85,55 3.4/2.3</tspan></text>
+    </g>
+    <g
+       id="g919"
+       transform="translate(1050,170)"
+       style="display:inline">
+      <rect
+         y="20"
+         x="400"
+         height="180"
+         width="180"
+         id="rect8381"
+         style="fill:#277cb7;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
+      <text
+         id="text8387"
+         y="116.51201"
+         x="419.35199"
+         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
+         xml:space="preserve"><tspan
+           id="tspan8383"
+           style="font-size:24px;line-height:18px;fill:#ffffff;stroke-width:0"
+           y="116.51201"
+           x="419.35199"
+           sodipodi:role="line">BlueBelize</tspan><tspan
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;stroke-width:0"
+           y="141.51201"
+           x="419.35199"
+           sodipodi:role="line"
+           id="tspan90098">205,65,44 4.5/4.5</tspan></text>
+    </g>
+    <g
+       id="g925"
+       transform="translate(1050,170)"
+       style="display:inline">
+      <rect
+         y="20"
+         x="600"
+         height="180"
+         width="180"
+         id="rect8389"
+         style="fill:#767676;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
+      <text
+         id="text8395"
+         y="116.51224"
+         x="619.35132"
+         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
+         xml:space="preserve"><tspan
+           id="tspan8391"
+           style="font-size:24.0001px;line-height:18px;fill:#ffffff;stroke-width:0"
+           y="116.51224"
+           x="619.35132"
+           sodipodi:role="line">Grey</tspan><tspan
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;stroke-width:0"
+           y="141.51224"
+           x="619.35132"
+           sodipodi:role="line"
+           id="tspan8393">0,0,46 4.5/2.7</tspan></text>
+    </g>
+    <g
+       id="g931"
+       transform="translate(1650,390)"
+       style="display:inline">
+      <rect
+         y="240"
+         x="0"
+         height="180"
+         width="180"
+         id="rect8397"
+         style="fill:#ffc71a;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
+      <text
+         id="text8403"
+         y="336.51202"
+         x="19.352005"
+         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
+         xml:space="preserve"><tspan
+           id="tspan8399"
+           style="font-size:24px;line-height:18px;fill:#ffffff;stroke-width:0"
+           y="336.51202"
+           x="19.352005"
+           sodipodi:role="line">Yellow <tspan
+   style="font-size:16px"
+   id="tspan19077">(icons)</tspan></tspan><tspan
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;stroke-width:0"
+           y="361.51202"
+           x="19.352005"
+           sodipodi:role="line"
+           id="tspan8401">45,100,55</tspan></text>
+    </g>
+    <g
+       id="g937"
+       transform="translate(1050,-50.000004)"
+       style="display:inline">
+      <rect
+         y="240"
+         x="200"
+         height="180"
+         width="180"
+         id="rect8405"
+         style="fill:#09a78d;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
+      <text
+         id="text8411"
+         y="336.51202"
+         x="219.35201"
+         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
+         xml:space="preserve"><tspan
+           id="tspan8407"
+           style="font-size:24px;line-height:18px;fill:#ffffff;stroke-width:0"
+           y="336.51202"
+           x="219.35201"
+           sodipodi:role="line">MintGum</tspan><tspan
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;stroke-width:0"
+           y="361.51202"
+           x="219.35201"
+           sodipodi:role="line"
+           id="tspan8409">170,90,35 3.0/2.4</tspan></text>
+    </g>
+    <g
+       id="g944"
+       transform="translate(1050,170)"
+       style="display:inline">
+      <rect
+         y="240"
+         x="400"
+         height="180"
+         width="180"
+         id="rect8413"
+         style="fill:#0c75de;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
+      <text
+         id="text8419"
+         y="336.51202"
+         x="419.35199"
+         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
+         xml:space="preserve"><tspan
+           id="tspan8415"
+           style="font-size:24px;line-height:18px;fill:#ffffff;stroke-width:0"
+           y="336.51202"
+           x="419.35199"
+           sodipodi:role="line">BlueElectron</tspan><tspan
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;stroke-width:0"
+           y="361.51202"
+           x="419.35199"
+           sodipodi:role="line"
+           id="tspan133588">210,90,46 4.5/4.5</tspan></text>
+    </g>
+    <g
+       id="g950"
+       transform="translate(1050,170)"
+       style="display:inline">
+      <rect
+         y="240"
+         x="600"
+         height="180"
+         width="180"
+         id="rect8421"
+         style="fill:#8245a1;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
+      <text
+         id="text8427"
+         y="336.51202"
+         x="619.35199"
+         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
+         xml:space="preserve"><tspan
+           id="tspan8423"
+           style="font-size:24px;line-height:18px;fill:#ffffff;stroke-width:0"
+           y="336.51202"
+           x="619.35199"
+           sodipodi:role="line">Purple</tspan><tspan
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;stroke-width:0"
+           y="361.51202"
+           x="619.35199"
+           sodipodi:role="line"
+           id="tspan8425">280,40,45 6.3/4.0</tspan></text>
+    </g>
+    <g
+       id="g956-3"
+       transform="translate(1050,170)"
+       style="display:inline">
+      <rect
+         y="460"
+         x="0"
+         height="180"
+         width="180"
+         id="rect8429"
+         style="fill:#f20d20;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
+      <text
+         id="text8435"
+         y="556.51202"
+         x="19.352005"
+         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
+         xml:space="preserve"><tspan
+           id="tspan8431"
+           style="font-size:24px;line-height:18px;fill:#ffffff;stroke-width:0"
+           y="556.51202"
+           x="19.352005"
+           sodipodi:role="line">Red</tspan><tspan
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;stroke-width:0"
+           y="581.51202"
+           x="19.352005"
+           sodipodi:role="line"
+           id="tspan8433">355,90,50 4.3/4.3</tspan></text>
+    </g>
+    <g
+       id="g962"
+       transform="translate(1050,170)"
+       style="display:inline">
+      <rect
+         y="460"
+         x="200"
+         height="180"
+         width="180"
+         id="rect8437"
+         style="fill:#ff791a;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
+      <text
+         id="text8443"
+         y="556.51202"
+         x="219.35201"
+         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
+         xml:space="preserve"><tspan
+           id="tspan8439"
+           style="font-size:24px;line-height:18px;fill:#ffffff;stroke-width:0"
+           y="556.51202"
+           x="219.35201"
+           sodipodi:role="line">Orange</tspan><tspan
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;stroke-width:0"
+           y="581.51202"
+           x="219.35201"
+           sodipodi:role="line"
+           id="tspan8441">25,100,55 2.6/2.3</tspan></text>
+    </g>
+    <g
+       id="g974"
+       transform="translate(850,170)"
+       style="display:inline">
+      <rect
+         y="460"
+         x="600"
+         height="180"
+         width="180"
+         id="rect8453"
+         style="fill:#eb47b4;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
+      <text
+         id="text8459"
+         y="556.51202"
+         x="619.35199"
+         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
+         xml:space="preserve"><tspan
+           id="tspan8455"
+           style="font-size:24px;line-height:18px;fill:#ffffff;stroke-width:0"
+           y="556.51202"
+           x="619.35199"
+           sodipodi:role="line">Pink</tspan><tspan
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;stroke-width:0"
+           y="581.51202"
+           x="619.35199"
+           sodipodi:role="line"
+           id="tspan8457">320,80,60 3.45/3.8</tspan></text>
+    </g>
+    <g
+       id="g24331"
+       transform="translate(850,-50.000004)"
+       style="display:inline">
+      <rect
+         y="460"
+         x="400"
+         height="180"
+         width="180"
+         id="rect24323"
+         style="fill:#1f9ede;fill-opacity:1;stroke-width:0"
+         rx="10"
+         ry="10" />
+      <text
+         id="text24329"
+         y="556.51202"
+         x="419.35199"
+         style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
+         xml:space="preserve"><tspan
+           id="tspan24325"
+           style="font-size:24px;line-height:18px;fill:#ffffff;stroke-width:0"
+           y="556.51202"
+           x="419.35199"
+           sodipodi:role="line">Aqua</tspan><tspan
+           style="font-weight:normal;line-height:18px;-inkscape-font-specification:'Ubuntu Mono';fill:#ffffff;stroke-width:0"
+           y="581.51202"
+           x="419.35199"
+           sodipodi:role="line"
+           id="tspan24327">200,75,50 3.0/2.5</tspan></text>
     </g>
     <g
        id="g1248"
