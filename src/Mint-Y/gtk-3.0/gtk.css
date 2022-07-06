@@ -818,7 +818,7 @@ headerbar,
   border-color: #bdbdbd;
   color: rgba(0, 0, 0, 0.87);
   background-color: #e8e8e8;
-  box-shadow: inset 0 1px #EEEEEE; }
+  box-shadow: none; }
   .csd headerbar, .csd .titlebar:not(headerbar) {
     background-color: #e8e8e8;
     border-color: #BDBDBD; }
