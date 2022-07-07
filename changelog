@@ -1,11 +1,12 @@
-mint-yz-theme (3.5)
+mint-yz-theme (3.3)
 
-  * TESTING: New design on buttons
+  * Merged previous debian/changelog into this new changelog
+  * Modified: Pink
+  * Modified dark variants: BlueBelize, MintGum, BlueElectron
   * NEW COLOR: Orange70s
   * Selected/Active: accent color on borders too
-  * Modified dark variants: BlueBelize, MintGum, BlueElectron
-  * Modified: Pink
-  * Merged previous debian/changelog into this new changelog
+  * Remove the thin line at the top of the titlebar in GTK apps (Fixes: #39)
+  * Etc.
 
 mint-yz-theme (3.2)
 
