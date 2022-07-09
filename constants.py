@@ -23,8 +23,8 @@ y_hex_colors2["BlueBelize"] = "#2471A8"
 y_hex_colors1["Grey"] = "#767676"
 y_hex_colors2["Grey"] = "#767676"
 
-y_hex_colors1["Orange70s"] = "#EE5D28"
-y_hex_colors2["Orange70s"] = "#EE5D28"
+y_hex_colors1["Orange70s"] = "#E8602E"
+y_hex_colors2["Orange70s"] = "#E8602E"
 
 y_hex_colors1["Aqua"] = "#1F9EDE"
 y_hex_colors2["Aqua"] = "#1F9EDE"
