@@ -26,14 +26,13 @@ There is a lot of work into this new Mint-Yz. Over 200 commits. Build onto the l
 Check your system is not too old for this theme to work properly. This theme works well on Linux Mint 19.x and Linux Mint 20.x. (GTK 3.24)  
 **Entirely tested and re-tested** on LinuxMint Cinnamon 20.3, and quickly tested on Mint Mate 20.3 and Mint Xfce 20.3.
 
-FIRST, Go to the [LATEST RELEASE](https://github.com/SebastJava/mint-yz-theme/releases/latest) page.
-1. Click on the **mint-yz-theme_X.x.x.zip** to download
-2. Click on the **INSTALLER.sh** to download
+FIRST, Go to the [LATEST RELEASE](https://github.com/SebastJava/mint-yz-theme/releases/latest) page. There, click on the **mint-yz-theme_X.x.x.zip** to download.
 
-NEXT, choose one of the following methods to install:
+NEXT, CHOOSE ONE OF THE FOLLOWING METHODS TO INSTALL:  
 
 **Method 1: automatic installer**  
-Go to your Download directory, and double-click on the INSTALLER.sh to "Run in Terminal".
+1. Extract (unzip) the zip you just downloaded
+2. Open this directory containing the files you extracted, and double-click on the INSTALLER.sh to "Run in Terminal"
 
 **Method 2: Command Line Interface (CLI)**  
 Open your terminal and do this:
@@ -47,7 +46,7 @@ sudo cp -rf themes/* /usr/share/themes
 **Method 3: Graphical User Interface (GUI)**  
 (Everyone has a different GUI, so I can't give you precise instructions this way... But it should be pretty simple...)  
 1. Go to your Download directory
-2. Extract this mint-yz-theme_X.x.x.zip
+2. Extract (unzip) this mint-yz-theme_X.x.x.zip
 3. Open /usr/share/themes as root (Be careful! Close this window when done!)
 4. Move or copy all the contents from the extracted themes directory into /usr/share/themes
 
