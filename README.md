@@ -19,23 +19,39 @@ This Mint-Yz is a fork from the standard, reliable Mint-Y theme. It is renamed "
 
 There is a lot of work into this new Mint-Yz. Over 200 commits. Build onto the latest stable Mint-Y, version 1.9.8. A lot of work got into creating, modifying, and testing those colors over and over again. But that's not only some new, nice colors here. There is much more than that here. There are also many subtle contrasts improvements. Making things more readable, and clearer. And then, there are also some subtle design improvements on top of all this. But not too much. You already like your Mint-Y theme, so this is just a bit different: this little "z" added to "Mint-Y", renaming it "Mint-Yz".
 
+**Note:** The colors and design you see here reflect the latest changes made to this repository. It is the future you see here. See the images on the releases page for an exact match to the themes you are installing.  
+
 # Download and Install
 
-First, check your system is not too old for this theme to work properly. This theme works well on Linux Mint 19, Linux Mint 20, and newer versions. (GTK+ 3.22 or newer) **Entirely tested and re-tested** on LinuxMint Cinnamon 20.3, and quickly tested on Mint Mate 20.3 and Mint Xfce 20.3.
+Check your system is not too old for this theme to work properly. This theme works well on Linux Mint 19.x and Linux Mint 20.x. (GTK 3.24)  
+**Entirely tested and re-tested** on LinuxMint Cinnamon 20.3, and quickly tested on Mint Mate 20.3 and Mint Xfce 20.3.
 
-1. Go to the [LATEST RELEASE](https://github.com/SebastJava/mint-yz-theme/releases/latest) page. Click on the **mint-yz-theme_X.x.x.zip** to download or open.
-1. Extract this zip.
-1. Open your terminal and do this:  
+FIRST, Go to the [LATEST RELEASE](https://github.com/SebastJava/mint-yz-theme/releases/latest) page.
+1. Click on the **mint-yz-theme_X.x.x.zip** to download
+2. Click on the **INSTALLER.sh** to download
 
+NEXT, choose one of the following methods to install:
+
+**Method 1: automatic installer**  
+Go to your Download directory, and double-click on the INSTALLER.sh to "Run in Terminal".
+
+**Method 2: Command Line Interface (CLI)**  
+Open your terminal and do this:
 ```
+cd ~/Downloads # Go to where you downloaded your zip.
+unzip -q mint-yz-theme*
 sudo rm -rf /usr/share/themes/Mint-Yz-*
-cd ~/Downloads # Go to where you downloaded and extracted your zip.
 sudo cp -rf themes/* /usr/share/themes
 ```
 
-Select your new themes in **Menu > Preferences > Themes**.  
+**Method 3: Graphical User Interface (GUI)**  
+(Everyone has a different GUI, so I can't give you precise instructions this way... But it should be pretty simple...)  
+1. Go to your Download directory
+2. Extract this mint-yz-theme_X.x.x.zip
+3. Open /usr/share/themes as root (Be careful! Close this window when done!)
+4. Move or copy all the contents from the extracted themes directory into /usr/share/themes
 
-**Note:** The colors and design you see here reflect the latest changes made to this repository. It is the future you see here. See the images on the releases page for an exact match to the themes you are installing.  
+FINALLY, Select your new themes in **Menu > Preferences > Themes or Appearance**.  
 
 ![cinnamon-settings_themes](Mint-Y-Colors/mix/cinnamon-settings_themes.png)
 
@@ -50,8 +66,8 @@ sudo rm -rf /usr/share/themes/Mint-Yz-*
 
 ### Remove old Debian packages (if any)
 
-1. First method : You can open your terminal and type: `apt remove mint-yz-theme`.
-1. Second method : Or you can also open your Synaptic Package Manager, search (Ctrl+F) for `mint-yz-theme`, mark for removal, and apply.
+1. First method : You can open your terminal and type: `apt remove mint-yz-theme`
+1. Second method : Or you can also open your Synaptic Package Manager, search (Ctrl+F) for `mint-yz-theme`, mark for removal, and apply
 
 # Colors
 
