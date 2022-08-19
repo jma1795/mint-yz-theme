@@ -43,7 +43,7 @@ iconview:drop(active) {
 iconview > dndtarget:drop(active) {
   border-style: solid;
   border-width: 1px;
-  border-color: #698051; }
+  border-color: #435134; }
 
 rubberband, .content-view > rubberband, columnview.view > rubberband,
 treeview.view > rubberband, gridview > rubberband, flowbox > rubberband {
@@ -370,7 +370,7 @@ button {
   button:active,
   button:checked {
     color: rgba(255, 255, 255, 0.87);
-    border-color: #698051;
+    border-color: #435134;
     background-color: #8fa876;
     background-clip: padding-box;
     transition-duration: 50ms; }
@@ -393,7 +393,7 @@ button {
     button:disabled:active,
     button:disabled:checked {
       color: rgba(255, 255, 255, 0.67);
-      border-color: rgba(105, 128, 81, 0.85);
+      border-color: rgba(67, 81, 52, 0.85);
       background-color: rgba(143, 168, 118, 0.95);
       opacity: 0.6; }
       
@@ -458,7 +458,7 @@ button {
     button.flat:active,
     button.flat:checked {
       color: rgba(255, 255, 255, 0.87);
-      border-color: #698051;
+      border-color: #435134;
       background-color: #8fa876;
       transition: all 200ms cubic-bezier(0.25, 0.46, 0.45, 0.94); }
     button.sidebar-button:disabled, .toolbar > button:disabled,
@@ -840,7 +840,7 @@ list > row button.image-button:not(.flat):checked,
 list > row windowcontrols button:not(.flat):checked,
 windowcontrols list > row button:not(.flat):checked {
   color: rgba(255, 255, 255, 0.87);
-  border-color: #698051;
+  border-color: #435134;
   background-color: #8fa876; }
 
 popover.menu box.circular-buttons button.suggested-action.circular.image-button.model, popover.menu box.circular-buttons windowcontrols button.suggested-action.circular.model, windowcontrols popover.menu box.circular-buttons button.suggested-action.circular.model,
@@ -1211,7 +1211,7 @@ headerbar button {
       color: inherit; }
   headerbar button:disabled:active, headerbar button:disabled:checked {
     color: rgba(255, 255, 255, 0.67);
-    border-color: rgba(105, 128, 81, 0.85);
+    border-color: rgba(67, 81, 52, 0.85);
     background-color: rgba(143, 168, 118, 0.95); }
 
 headerbar.selection-mode button {
@@ -1631,7 +1631,7 @@ popover.menu {
         background-color: #5c5c5c; }
       popover.menu box.inline-buttons button.image-button.model:active, popover.menu box.inline-buttons windowcontrols button.model:active, windowcontrols popover.menu box.inline-buttons button.model:active {
         color: rgba(255, 255, 255, 0.87);
-        border-color: #698051;
+        border-color: #435134;
         background-color: #8fa876; }
   popover.menu box.circular-buttons {
     padding: 8px 8px 6px; }
@@ -1643,7 +1643,7 @@ popover.menu {
         background-color: #5c5c5c; }
       popover.menu box.circular-buttons button.circular.image-button.model:active, popover.menu box.circular-buttons windowcontrols button.circular.model:active, windowcontrols popover.menu box.circular-buttons button.circular.model:active {
         color: rgba(255, 255, 255, 0.87);
-        border-color: #698051;
+        border-color: #435134;
         background-color: #8fa876; }
   popover.menu accelerator {
     color: alpha(currentColor,0.55); }
