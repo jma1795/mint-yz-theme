@@ -14,7 +14,7 @@ $fg_color: if($variant =='light', transparentize(black, 0.13), transparentize(wh
 
 $selected_bg_color: if($variant == 'light', #92b372, #8fa876);
 $selected_fg_color: #ffffff;
-$selected_borders_color: $selected_bg_color;
+$selected_borders_color: darken($selected_bg_color, 15%);
 $borders_color: if($variant =='light', darken($bg_color, 18%), darken($bg_color,6%));
 $separator_color: if($variant == 'light', #DFDFDF, darken($bg_color, 6%));
 
