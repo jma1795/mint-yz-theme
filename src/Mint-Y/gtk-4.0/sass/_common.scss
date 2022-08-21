@@ -1578,8 +1578,8 @@ pathbar  > button {
 //
 columnview.view,
 treeview.view {
-  border-left-color: transparentize($fg_color, 0.85);   // this is actually the tree lines color,
-  border-top-color: transparentize(black, 0.9);         // while this is the grid lines color, better then nothing
+  border-left-color: transparentize($fg_color, 0.65);   // this is actually the tree lines color,
+  border-top-color: transparentize($fg_color, 0.65);    // while this is the grid lines color, better then nothing
 
   > rubberband { @extend rubberband; }                 // to avoid borders being overridden by the previously set props
 
@@ -2873,6 +2873,29 @@ calendar {
 //
 // Dialogs
 //
+.dialog-action-area {
+  margin: 6px;
+
+  button.text-button {
+    padding: 6px 16px;
+  }
+
+  button {
+    border-radius: 0;
+    border-right-style: none;
+
+    &:first-child {
+      border-radius: 3px 0 0 3px;
+      border-right-style: none;
+    }
+
+    &:last-child {
+      border-radius: 0 3px 3px 0;
+      border-style: solid;
+    }
+  }
+}
+
 window.dialog.message { // Message Dialog styling
   .titlebar {
     min-height: 20px;
@@ -2904,12 +2927,14 @@ window.dialog.message { // Message Dialog styling
 
     // .dialog-action-area { @include linking_rules(); }
 
+    // }
+
     .dialog-action-area button {
       border-radius: 0;
       border-bottom-style: none;
       border-right-style: none;
 
-      &:first-child{
+      &:first-child {
         border-bottom-left-radius: 2px;
         border-left-style: none;
       }
@@ -3465,17 +3490,17 @@ window {
     }
   }
 
-  .fullscreen &,
-  .maximized & {
+  &.fullscreen,
+  &.maximized {
     border-radius: 0;
     box-shadow: none;
   }
 
-  .tiled &,
-  .tiled-top &,
-  .tiled-right &,
-  .tiled-bottom &,
-  .tiled-left & {
+  &.tiled,
+  &.tiled-top,
+  &.tiled-right,
+  &.tiled-bottom,
+  &.tiled-left {
     border-radius: 0;
     box-shadow: 0 0 0 1px $_wm_border,
                 0 0 0 20px transparent; //transparent control workaround -- #3670
