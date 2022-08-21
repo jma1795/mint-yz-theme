@@ -37,7 +37,7 @@ image:disabled {
   &:selected {
     &, &:focus {
       @extend %selected_items;
-      border-radius: 2px;
+      border-radius: 4px;
     }
   }
 }
@@ -260,10 +260,10 @@ entry {
     padding: 5px 8px;
 
     caret-color: currentColor;
-    border-radius: 3px;
+    border-radius: 5px;
     transition: all 200ms $ease-out-quad;
 
-    &.search { border-radius: 4px; }
+    &.search { border-radius: 5px; }
 
     @include entry(normal);
 
@@ -419,8 +419,10 @@ button {
     min-width: 20px;
     transition: $button_transition;
     border: 1px solid;
-    border-radius: 3px;
+    border-radius: 5px;
     padding: 5px 8px;
+    outline-color: $button_active_bg; // Mint-Yz
+    outline-style: solid; // Mint-Yz
 
     @include button(normal);
 
@@ -719,7 +721,7 @@ button {
 }
 
 %linked_only_child {
-  border-radius: 3px;
+  border-radius: 5px;
   border-style: solid;
 }
 
@@ -748,7 +750,7 @@ button {
 }
 
 %linked_vertical_only_child {
-  border-radius: 3px;
+  border-radius: 5px;
   border-style: solid;
 }
 
@@ -773,7 +775,7 @@ modelbutton.flat {
   min-height: 24px;
   padding-left: 8px;
   padding-right: 8px;
-  border-radius: 2px;
+  border-radius: 5px;
 
   @extend %undecorated_button;
 
@@ -890,7 +892,7 @@ spinbutton {
     button, text { @extend %linked; }
 
     &:dir(ltr) text,
-    &:dir(rtl) button.up { border-radius: 3px 0 0 3px; }
+    &:dir(rtl) button.up { border-radius: 5px 0 0 5px; }
 
     > button + button { border-left-style: none; }
 
@@ -930,7 +932,7 @@ spinbutton {
       @extend %linked_vertical;
     }
 
-    button.up { border-radius: 3px 3px 0 0; }
+    button.up { border-radius: 5px 5px 0 0; }
 
     > text:focus + button { border-top-color: if($variant=='light', $selected_bg_color, $entry_border); }
 
@@ -1043,7 +1045,7 @@ combobox {
   &.osd {
     padding: 7px;
     border: 1px solid transparentize(black, 0.5);
-    border-radius: 3px;
+    border-radius: 5px;
     background-color: transparentize($osd_bg_color, 0.1);
 
     &.left,
@@ -1072,7 +1074,7 @@ searchbar > revealer > box {
 //
 
 windowcontrols {
-  $_wm_backdrop_icon_color: if($variant == 'light', darken($wm_icon_unfocused_bg, 5%), lighten($wm_icon_unfocused_bg, 5%));
+  $_wm_backdrop_icon_color: $wm_icon_unfocused_bg;
 
   border-spacing: 6px;
 
@@ -1357,7 +1359,7 @@ window.devel {
   // Reset buttons
   .linked:not(.vertical):not(.path-bar) > button {
     &, &:hover, &:active, &:checked, &:disabled {
-      border-radius: 3px;
+      border-radius: 5px;
       border-style: solid;
     }
   }
@@ -1842,7 +1844,7 @@ popover.menu {
     min-height: 16px;
     min-width: 40px;
     padding: 5px $_menu-padding;
-    border-radius: 2px;
+    border-radius: 5px;
   }
 
   label.title {
@@ -2819,7 +2821,7 @@ expander-widget {
 calendar {
   color: $fg_color;
   border: 1px solid $borders_color;
-  border-radius: 3px;
+  border-radius: 5px;
   padding: 2px;
 
   > header {
@@ -2885,12 +2887,12 @@ calendar {
     border-right-style: none;
 
     &:first-child {
-      border-radius: 3px 0 0 3px;
+      border-radius: 5px 0 0 5px;
       border-right-style: none;
     }
 
     &:last-child {
-      border-radius: 0 3px 3px 0;
+      border-radius: 0 5px 5px 0;
       border-style: solid;
     }
   }
@@ -3469,7 +3471,7 @@ window {
 
     // this is used for the resize cursor area
     margin: 0;
-    border-radius: 8px 8px 0 0;
+    border-radius: 0;
 
     &:backdrop {
       // the transparent shadow here is to enforce that the shadow extents don't
@@ -3480,13 +3482,13 @@ window {
     }
 
     &.popup {
-      border-radius: 8px;
+      border-radius: 0;
       box-shadow: 0 3px 9px 1px transparentize(black, 0.5),
                   0 0 0 1px $_wm_border;
     }
 
     &.dialog.message {
-      border-radius: 8px 8px 0 0;
+      border-radius: 0;
     }
   }
 
