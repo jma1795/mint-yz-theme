@@ -26,7 +26,7 @@
 //
 @mixin focus-ring($target: null, $outer: false, $focus-state: 'focus:focus-visible') {
   & #{$target} {
-    outline-color: gtkalpha(currentColor, 0.3);
+    outline-color: $selected_bg_color;
     outline-style: none;
     outline-offset: if($outer, 0, -3px);
   }
@@ -150,6 +150,9 @@
 //
 // $t:    button type,
 // $actionb_color: used for destructive and suggested action buttons
+
+  outline-style: solid;
+  outline-color: $button_active_bg;
 
   @if $t==normal {
   //

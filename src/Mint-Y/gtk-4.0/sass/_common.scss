@@ -706,15 +706,15 @@ button {
 }
 
 %linked_left {
-  border-top-left-radius: 3px;
-  border-bottom-left-radius: 3px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
   border-top-right-radius: 0;
   border-bottom-right-radius: 0;
 }
 
 %linked_right {
-  border-top-right-radius: 3px;
-  border-bottom-right-radius: 3px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
   border-right-style: solid;
@@ -739,13 +739,13 @@ button {
 }
 
 %linked_vertical_top {
-  border-top-left-radius: 3px;
-  border-top-right-radius: 3px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
 }
 
 %linked_vertical_bottom {
-  border-bottom-left-radius: 3px;
-  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
   border-bottom-style: solid;
 }
 
