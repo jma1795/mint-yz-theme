@@ -421,8 +421,7 @@ button {
     border: 1px solid;
     border-radius: 5px;
     padding: 5px 8px;
-    outline-color: $button_active_bg; // Mint-Yz
-    outline-style: solid; // Mint-Yz
+    outline-color: transparentize($button_active_bg, 0.5); // Mint-Yz
 
     @include button(normal);
 

@@ -21,8 +21,8 @@ $asset_suffix: if($variant=='dark', '-dark', ''); // use dark assets in dark var
   -GtkDialog-action-area-border: 6;
 
   // We use the outline properties to signal the focus properties
-  outline-color: transparentize($fg_color, 0.7);
-  outline-style: none; // was: dashed
+  outline-color: transparentize($selected_bg_color, 0.5);
+  outline-style: solid;
   outline-offset: -3px;
   outline-width: 1px;
   -gtk-outline-radius: 4px;
@@ -339,9 +339,7 @@ button {
   border: 1px solid;
   border-radius: 5px;
   padding: 5px 8px;
-  outline-color: $button_active_bg; // $button_active_bg defined in _colors.scss
-  outline-style: solid; // Mint-Yz
-
+  outline-color: transparentize($button_active_bg, 0.5);
 
   @include button(normal);
 
@@ -3172,8 +3170,7 @@ headerbar,
 
   button.titlebutton {
     $_wm_backdrop_icon_color: $wm_icon_unfocused_bg;
-    // Mint-Yz: $_wm_backdrop_icon_color = $wm_icon_unfocused_bg = $wm_title_unfocused (in _colors.scss)
-    // Same as src/Mint-Y/metacity-1/metacity-theme-3.xml
+    // Mint-Yz: $_wm_backdrop_icon_color = $wm_icon_unfocused_bg = $wm_title_unfocused
     min-width: 18px;
     min-height: 18px;
     @extend .image-button;
