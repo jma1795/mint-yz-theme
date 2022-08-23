@@ -78,3 +78,18 @@ zip -q -r mint-yz-theme_X.x.x.zip COPYRIGHT INSTALLER.sh LICENSE
 zip -q -r mint-yz-theme_X.x.x.zip README.md changelog themes
 rm -r themes
 ```
+
+And finally:
+
+* `git status # one final check`
+PUBLISH on GitHub releases page and on LM-forums:  
+* upload some image or screenshot(s)
+* copy-paste the latest changelog
+* upload assets: mint-yz-theme_X.x.x.zip
+* check
+* publish
+* test install from GitHub
+* like release
+* LM-forums: new post
+* `git status # one final check`
+* Grsync (optional)
