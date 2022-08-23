@@ -1,3 +1,15 @@
+mint-yz-theme (4.0)
+
+  * Pulled updates from upstream, now ready for LinuxMint 21 (Fixes: #42)
+  * Add initial support for GTK-4 (window control buttons are not ready!)
+  * Modified update-variations.py to include GTK-4
+  * Solid, half-transparent outlines on all focused elements
+  * Darker borders on focused buttons
+  * Darker borders on suggested or destructive action buttons
+  * Started seriously using Meld for all kinds of comparisons
+
+ -- Sébastien Bouchard <sebastjava@hotmail.ca>  Tue, 23 Aug 2022 15:21:59 -0400 
+
 mint-yz-theme (3.3.2)
 
   * New INSTALLER.sh and installation methods in the README.md
