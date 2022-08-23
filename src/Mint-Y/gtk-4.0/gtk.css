@@ -639,7 +639,7 @@ button.suggested-action {
   color: #ffffff;
   outline-color: rgba(255, 255, 255, 0.5);
   background-color: #18AA61;
-  border-color: #052415; }
+  border-color: #0f673b; }
   popover.background.touch-selection button.suggested-action, popover.background.magnifier button.suggested-action,
   button.suggested-action {
     outline-color: rgba(146, 179, 114, 0.5);
@@ -664,7 +664,7 @@ button.suggested-action {
     color: #ffffff;
     outline-color: rgba(255, 255, 255, 0.5);
     background-color: #1ed77b;
-    border-color: #0b512e; }
+    border-color: #159454; }
   popover.background.touch-selection button.suggested-action:active, popover.background.magnifier button.suggested-action:active, popover.background.touch-selection button.suggested-action:checked, popover.background.magnifier button.suggested-action:checked,
   button.suggested-action:active,
   button.suggested-action:checked {
@@ -674,7 +674,7 @@ button.suggested-action {
     color: #ffffff;
     outline-color: rgba(255, 255, 255, 0.5);
     background-color: #127d48;
-    border-color: black; }
+    border-color: #083a21; }
   
   button.suggested-action.flat:disabled {
     outline-color: rgba(146, 179, 114, 0.5);
@@ -702,7 +702,7 @@ button.destructive-action {
   color: #ffffff;
   outline-color: rgba(255, 255, 255, 0.5);
   background-color: #E50013;
-  border-color: #4c0006; }
+  border-color: #99000d; }
   popover.background.touch-selection button.destructive-action, popover.background.magnifier button.destructive-action,
   button.destructive-action {
     outline-color: rgba(146, 179, 114, 0.5);
@@ -727,7 +727,7 @@ button.destructive-action {
     color: #ffffff;
     outline-color: rgba(255, 255, 255, 0.5);
     background-color: #ff192c;
-    border-color: #7f000b; }
+    border-color: #cc0011; }
   popover.background.touch-selection button.destructive-action:active, popover.background.magnifier button.destructive-action:active, popover.background.touch-selection button.destructive-action:checked, popover.background.magnifier button.destructive-action:checked,
   button.destructive-action:active,
   button.destructive-action:checked {
@@ -737,7 +737,7 @@ button.destructive-action {
     color: #ffffff;
     outline-color: rgba(255, 255, 255, 0.5);
     background-color: #b2000f;
-    border-color: #190002; }
+    border-color: #660008; }
   
   button.destructive-action.flat:disabled {
     outline-color: rgba(146, 179, 114, 0.5);
@@ -938,7 +938,7 @@ windowcontrols list > row button:not(.flat).suggested-action {
   color: #ffffff;
   outline-color: rgba(255, 255, 255, 0.5);
   background-color: #18AA61;
-  border-color: #052415; }
+  border-color: #0f673b; }
 
 popover.menu box.circular-buttons button.destructive-action.circular.image-button.model, popover.menu box.circular-buttons windowcontrols button.destructive-action.circular.model, windowcontrols popover.menu box.circular-buttons button.destructive-action.circular.model,
 list > row button.image-button:not(.flat).destructive-action,
@@ -950,7 +950,7 @@ windowcontrols list > row button:not(.flat).destructive-action {
   color: #ffffff;
   outline-color: rgba(255, 255, 255, 0.5);
   background-color: #E50013;
-  border-color: #4c0006; }
+  border-color: #99000d; }
 
 button.link,
 link {
@@ -1411,7 +1411,7 @@ headerbar button.suggested-action {
   color: #ffffff;
   outline-color: rgba(255, 255, 255, 0.5);
   background-color: #18AA61;
-  border-color: #052415; }
+  border-color: #0f673b; }
   headerbar button.suggested-action.flat {
     outline-color: rgba(146, 179, 114, 0.5);
     outline-style: solid;
@@ -1427,7 +1427,7 @@ headerbar button.suggested-action {
     color: #ffffff;
     outline-color: rgba(255, 255, 255, 0.5);
     background-color: #1ed77b;
-    border-color: #0b512e; }
+    border-color: #159454; }
   headerbar button.suggested-action:active, headerbar button.suggested-action:checked {
     outline-color: rgba(146, 179, 114, 0.5);
     outline-style: solid;
@@ -1435,7 +1435,7 @@ headerbar button.suggested-action {
     color: #ffffff;
     outline-color: rgba(255, 255, 255, 0.5);
     background-color: #127d48;
-    border-color: black; }
+    border-color: #083a21; }
   headerbar button.suggested-action:disabled {
     outline-color: rgba(146, 179, 114, 0.5);
     outline-style: solid;
@@ -1455,7 +1455,7 @@ headerbar button.destructive-action {
   color: #ffffff;
   outline-color: rgba(255, 255, 255, 0.5);
   background-color: #E50013;
-  border-color: #4c0006; }
+  border-color: #99000d; }
   headerbar button.destructive-action.flat {
     outline-color: rgba(146, 179, 114, 0.5);
     outline-style: solid;
@@ -1471,7 +1471,7 @@ headerbar button.destructive-action {
     color: #ffffff;
     outline-color: rgba(255, 255, 255, 0.5);
     background-color: #ff192c;
-    border-color: #7f000b; }
+    border-color: #cc0011; }
   headerbar button.destructive-action:active, headerbar button.destructive-action:checked {
     outline-color: rgba(146, 179, 114, 0.5);
     outline-style: solid;
@@ -1479,7 +1479,7 @@ headerbar button.destructive-action {
     color: #ffffff;
     outline-color: rgba(255, 255, 255, 0.5);
     background-color: #b2000f;
-    border-color: #190002; }
+    border-color: #660008; }
   headerbar button.destructive-action:disabled {
     outline-color: rgba(146, 179, 114, 0.5);
     outline-style: solid;

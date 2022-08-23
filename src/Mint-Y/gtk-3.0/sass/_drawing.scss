@@ -281,7 +281,7 @@
     color: $selected_fg_color;
     outline-color: transparentize($selected_fg_color, 0.5);
     background-color: $actionb_color;
-    border-color: darken($actionb_color, 30%);
+    border-color: if($variant =='light', darken($actionb_color, 15%), darken($actionb_color, 30%));
   }
 
   @else if $t==undecorated {
