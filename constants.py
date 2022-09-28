@@ -14,20 +14,20 @@ Y_HEX_ACCENT2 = ["#8fa876"]  # DARK (You can't change these; sed uses them for s
 y_hex_colors1 = {}
 y_hex_colors2 = {}
 
+y_hex_colors1["MintSoda"] = "#55AA38"
+y_hex_colors2["MintSoda"] = "#55AA38"
+
 y_hex_colors1["MintGum"] = "#09A78D"
 y_hex_colors2["MintGum"] = "#009980"
-
-y_hex_colors1["BlueBelize"] = "#277CB7"
-y_hex_colors2["BlueBelize"] = "#2471A8"
 
 y_hex_colors1["Grey"] = "#767676"
 y_hex_colors2["Grey"] = "#767676"
 
-y_hex_colors1["Orange70s"] = "#E8602E"
-y_hex_colors2["Orange70s"] = "#E8602E"
-
 y_hex_colors1["Aqua"] = "#1F9EDE"
 y_hex_colors2["Aqua"] = "#1F9EDE"
+
+y_hex_colors1["BlueBelize"] = "#277CB7"
+y_hex_colors2["BlueBelize"] = "#2471A8"
 
 y_hex_colors1["BlueElectron"] = "#0C75DE"
 y_hex_colors2["BlueElectron"] = "#0B6BCB"
@@ -37,6 +37,9 @@ y_hex_colors2["Purple"] = "#8245A1"
 
 y_hex_colors1["Red"] = "#F20D20"
 y_hex_colors2["Red"] = "#E50012"
+
+y_hex_colors1["Orange70s"] = "#E8602E"
+y_hex_colors2["Orange70s"] = "#E8602E"
 
 y_hex_colors1["Orange"] = "#FF791A"
 y_hex_colors2["Orange"] = "#FF791A"
