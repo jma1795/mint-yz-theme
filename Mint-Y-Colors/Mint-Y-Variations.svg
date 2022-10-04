@@ -24,7 +24,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="960"
+     inkscape:cx="717.5"
      inkscape:cy="540"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -558,7 +558,7 @@
          height="180"
          width="180"
          id="rect8405"
-         style="fill:#55aa38;fill-opacity:1;stroke-width:0"
+         style="fill:#66b24d;fill-opacity:1;stroke-width:0"
          rx="10"
          ry="10" />
       <text
@@ -576,7 +576,7 @@
            y="361.51202"
            x="219.35201"
            sodipodi:role="line"
-           id="tspan8409">105,50,44 2.9/2.4</tspan></text>
+           id="tspan8409">105,40,50 2.6/2.4</tspan></text>
     </g>
     <g
        id="g944"
@@ -1104,24 +1104,24 @@
            id="tspan627">170,90,35 3.0/2.4</tspan></text>
     </g>
     <g
-       id="g1857"
+       id="g1139"
        transform="translate(1050,-50)">
       <rect
          y="240"
          x="200"
          height="180"
          width="180"
-         id="rect1849"
-         style="fill:#55aa38;fill-opacity:1;stroke-width:0"
+         id="rect1131"
+         style="fill:#66b24d;fill-opacity:1;stroke-width:0"
          rx="10"
          ry="10" />
       <text
-         id="text1855"
+         id="text1137"
          y="336.51202"
          x="219.35201"
          style="font-weight:bold;font-size:16px;line-height:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0"
          xml:space="preserve"><tspan
-           id="tspan1851"
+           id="tspan1133"
            style="font-size:24px;line-height:18px;fill:#ffffff;stroke-width:0"
            y="336.51202"
            x="219.35201"
@@ -1130,7 +1130,7 @@
            y="361.51202"
            x="219.35201"
            sodipodi:role="line"
-           id="tspan1853">105,50,44 2.9/2.4</tspan></text>
+           id="tspan1135">105,40,50 2.6/2.4</tspan></text>
     </g>
   </g>
 </svg>
