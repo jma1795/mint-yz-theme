@@ -24,7 +24,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="936"
+     inkscape:cx="907.5"
      inkscape:cy="540"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -1065,7 +1065,7 @@
          height="180"
          width="180"
          id="rect8405"
-         style="fill:#66b24d;fill-opacity:1;stroke-width:0"
+         style="fill:#3db884;fill-opacity:1;stroke-width:0"
          rx="10"
          ry="10" />
       <text
@@ -1083,7 +1083,7 @@
            y="361.51202"
            x="219.35201"
            sodipodi:role="line"
-           id="tspan8409">105,40,50 2.6/2.4</tspan></text>
+           id="tspan8409">155,50,48 2.5/2.4</tspan></text>
     </g>
   </g>
 </svg>

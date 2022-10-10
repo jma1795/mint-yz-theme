@@ -14,8 +14,8 @@ Y_HEX_ACCENT2 = ["#8fa876"]  # DARK (You can't change these; sed uses them for s
 y_hex_colors1 = {}
 y_hex_colors2 = {}
 
-y_hex_colors1["MintSoda"] = "#66B24D"
-y_hex_colors2["MintSoda"] = "#66B24D"
+y_hex_colors1["MintSoda"] = "#3DB884"
+y_hex_colors2["MintSoda"] = "#3BB07F"
 
 y_hex_colors1["MintGum"] = "#09A78D"
 y_hex_colors2["MintGum"] = "#009980"
