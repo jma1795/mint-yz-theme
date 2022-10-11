@@ -9,7 +9,7 @@
   -GtkDialog-button-spacing: 4;
   -GtkDialog-action-area-border: 6;
   outline-color: rgba(143, 168, 118, 0.5);
-  outline-style: solid;
+  outline-style: none;
   outline-offset: -3px;
   outline-width: 1px;
   -gtk-outline-radius: 4px; }
@@ -250,6 +250,7 @@ button {
   border-radius: 5px;
   padding: 5px 8px;
   outline-color: rgba(143, 168, 118, 0.5);
+  outline-style: solid;
   color: rgba(255, 255, 255, 0.87);
   outline-color: rgba(143, 168, 118, 0.5);
   border-color: #212121;
