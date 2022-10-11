@@ -20,9 +20,9 @@ $asset_suffix: if($variant=='dark', '-dark', ''); // use dark assets in dark var
   -GtkDialog-button-spacing: 4;
   -GtkDialog-action-area-border: 6;
 
-  // We use the outline properties to signal the focus properties
+  // We use the outline properties to signal the focus properties on buttons
   outline-color: transparentize($selected_bg_color, 0.5);
-  outline-style: solid;
+  outline-style: none; // outline-style: solid; for buttons... (look further down here...)
   outline-offset: -3px;
   outline-width: 1px;
   -gtk-outline-radius: 4px;
@@ -340,6 +340,7 @@ button {
   border-radius: 5px;
   padding: 5px 8px;
   outline-color: transparentize($button_active_bg, 0.5);
+  outline-style: solid;
 
   @include button(normal);
 
