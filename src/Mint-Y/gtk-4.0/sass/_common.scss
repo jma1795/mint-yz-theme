@@ -1118,14 +1118,14 @@ windowcontrols {
     }
 
     &.close {
-      &, &:hover, &:active, &:backdrop {
-        color: $wm_icon_close_bg;
-      }
+      color: $wm_icon_bg;
+      &:hover, &:active {color: $wm_icon_close_bg;}
+      &:backdrop {color: $wm_icon_unfocused_bg; }
       // @include draw_circle($selected_bg_color);
 
       &:hover { @include draw-circle($wm_button_close_hover_bg); }
       &:active { @include draw-circle($wm_button_close_active_bg); }
-      &:backdrop { @include draw-circle($_wm_backdrop_icon_color); }
+      // &:backdrop { @include draw-circle($_wm_backdrop_icon_color); }
     }
 
     &.maximize,
