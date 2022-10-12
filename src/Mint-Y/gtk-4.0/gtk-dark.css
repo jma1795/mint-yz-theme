@@ -821,7 +821,7 @@ button.circular {
     padding: 0; }
 
 .linked:not(.vertical) > dropdown > box > button.combo:dir(ltr), .linked:not(.vertical) > dropdown > box > button.combo:dir(rtl), .linked:not(.vertical) > combobox > box > button.combo:dir(ltr), .linked:not(.vertical) > combobox > box > button.combo:dir(rtl), headerbar .linked:not(.vertical) entry + button:last-child, headerbar stackswitcher.linked:not(.vertical):not(.path-bar) > button,
-headerbar .linked:not(.vertical).path-bar > button, spinbutton:not(.vertical) button, spinbutton:not(.vertical) text, spinbutton .linked:not(.vertical) > text, .linked:not(.vertical) > entry, popover.background.touch-selection .linked:not(.vertical) > button, popover.background.magnifier .linked:not(.vertical) > button, .linked:not(.vertical) > button, .linked:not(.vertical) > button:hover, .linked:not(.vertical) > button:active, .linked:not(.vertical) > button:checked {
+headerbar .linked.path-bar:not(.vertical) > button, spinbutton:not(.vertical) button, spinbutton:not(.vertical) text, spinbutton .linked:not(.vertical) > text, .linked:not(.vertical) > entry, popover.background.touch-selection .linked:not(.vertical) > button, popover.background.magnifier .linked:not(.vertical) > button, .linked:not(.vertical) > button, .linked:not(.vertical) > button:hover, .linked:not(.vertical) > button:active, .linked:not(.vertical) > button:checked {
   border-radius: 0;
   border-right-style: none; }
 
@@ -1159,14 +1159,16 @@ windowcontrols {
       background-position: center;
       background-repeat: no-repeat;
       border-width: 0; }
-    windowcontrols button.close, windowcontrols button.close:hover, windowcontrols button.close:active, windowcontrols button.close:backdrop {
-      color: #ffffff; }
-    windowcontrols button.close:hover {
-      background-image: radial-gradient(circle at 50%, #f20d1f, #f20d1f 65%, #232323 65%); }
-    windowcontrols button.close:active {
-      background-image: radial-gradient(circle at 50%, #ff791a, #ff791a 65%, #232323 65%); }
-    windowcontrols button.close:backdrop {
-      background-image: radial-gradient(circle at 50%, #606060, #606060 65%, #232323 65%); }
+    windowcontrols button.close {
+      color: rgba(255, 255, 255, 0.87); }
+      windowcontrols button.close:hover, windowcontrols button.close:active {
+        color: #ffffff; }
+      windowcontrols button.close:backdrop {
+        color: #606060; }
+      windowcontrols button.close:hover {
+        background-image: radial-gradient(circle at 50%, #f20d1f, #f20d1f 65%, #232323 65%); }
+      windowcontrols button.close:active {
+        background-image: radial-gradient(circle at 50%, #ff791a, #ff791a 65%, #232323 65%); }
     windowcontrols button.maximize:hover, windowcontrols button.maximize:hover:backdrop, windowcontrols button.minimize:hover, windowcontrols button.minimize:hover:backdrop {
       background-image: radial-gradient(circle at 50%, #4c4c4c, #4c4c4c 65%, #232323 65%); }
     windowcontrols button.maximize:active, windowcontrols button.maximize:active:backdrop, windowcontrols button.minimize:active, windowcontrols button.minimize:active:backdrop {
